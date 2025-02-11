@@ -12,25 +12,25 @@
 
 各[發行版](https://github.com/jack2game/rime-molong/releases)之間的區別同樣請見下表。含有`-chs`後綴的方案是簡體爲主、可以打出繁體字的方案；含有`-cht`後綴方案則相反，在此不再重複。
 
-| 發行版           | 音碼 `yy` | 形碼 `xx` | 額外音碼 `yY` | 備考         |
-| ------------- | ------- | ------- | --------- | ---------- |
-| `molong`      | 自然龍     | 自然龍     | -         |            |
-| `molongkai`   | 自然龍     | 魔然      | -         | 大竹查詢：`魔龙`  |
-| `molongmoqi`  | 自然龍     | 墨奇碼     | -         |            |
-| `morankai`    | 自然雙拼    | 魔然      | -         |            |
-| `xhloopfly`   | 環形鶴     | 小鶴雙形    | -         |            |
-| `xhloopkai`   | 環形鶴     | 魔然      | 小鶴雙拼      | 大竹查詢：`环形鹤` |
-| `xhloopmoqi`  | 環形鶴     | 墨奇碼     | 小鶴雙拼      |            |
-| `xhupkai`     | 小鶴雙拼    | 魔然      | -         |            |
-| `xhupmoqi`    | 小鶴雙拼    | 墨奇碼     | -         |            |
-| `xhupzrmfast` | 小鶴雙拼    | 自然快手    | -         |            |
-| `zrloopkai`   | 環形自然    | 魔然      | 自然雙拼      |            |
-| `zrloopmoqi`  | 環形自然    | 墨奇碼     | -         |            |
+| 發行版           | 音碼 `yy` | 形碼 `xx` | 額外音碼 `yY` |
+| ------------- | ------- | ------- | --------- |
+| `molong`      | 自然龍     | 自然龍     | -         |
+| `molongkai`   | 自然龍     | 魔然      | -         |
+| `molongmoqi`  | 自然龍     | 墨奇碼     | -         |
+| `morankai`    | 自然雙拼    | 魔然      | -         |
+| `xhloopfly`   | 環形鶴     | 小鶴雙形    | -         |
+| `xhloopkai`   | 環形鶴     | 魔然      | 小鶴雙拼      |
+| `xhloopmoqi`  | 環形鶴     | 墨奇碼     | 小鶴雙拼      |
+| `xhupkai`     | 小鶴雙拼    | 魔然      | -         |
+| `xhupmoqi`    | 小鶴雙拼    | 墨奇碼     | -         |
+| `xhupzrmfast` | 小鶴雙拼    | 自然快手    | -         |
+| `zrloopkai`   | 環形自然    | 魔然      | 自然雙拼      |
+| `zrloopmoqi`  | 環形自然    | 墨奇碼     | -         |
 
 
 ## 音碼方案
 ### ❶自然龍音碼
-![Molong_Page1](https://github.com/jack2game/rime-molong/assets/16070158/bc588c94-21cd-4868-99ac-1b459e9509e1)
+![Molong_Page1](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/jianwei.jpg)
 
 ### ❷環形鶴音碼
 ![Molong_Page2](https://github.com/jack2game/rime-molong/assets/16070158/747a0c49-e4bf-4a69-92ac-941e97e2c763)
@@ -52,7 +52,7 @@
 
 <summary>字根圖</summary>
 
-![moran](https://github.com/jack2game/rime-molong/assets/16070158/5a870436-d4e6-4b2e-a69a-1d9927294222)
+![zrlong](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/fuzhuma.jpg)
 （Credit：@更漏子 製圖）
 
 </details>
