@@ -123,8 +123,8 @@
 新	xh;jq	67907
 跟	ge;zg	65291
 别	bs;dl	65174
-学	xi;dz	64534
 学	xi;zb	64534
+学	xi;dz	64534
 哇	wl;kg	63856
 按	aj;fa	63808
 哎	ab;ka	63546
@@ -10554,7 +10554,6 @@
 黡	yo;ih	2
 黢	qh;hj	2
 黩	dl;hm	2
-黹	vg;sd	2
 黹	vg;yb	2
 鼒	zj;cd	2
 鼒	zj;dc	2
@@ -19762,7 +19761,6 @@
 叡	rf;yr	1
 叡	rf;yo	1
 叢	cj;yq	1
-叢	cj;sd	1
 叢	cj;yy	1
 古	gh;uk	1
 古	ka;uk	1
@@ -22293,12 +22291,12 @@
 孶	zj;zz	1
 孷	lb;wz	1
 孷	lb;zi	1
-學	xi;jz	1
 學	xi;zb	1
-學	ht;jz	1
+學	xi;jz	1
 學	ht;zb	1
-學	jl;jz	1
+學	ht;jz	1
 學	jl;zb	1
+學	jl;jz	1
 孹	bg;zx	1
 孻	nd;zj	1
 孼	nq;zx	1
@@ -31908,7 +31906,6 @@
 离	ij;wl	1
 禼	xq;bd	1
 禼	xq;br	1
-禼	xq;sd	1
 禿	ta;he	1
 秂	rs;hr	1
 秄	zg;hz	1
@@ -34098,11 +34095,8 @@
 胓	pn;op	1
 胓	pc;op	1
 胔	zt;rc	1
-胔	zt;sd	1
 胔	cb;rc	1
-胔	cb;sd	1
 胔	jb;rc	1
-胔	jb;sd	1
 胕	fm;of	1
 胕	fa;of	1
 胕	fl;of	1
@@ -43008,8 +43002,8 @@
 鵁	xm;nj	1
 鵂	xz;nx	1
 鵂	xz;rn	1
-鵃	vx;vn	1
-鵃	dl;vn	1
+鵃	vx;nv	1
+鵃	dl;nv	1
 鵄	ij;nv	1
 鵅	lp;ng	1
 鵅	ge;ng	1
@@ -43525,7 +43519,6 @@
 黶	yo;ih	1
 黷	dl;hm	1
 黸	ll;hl	1
-黹	xa;sd	1
 黹	xa;yb	1
 黺	fo;fb	1
 黺	fo;yf	1

@@ -2677,7 +2677,6 @@
 叡	rV;yr	77
 叡	rV;yo	77
 叢	cS;yq	1297
-叢	cS;sd	1297
 叢	cS;yy	1297
 口	kZ;aa	9737
 古	gU;uk	5275
@@ -5750,10 +5749,10 @@
 季	jI;hz	3162
 孤	gU;zg	1856
 孥	nU;zn	471
-学	xN;dz	0
 学	xN;zb	0
-学	xT;dz	0
+学	xN;dz	0
 学	xT;zb	0
+学	xT;dz	0
 孧	yZ;zy	0
 孨	nI;zz	394
 孨	vR;zz	394
@@ -5784,10 +5783,10 @@
 孶	zI;zz	302
 孷	lI;wz	210
 孷	lI;zi	210
-學	xN;jz	0
 學	xN;zb	0
-學	xT;jz	29808
+學	xN;jz	0
 學	xT;zb	29808
+學	xT;jz	29808
 孹	bI;zx	270
 孹	bO;zx	270
 孺	rU;zx	631
@@ -18031,7 +18030,6 @@
 离	lI;wl	130
 禼	xP;bd	0
 禼	xP;br	0
-禼	xP;sd	0
 禽	qB;rl	1049
 禾	hE;pd	1296
 禾	hE;pm	1296
@@ -20259,7 +20257,6 @@
 美	mW;yd	18573
 羏	yH;yp	367
 羐	yZ;aj	374
-羐	yZ;sd	374
 羑	yZ;yj	450
 羒	fF;yf	298
 羓	bA;yb	318
@@ -20772,7 +20769,6 @@
 胓	pG;op	220
 胓	pK;op	220
 胔	zI;rc	336
-胔	zI;sd	336
 胕	fU;of	352
 胖	pH;ob	5502
 胖	pJ;ob	36
@@ -31620,7 +31616,7 @@
 鵁	jN;nj	1
 鵂	xQ;nx	521
 鵂	xQ;rn	521
-鵃	vZ;vn	255
+鵃	vZ;nv	255
 鵄	iI;nv	285
 鵅	lO;ng	287
 鵆	hG;ni	259
@@ -32295,7 +32291,6 @@
 黶	yJ;ih	409
 黷	dU;hm	444
 黸	lU;hl	265
-黹	vI;sd	438
 黹	vI;yb	438
 黺	fF;fb	361
 黺	fF;yf	361

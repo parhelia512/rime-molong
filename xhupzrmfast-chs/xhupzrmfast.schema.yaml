@@ -1,7 +1,7 @@
 schema:
   schema_id: xhupzrmfast
   name: xhupzrmfast
-  version: "20241105"
+  version: "20250214"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -59,7 +59,6 @@ engine:
     - recognizer
     - speller
     - punctuator
-    - lua_processor@*moran_launcher     # 輸入 omorj 或 ogrwh 後回車打開魔然官網
     - selector
     - navigator
     - express_editor
@@ -68,6 +67,8 @@ engine:
     - matcher
     - matcher@recognizer_secondary
     - affix_segmentor@japanese_o
+    - affix_segmentor@force_trad
+    - affix_segmentor@force_simp
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -150,7 +151,7 @@ custom_phrase: # 自定義短語
   initial_quality: 1000
 
 english:
-  # tag: english  # librime>=0.12 方可取消註釋
+  tag: english  # librime<=1.11 請在 custom 中置空
   dictionary: moran_english
   prism: moran_english
   enable_completion: true
@@ -309,6 +310,14 @@ reverse_lookup:
     - reverse_zrlf
     - reverse_radical
     - reverse_bopomofo
+
+force_simp:
+  suffix: '/j'
+  tag: force_simp
+
+force_trad:
+  suffix: '/f'
+  tag: force_trad
 
 punctuator:
   import_preset: symbols

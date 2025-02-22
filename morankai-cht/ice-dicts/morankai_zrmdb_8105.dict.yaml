@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-02-03"
+version: "2025-02-09"
 sort: by_weight
 ...
 ### 按需启用
@@ -658,8 +658,8 @@ sort: by_weight
 猹	ia;qi	29
 蹅	ia;zi	27
 嵖	ia;ui	15
+𥻗	ia;mi	3
 喳	ia;ki	1
-𥻗	ia;mi	0
 拆	il;fi	99444
 柴	il;mc	61680
 釵	il;ji	18040
@@ -7118,7 +7118,7 @@ sort: by_weight
 譞	xr;yh	0
 鋗	xr;jo	0
 䮄	xr;mx	0
-學	xt;jz	2566533
+學	xt;zb	2566533
 血	xt;pa	933230
 雪	xt;yx	820388
 穴	xt;bb	98539
@@ -8276,7 +8276,7 @@ sort: by_weight
 縶	vi;sv	142
 埴	vi;tv	120
 軹	vi;iv	113
-黹	vi;sd	113
+黹	vi;yb	113
 躓	vi;zv	102
 忮	vi;xv	69
 晊	vi;ov	57
@@ -8337,7 +8337,7 @@ sort: by_weight
 酎	vb;yc	61
 輈	vb;iv	23
 賙	vb;bv	9
-鵃	vb;vn	3
+鵃	vb;nv	3
 葤	vb;cc	2
 婤	vb;nv	1
 㑳	vb;ri	0
