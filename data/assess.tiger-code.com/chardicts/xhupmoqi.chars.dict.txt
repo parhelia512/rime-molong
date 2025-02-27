@@ -26522,7 +26522,7 @@
 鿭	nI	0
 鿭	nP	0
 鿺	mD	0
-	pI	0
+䴙	pI;un	0
 郎	lH	0
 凉	lL	0
 秊	qM	0
@@ -27984,31 +27984,25 @@
 阝	pP;vl	0
 飠	pP;rg	0
 饣	pP;dl	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
-	pP	0
+⺈	pP	0
+⺋	pP	0
+龴	pP	0
+⺌	pP	0
+⺗	pP	0
+龵	pP;br	0
+龶	pP	0
+龷	pP	0
+⺧	pP	0
+𡗗	pP;sr	0
+⺻	pP	0
+龹	pP	0
+⻊	pP	0
+龺	pP	0
+𤇾	pP;hb	0
 兀	pP;ae	0
 𡭔	pP	0
 䒑	pP;ba	0
-龴	pP	0
-龶	pP	0
-龷	pP	0
 龸	pP	0
-龹	pP	0
-龺	pP	0
 龻	pP;xx	0
 㐄	pP;uv	0
 𠂉	pP	0
@@ -34510,7 +34504,6 @@
 䴖	jK;fn	0	# auto
 䴗	jU;on	0	# auto
 䴘	tI;in	0	# auto
-䴙	pI;un	0	# auto
 䴚	gH;vj	0	# auto
 䴛	xN;vo	0	# auto
 䴜	wD;vg	0	# auto

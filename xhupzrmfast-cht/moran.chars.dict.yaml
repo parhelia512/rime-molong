@@ -26545,7 +26545,7 @@ use_preset_vocabulary: false
 鿭	ni	0
 鿭	np	0
 鿺	md	0
-	pi	0
+䴙	pi	0
 郎	lh	0
 凉	ll	0
 秊	qm	0
@@ -28007,31 +28007,25 @@ use_preset_vocabulary: false
 阝	pp	0
 飠	pp	0
 饣	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
-	pp	0
+⺈	pp	0
+⺋	pp	0
+龴	pp	0
+⺌	pp	0
+⺗	pp	0
+龵	pp	0
+龶	pp	0
+龷	pp	0
+⺧	pp	0
+𡗗	pp	0
+⺻	pp	0
+龹	pp	0
+⻊	pp	0
+龺	pp	0
+𤇾	pp	0
 兀	pp;he	0
 𡭔	pp	0
 䒑	pp	0
-龴	pp	0
-龶	pp	0
-龷	pp	0
 龸	pp	0
-龹	pp	0
-龺	pp	0
 龻	pp	0
 㐄	pp	0
 𠂉	pp	0
@@ -34533,7 +34527,6 @@ use_preset_vocabulary: false
 䴖	jk	0	# auto
 䴗	ju	0	# auto
 䴘	ti	0	# auto
-䴙	pi	0	# auto
 䴚	gh	0	# auto
 䴛	xn	0	# auto
 䴜	wd	0	# auto

@@ -9058,6 +9058,7 @@
 䴗	jb;in	2
 䴘	ti;ns	2
 䴙	pu;nb	2
+䴙	pu;nx	2
 万	mi;ag	2
 万	mi;ap	2
 上	uk;aa	2
@@ -43896,27 +43897,26 @@
 	vu	0
 	vv	0
 	vu	0
-	jc;ee	0
-	jx;ee	0
+	jc	0
+	jx	0
 	wl	0
 	hl	0
 	hl	0
 	vv	0
 	vv	0
-	um;kj	0
-	um;ub	0
+	um	0
 	gh	0
 	ki	0
 	sf	0
 	sf	0
-	fg;fg	0
-	ga;ck	0
+	fg	0
+	ga	0
 	gh	0
 	hc	0
 	kc	0
 	tl	0
-	jm;nq	0
-	en;fg	0
+	jm	0
+	en	0
 	xb	0
 	ln	0
 	lb	0
@@ -43943,7 +43943,7 @@
 	hc	0
 	kc	0
 	hc	0
-	jy;jr	0
+	jy	0
 	xn	0
 	yh	0
 	qu	0
@@ -43960,8 +43960,8 @@
 	vf	0
 	it	0
 	vf	0
-	vp;ji	0
-	yu;yy	0
+	vp	0
+	yu	0
 	yb	0
 	yb	0
 	ip	0
@@ -43974,8 +43974,7 @@
 	jy	0
 	jb	0
 	ti	0
-	pu;nb	0
-	pu;nx	0
+	pu	0
 	yl	0
 	lt	0
 𠀀	he	0
@@ -46132,6 +46131,7 @@
 𡗑	rm;vx	0
 𡗑	rm;ux	0
 𡗑	rm;xx	0
+𡗗	pj;fg	0
 𡗗	pj;sr	0
 𡗞	xi;dy	0
 𡗞	xi;yd	0
@@ -51026,6 +51026,7 @@
 𤇳	xr;hx	0
 𤇴	yo;ih	0
 𤇴	xi;ih	0
+𤇾	yu;yy	0
 𤇾	yu;yb	0
 𤇾	yu;hb	0
 𤈔	io;th	0
@@ -66164,6 +66165,7 @@
 𫏇	ga;zg	0
 𫝪	ga;ng	0
 熕	ga;hg	0
+龷	ga;ck	0
 龷	ga;nm	0
 𠬞	gf;jy	0
 𪭍	gf;gg	0
@@ -68594,6 +68596,8 @@
 扌	um;fu	0
 扌	um;ti	0
 龵	um;pp	0
+龵	um;kj	0
+龵	um;ub	0
 䭭	ui;uy	0
 䭭	uy;uy	0
 䭭	ty;uy	0
@@ -69545,6 +69549,7 @@
 㴄	yu;dy	0
 㼆	yu;wy	0
 䪯	yu;yy	0
+𤇾	yt;yy	0
 𤇾	yt;yb	0
 𤇾	yt;hb	0
 𧭭	yt;yv	0
@@ -69973,6 +69978,7 @@
 𪟣	vp;kl	0
 𪟣	vp;lc	0
 蠿	vp;iy	0
+龺	vp;ji	0
 龺	vp;uz	0
 梲	vo;md	0
 鐯	vo;jv	0
@@ -71085,23 +71091,22 @@
 飠	op;rl
 飠	op;ui
 饣	op;ui
-	op;yi
-	op;dk
-	op;ee
-	op;si
-	op;xc
-	op;xn
-	op;kj
-	op;ub
-	op;fg
-	op;ck
-	op;nq
-	op;fg
-	op;yv
-	op;jr
-	op;zu
-	op;ji
-	op;yy
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
 兀	op;ae
 兀	op;ag
 兀	op;wu
@@ -71110,10 +71115,13 @@
 䒑	op;qm
 䒑	op;ba
 龴	op;si
+龶	op;fg
 龶	op;qy
+龷	op;ck
 龷	op;nm
 龸	op;ih
 龹	op;jr
+龺	op;ji
 龺	op;uz
 龻	op;lm
 㐄	op;aa

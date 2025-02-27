@@ -9074,6 +9074,7 @@ use_preset_vocabulary: false
 䴗	jm;in	2
 䴘	tj;ns	2
 䴙	pt;nb	2
+䴙	pt;nx	2
 万	mg;ag	2
 万	mg;ap	2
 上	up;aa	2
@@ -43794,27 +43795,26 @@ use_preset_vocabulary: false
 	va	0
 	vr	0
 	va	0
-	js;ee	0
-	jk;ee	0
+	js	0
+	jk	0
 	wb	0
 	ho	0
 	ho	0
 	vr	0
 	vr	0
-	uz;kj	0
-	uz;ub	0
+	uz	0
 	gu	0
 	kp	0
 	sn	0
 	sn	0
-	fc;fg	0
-	gy;ck	0
+	fc	0
+	gy	0
 	gu	0
 	hf	0
 	kf	0
 	ti	0
-	jr;nq	0
-	ee;fg	0
+	jr	0
+	ee	0
 	xl	0
 	la	0
 	lm	0
@@ -43839,7 +43839,7 @@ use_preset_vocabulary: false
 	hf	0
 	kf	0
 	hf	0
-	js;jr	0
+	js	0
 	xh	0
 	yj	0
 	qn	0
@@ -43856,8 +43856,8 @@ use_preset_vocabulary: false
 	vf	0
 	if	0
 	vf	0
-	vl;ji	0
-	yn;yy	0
+	vl	0
+	yn	0
 	ym	0
 	yv	0
 	ig	0
@@ -43870,8 +43870,7 @@ use_preset_vocabulary: false
 	je	0
 	jm	0
 	tj	0
-	pt;nb	0
-	pt;nx	0
+	pt	0
 	yo	0
 	lo	0
 𠀀	hr	0
@@ -46025,6 +46024,7 @@ use_preset_vocabulary: false
 𡗑	rz;vx	0
 𡗑	rz;ux	0
 𡗑	rz;xx	0
+𡗗	py;fg	0
 𡗗	py;sr	0
 𡗞	xj;dy	0
 𡗞	xj;yd	0
@@ -50916,6 +50916,7 @@ use_preset_vocabulary: false
 𤇳	xd;hx	0
 𤇴	yb;ih	0
 𤇴	xj;ih	0
+𤇾	yn;yy	0
 𤇾	yn;yb	0
 𤇾	yn;hb	0
 𤈔	ib;th	0
@@ -66039,6 +66040,7 @@ use_preset_vocabulary: false
 𫏇	gy;zg	0
 𫝪	gy;ng	0
 熕	gy;hg	0
+龷	gy;ck	0
 龷	gy;nm	0
 𠬞	gn;jy	0
 𪭍	gn;gg	0
@@ -68468,6 +68470,8 @@ use_preset_vocabulary: false
 扌	uz;fu	0
 扌	uz;ti	0
 龵	uz;pp	0
+龵	uz;kj	0
+龵	uz;ub	0
 䭭	ul;uy	0
 䭭	uh;uy	0
 䭭	th;uy	0
@@ -69414,6 +69418,7 @@ use_preset_vocabulary: false
 𫞰	yn;nm	0
 㼆	yn;wy	0
 䪯	yn;yy	0
+𤇾	yw;yy	0
 𤇾	yw;yb	0
 𤇾	yw;hb	0
 𧭭	yw;yv	0
@@ -69848,6 +69853,7 @@ use_preset_vocabulary: false
 𪟣	vl;kl	0
 𪟣	vl;lc	0
 蠿	vl;iy	0
+龺	vl;ji	0
 龺	vl;uz	0
 梲	vs;md	0
 鐯	vs;jv	0
@@ -70939,23 +70945,22 @@ use_preset_vocabulary: false
 飠	op;rl
 飠	op;ui
 饣	op;ui
-	op;yi
-	op;dk
-	op;ee
-	op;si
-	op;xc
-	op;xn
-	op;kj
-	op;ub
-	op;fg
-	op;ck
-	op;nq
-	op;fg
-	op;yv
-	op;jr
-	op;zu
-	op;ji
-	op;yy
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
+	op
 兀	op;ae
 兀	op;ag
 兀	op;wu
@@ -70964,10 +70969,13 @@ use_preset_vocabulary: false
 䒑	op;qm
 䒑	op;ba
 龴	op;si
+龶	op;fg
 龶	op;qy
+龷	op;ck
 龷	op;nm
 龸	op;ih
 龹	op;jr
+龺	op;ji
 龺	op;uz
 龻	op;lm
 㐄	op;aa
