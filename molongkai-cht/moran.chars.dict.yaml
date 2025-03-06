@@ -3780,6 +3780,7 @@ use_preset_vocabulary: false
 埵	dl;ti	95
 怔	vf;xv	94
 疏	ua;pi	94
+疏	ua;ai	94
 疏	ua;ag	94
 疏	ua;vg	94
 疏	ua;vi	94
@@ -41478,10 +41479,10 @@ use_preset_vocabulary: false
 項	xe;gy	1
 項	xe;yg	1
 順	ur;yi	1
-頇	hn;gy	1
 頇	hn;yg	1
-頇	aj;gy	1
+頇	hn;gy	1
 頇	aj;yg	1
+頇	aj;gy	1
 須	xh;py	1
 須	xh;yp	1
 頉	yb;vy	1
@@ -43928,6 +43929,7 @@ use_preset_vocabulary: false
 𠂟	jh;pq	0
 𠂢	po;pp	0
 𠂤	dt;vv	0
+𠂤	dt;pk	0
 𠂥	cj;pc	0
 𠂧	uo;ps	0
 𠂸	hb;pc	0
@@ -70804,6 +70806,7 @@ use_preset_vocabulary: false
 乛	op;av
 乛	op;ve
 𠂤	op;vv
+𠂤	op;pk
 亅	op;aa
 亅	op;au
 亅	op;uu

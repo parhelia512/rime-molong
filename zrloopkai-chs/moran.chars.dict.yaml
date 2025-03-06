@@ -3782,6 +3782,7 @@ use_preset_vocabulary: false
 埵	dq;ti	95
 怔	vf;xv	94
 疏	uu;pi	94
+疏	uu;ai	94
 疏	uu;ag	94
 疏	uu;vg	94
 疏	uu;vi	94
@@ -41600,10 +41601,10 @@ use_preset_vocabulary: false
 項	xs;gy	1
 項	xs;yg	1
 順	uo;yi	1
-頇	hj;gy	1
 頇	hj;yg	1
-頇	ab;gy	1
+頇	hj;gy	1
 頇	ab;yg	1
+頇	ab;gy	1
 須	xv;py	1
 須	xv;yp	1
 頉	yo;vy	1
@@ -44055,6 +44056,7 @@ use_preset_vocabulary: false
 𠂟	jn;pq	0
 𠂢	pk;pp	0
 𠂤	dv;vv	0
+𠂤	dv;pk	0
 𠂥	cd;pc	0
 𠂧	ud;ps	0
 𠂸	hf;pc	0
@@ -70973,6 +70975,7 @@ use_preset_vocabulary: false
 乛	op;av
 乛	op;ve
 𠂤	op;vv
+𠂤	op;pk
 亅	op;aa
 亅	op;au
 亅	op;uu
@@ -71893,6 +71896,7 @@ use_preset_vocabulary: false
 伜	cV;ru	283
 伜	cV;rz	283
 伝	iR;ry	595
+伝	vR;ry	595
 伝	yP;ry	595
 伞	sJ;ru	0
 伟	wZ;rw	0
@@ -87316,6 +87320,7 @@ use_preset_vocabulary: false
 甏	pG;wp	524
 甐	lN;wl	205
 甑	zG;wc	634
+甑	jY;wc	634
 甒	wU;ww	310
 甓	pI;wb	519
 甓	pI;wx	519
@@ -87561,6 +87566,7 @@ use_preset_vocabulary: false
 疎	uU;up	387
 疎	uU;uv	387
 疏	sU;pi	0
+疏	sU;ai	0
 疏	sU;ag	0
 疏	sU;vg	0
 疏	sU;vi	0
@@ -100918,10 +100924,10 @@ use_preset_vocabulary: false
 項	xD;gy	5558
 項	xD;yg	5558
 順	uP;yi	3868
-頇	gJ;gy	398
 頇	gJ;yg	398
-頇	hJ;gy	398
+頇	gJ;gy	398
 頇	hJ;yg	398
+頇	hJ;gy	398
 須	xU;py	6361
 須	xU;yp	6361
 頉	yI;vy	329
@@ -101285,6 +101291,7 @@ use_preset_vocabulary: false
 餂	tM;uu	354
 餃	jC;uj	716
 餄	hE;uh	469
+餄	hO;uh	469
 餄	jW;uh	469
 餅	bY;ub	2064
 餆	yK;uv	282
@@ -101299,6 +101306,7 @@ use_preset_vocabulary: false
 餍	yJ;iu	0
 餍	yJ;uy	0
 餎	lE;ug	465
+餎	lO;ug	465
 餏	xI;uy	197
 餐	cJ;uy	2071
 餑	bO;ub	524
@@ -101448,6 +101456,8 @@ use_preset_vocabulary: false
 饷	xD;ux	0
 饸	hE;uh	0
 饹	lE;ug	0
+饸	hO;uh	0
+饹	lO;ug	0
 饺	jC;uj	0
 饻	xI;uy	0
 饼	bY;ub	0
@@ -105234,7 +105244,7 @@ use_preset_vocabulary: false
 廾	pP;ck	0
 廿	pP;ck	0
 弋	pP;yi	0
-彐	pP;xt	0
+𫜹	pP;xt	0
 彑	pP;ji	0
 彡	pP;px	0
 彳	pP;rf	0
@@ -145075,6 +145085,7 @@ use_preset_vocabulary: false
 𠮱	yU;kk	0	# auto
 𠮲	xU;kk	0	# auto
 𠮲	yU;kk	0	# auto
+𠮺	kB;kd	0	# auto
 𠮺	kB;kp	0	# auto
 𠯁	zU;kb	0	# auto
 𠯊	xU;ky	0	# auto
@@ -190846,9 +190857,9 @@ use_preset_vocabulary: false
 嚌	vL;kq	0
 尐	jX;xd	0
 屰	jI;qc	0
-彐	xT;aa	0
-彐	xT;vh	0
-彐	xT;xt	0
+𫜹	xT;aa	0
+𫜹	xT;vh	0
+𫜹	xT;xt	0
 懠	jI;xq	0
 撽	yK;fj	0
 撽	yK;fw	0
@@ -193037,6 +193048,9 @@ use_preset_vocabulary: false
 # 手工增補
 𩚨	kQ;uq	1
 𱹀	kQ;uj	0
+𠂤	dV;pk	0
+𠂤	uI;pk	0
+𠂤	vV;pk	0
 
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉

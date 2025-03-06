@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-02-21"
+version: "2025-03-06"
 sort: by_weight
 ...
 ### 按需启用
@@ -1170,6 +1170,7 @@ sort: by_weight
 憚	dj;;	16732
 石	dj;ek	14278
 眈	dj;mg	12773
+丼	dj;;	9000
 澹	dj;dd	6736
 撣	dj;;	4870
 鄲	dj;;	4714
@@ -2718,6 +2719,7 @@ sort: by_weight
 惎	ji;;	2
 期	ji;qo	1
 魢	ji;;	1
+鰶	ji;;	1
 㴔	ji;;	0
 堲	ji;;	0
 徛	ji;;	0
@@ -2729,7 +2731,6 @@ sort: by_weight
 錤	ji;;	0
 隮	ji;;	0
 鱀	ji;;	0
-鰶	ji;;	0
 家	jx;gu	4546765
 加	jx;lk	1329722
 價	jx;;	384863
@@ -6452,6 +6453,7 @@ sort: by_weight
 維	ww;;	369458
 危	ww;de	279881
 委	ww;hn	274305
+胃	ww;to	253113
 偉	ww;;	242973
 謂	ww;;	235703
 唯	ww;kv	217658
@@ -6466,7 +6468,6 @@ sort: by_weight
 畏	ww;th	70481
 僞	ww;;	66990
 尉	ww;uc	62071
-胃	ww;to	53113
 巍	ww;uh	20904
 蔚	ww;cu	20152
 偎	ww;rt	18007

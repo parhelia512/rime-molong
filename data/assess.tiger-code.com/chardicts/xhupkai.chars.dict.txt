@@ -738,6 +738,7 @@
 伜	cV;ru	283
 伜	cV;rz	283
 伝	iR;ry	595
+伝	vR;ry	595
 伝	yY;ry	595
 伞	sJ;ru	0
 伟	wW;rw	0
@@ -16161,6 +16162,7 @@
 甏	pG;wp	524
 甐	lB;wl	205
 甑	zG;wc	634
+甑	jK;wc	634
 甒	wU;ww	310
 甓	pI;wb	519
 甓	pI;wx	519
@@ -16406,6 +16408,7 @@
 疎	uU;up	387
 疎	uU;uv	387
 疏	sU;pi	0
+疏	sU;ai	0
 疏	sU;ag	0
 疏	sU;vg	0
 疏	sU;vi	0
@@ -29763,10 +29766,10 @@
 項	xL;gy	5558
 項	xL;yg	5558
 順	uY;yi	3868
-頇	gJ;gy	398
 頇	gJ;yg	398
-頇	hJ;gy	398
+頇	gJ;gy	398
 頇	hJ;yg	398
+頇	hJ;gy	398
 須	xU;py	6361
 須	xU;yp	6361
 頉	yI;vy	329
@@ -30130,6 +30133,7 @@
 餂	tM;uu	354
 餃	jN;uj	716
 餄	hE;uh	469
+餄	hO;uh	469
 餄	jX;uh	469
 餅	bK;ub	2064
 餆	yC;uv	282
@@ -30144,6 +30148,7 @@
 餍	yJ;iu	0
 餍	yJ;uy	0
 餎	lE;ug	465
+餎	lO;ug	465
 餏	xI;uy	197
 餐	cJ;uy	2071
 餑	bO;ub	524
@@ -30293,6 +30298,8 @@
 饷	xL;ux	0
 饸	hE;uh	0
 饹	lE;ug	0
+饸	hO;uh	0
+饹	lO;ug	0
 饺	jN;uj	0
 饻	xI;uy	0
 饼	bK;ub	0
@@ -34079,7 +34086,7 @@
 廾	pP;ck	0
 廿	pP;ck	0
 弋	pP;yi	0
-彐	pP;xt	0
+𫜹	pP;xt	0
 彑	pP;ji	0
 彡	pP;px	0
 彳	pP;rf	0
@@ -73920,6 +73927,7 @@
 𠮱	yU;kk	0	# auto
 𠮲	xU;kk	0	# auto
 𠮲	yU;kk	0	# auto
+𠮺	kZ;kd	0	# auto
 𠮺	kZ;kp	0	# auto
 𠯁	zU;kb	0	# auto
 𠯊	xU;ky	0	# auto
@@ -119691,9 +119699,9 @@
 嚌	vD;kq	0
 尐	jP;xd	0
 屰	jI;qc	0
-彐	xT;aa	0
-彐	xT;vh	0
-彐	xT;xt	0
+𫜹	xT;aa	0
+𫜹	xT;vh	0
+𫜹	xT;xt	0
 懠	jI;xq	0
 撽	yC;fj	0
 撽	yC;fw	0
@@ -121882,6 +121890,9 @@
 # 手工增補
 𩚨	kQ;uq	1
 𱹀	kQ;uj	0
+𠂤	dV;pk	0
+𠂤	uI;pk	0
+𠂤	vV;pk	0
 
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉

@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-01-08"
+version: "2025-03-06"
 sort: by_weight
 ...
 ##### 容错词
@@ -325,6 +325,20 @@ sort: by_weight
 椎心泣血	vv;mv xb;dd qi;dl xp;pm
 椎心泣血	iv;mv xb;dd qi;dl xt;pm
 椎心泣血	vv;mv xb;dd qi;dl xt;pm
+挟持	xp;fj ii;fc
+挟持	xx;fj ii;fc
+亳州	bo;wq vz;dl
+亳州	hc;wq vz;dl
+牛丼	nq;pu dj;jd
+牛丼	nq;pu jk;jd
+牛丼饭	nq;pu dj;jd fj;uy
+牛丼饭	nq;pu jk;jd fj;uy
+安瓿	an;bn bu;lw
+安瓿	an;bn pz;lw
+安瓿瓶	an;bn bu;lw pk;bw
+安瓿瓶	an;bn pz;lw pk;bw
+金匮	jb;rb gv;kb
+金匮	jb;rb kv;kb
 ### 错字
 曾经	cg;bo jk;sj
 曾今	cg;bo jb;rv

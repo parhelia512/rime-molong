@@ -568,6 +568,7 @@ use_preset_vocabulary: false
 伛	yu;rk	0
 伜	cv	283
 伝	ir	595
+伝	vr	595
 伝	yy	595
 伞	sj;rb	0
 伟	ww;rw	0
@@ -13032,6 +13033,7 @@ use_preset_vocabulary: false
 甏	pg;uw	524
 甐	lb	205
 甑	zg;bw	634
+甑	jk;bw	634
 甒	wu	310
 甓	pi;uw	519
 甔	dj	258
@@ -24500,6 +24502,7 @@ use_preset_vocabulary: false
 餂	tm	354
 餃	jn	716
 餄	he	469
+餄	ho	469
 餄	jx	469
 餅	bk	2064
 餆	yc	282
@@ -24511,6 +24514,7 @@ use_preset_vocabulary: false
 餌	er	825
 餍	yj;ir	0
 餎	le	465
+餎	lo	465
 餏	xi	197
 餐	cj;br	2071
 餑	bo	524
@@ -24637,6 +24641,8 @@ use_preset_vocabulary: false
 饷	xl;up	0
 饸	he;ur	0
 饹	le;uw	0
+饸	ho;ur	0
+饹	lo;uw	0
 饺	jn;ul	0
 饻	xi	0
 饼	bk;ub	0
@@ -27964,7 +27970,7 @@ use_preset_vocabulary: false
 廾	pp;hp	0
 廿	pp;ch	0
 弋	pp;qd	0
-彐	pp;vh	0
+𫜹	pp	0
 彑	pp;vv	0
 彡	pp	0
 彳	pp	0
@@ -99265,7 +99271,7 @@ use_preset_vocabulary: false
 嚌	vd	0
 尐	jp	0
 屰	ji;bc	0
-彐	xt;vh	0
+𫜹	xt	0
 懠	ji	0
 撽	yc	0
 撽	ji	0
@@ -101208,4 +101214,6 @@ use_preset_vocabulary: false
 穝	zo	0
 𩚨	kq	1
 𱹀	kq	0
+𠂤	ui	0
+𠂤	vv	0
 #𱍒	dd	0	# auto
