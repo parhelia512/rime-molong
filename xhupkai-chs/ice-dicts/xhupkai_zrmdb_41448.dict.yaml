@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-02-02"
+version: "2025-05-10"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -48,7 +48,7 @@ sort: by_weight
 㘷	ai;ta
 㝶	ai;cs
 㢊	ai;gq
-㤅	ai;xj
+㤅	ai;xw
 㱯	ai;dq
 㿄	ai;by
 䀳	ai;ou
@@ -120,6 +120,7 @@ sort: by_weight
 霭	ai;yh
 餲	ai;uh
 馤	ai;xh
+𫘤	ai;my
 鱫	ai;ya
 鴱	ai;na
 𠊎	ai;ry
@@ -400,6 +401,7 @@ sort: by_weight
 鳌	ao;ya
 𪉑	ao;an
 鼇	ao;ma
+鿫	ao;qa
 𡊛	ao;tq
 𡏼	ao;ta
 𡒃	ao;at
@@ -512,7 +514,7 @@ sort: by_weight
 鲌	ba;yb
 鼥	ba;ub
 𠐌	ba;rb
-𠛋	ba;bd
+𠛋	ba;db
 𠵺	ba;kb
 𡚭	ba;nb
 𢃳	ba;vb
@@ -588,7 +590,7 @@ sort: by_weight
 薭	bd;cb
 贁	bd;bw
 𫖔	bd;wy
-𠟻	bd;bd
+𠟻	bd;db
 𠫛	bd;ss
 𠮠	bd;kg
 𡏯	bd;tb
@@ -663,7 +665,7 @@ sort: by_weight
 魬	bj;yf
 鳻	bj;nf
 𠔯	bj;bp
-𠚼	bj;fd
+𠚼	bj;df
 𠦒	bj;uy
 𠧫	bj;bw
 𠯘	bj;kf
@@ -1101,7 +1103,7 @@ sort: by_weight
 镚	bg;jb
 𨸂	bg;mf
 鞛	bg;gk
-𠜳	bg;pd
+𠜳	bg;dp
 𠡮	bg;lp
 𡎾	bg;tp
 𡡈	bg;nb
@@ -1371,7 +1373,7 @@ sort: by_weight
 𠋯	bi;ry
 𠐌	bi;rb
 𠓷	bi;ru
-𠛡	bi;bd
+𠛡	bi;db
 𠡂	bi;lf
 𠦈	bi;uj
 𠧅	bi;gb
@@ -1878,9 +1880,9 @@ sort: by_weight
 鮩	bk;yb
 𠊧	bk;rb
 𠒝	bk;gb
-𠛥	bk;bd
+𠛥	bk;db
 𠱛	bk;dj
-𡇤	bk;kg
+𡇤	bk;bg
 𡖛	bk;xj
 𡚛	bk;dt
 𡲍	bk;uy
@@ -2228,7 +2230,7 @@ sort: by_weight
 鸔	bu;nb
 𠘁	bu;db
 𠚉	bu;kh
-𠜙	bu;fd
+𠜙	bu;df
 𡡐	bu;np
 𢁻	bu;jb
 𢇴	bu;gb
@@ -2388,7 +2390,7 @@ sort: by_weight
 餐	cj;uy
 骖	cj;mc
 黪	cj;hc
-𠠋	cj;cz
+𠠋	cj;bd
 𠡡	cj;lc
 𠫭	cj;st
 𡆮	cj;kt
@@ -2591,7 +2593,7 @@ sort: by_weight
 竲	cg;lc
 蹭	cg;zc
 𫘯	cg;mc
-𠟂	cg;cd
+𠟂	cg;dc
 𡃆	cg;kc
 𡪠	cg;bc
 𡾓	cg;uc
@@ -2672,8 +2674,8 @@ sort: by_weight
 镲	ia;ji
 靫	ia;gi
 馇	ia;ui
-𠝞	ia;id
-𠞊	ia;id
+𠝞	ia;di
+𠞊	ia;di
 𠽹	ia;ky
 𡋨	ia;tv
 𡌚	ia;tz
@@ -2755,7 +2757,7 @@ sort: by_weight
 訍	id;yi
 豺	id;vc
 钗	id;ji
-𠞊	id;id
+𠞊	id;di
 𡟭	id;nx
 𡺵	id;ui
 𢹓	id;fv
@@ -2902,7 +2904,7 @@ sort: by_weight
 𠑆	ij;rj
 𠑑	ij;ry
 𠑡	ij;ru
-𠟉	ij;cd
+𠟉	ij;dc
 𠣄	ij;li
 𠹖	ij;kv
 𡍌	ij;tj
@@ -3708,10 +3710,10 @@ sort: by_weight
 黐	ii;hl
 齿	ii;vk
 齝	ii;it
-𠛔	ii;zd
+𠛔	ii;dz
 𠝨	ii;xu
-𠞄	ii;sd
-𠞩	ii;ld
+𠞄	ii;ds
+𠞩	ii;dl
 𠧚	ii;bq
 𠧵	ii;id
 𠩺	ii;iw
@@ -3873,8 +3875,8 @@ sort: by_weight
 隀	is;ev
 𠑙	is;ri
 𠖥	is;bl
-𠝤	is;vd
-𠟍	is;td
+𠝤	is;dv
+𠟍	is;dt
 𡿂	is;ul
 𢖄	is;xw
 𢛒	is;xs
@@ -3992,7 +3994,7 @@ sort: by_weight
 魗	iz;gu
 鮘	iz;yd
 𠌪	iz;or
-𠜋	iz;rd
+𠜋	iz;di
 𠝽	iz;do
 𠷎	iz;gk
 𠹝	iz;ko
@@ -4322,7 +4324,7 @@ sort: by_weight
 窻	il;xx
 闯	il;mm
 𠏨	il;ri
-𠞮	il;ud
+𠞮	il;du
 𠳹	il;ki
 𡆪	il;kn
 𡻯	il;uu
@@ -4838,7 +4840,7 @@ sort: by_weight
 麤	cu;ll
 鼀	cu;mb
 𠑯	cu;ry
-𠛙	cu;bd
+𠛙	cu;db
 𠱙	cu;ku
 𠴫	cu;ku
 𡄱	cu;kc
@@ -4976,7 +4978,7 @@ sort: by_weight
 顇	cv;yz
 𠗚	cv;dz
 𠞿	cv;sd
-𠟓	cv;zd
+𠟓	cv;dz
 𠩪	cv;ic
 𠽶	cv;kc
 𢂕	cv;jw
@@ -5175,7 +5177,7 @@ sort: by_weight
 龖	da;ll
 龘	da;ll
 𠉤	da;rt
-𠞈	da;td
+𠞈	da;dt
 𠶫	da;ki
 𠹥	da;kt
 𡈐	da;kd
@@ -5424,6 +5426,7 @@ sort: by_weight
 黕	dj;hg
 黮	dj;hu
 黵	dj;hv
+鿕	dj;yd
 𠆛	dj;wd
 𠆶	dj;ry
 𠇋	dj;rj
@@ -5912,7 +5915,7 @@ sort: by_weight
 𠐑	di;rb
 𠒿	di;gd
 𠕳	di;br
-𠚭	di;ud
+𠚭	di;du
 𠥖	di;kd
 𠨿	di;iu
 𠫜	di;sl
@@ -6160,7 +6163,7 @@ sort: by_weight
 𠄏	dn;aa
 𠚥	dn;dd
 𠚻	dn;rd
-𠛪	dn;vd
+𠛪	dn;dv
 𠤼	dn;ky
 𠥑	dn;kt
 𠶰	dn;kt
@@ -7266,7 +7269,7 @@ sort: by_weight
 𢨡	ee;gh
 𢼚	ee;hw
 𢼛	ee;wg
-𣄰	ee;jk
+𣄰	ee;wk
 𣘨	ee;me
 𣢛	ee;qy
 𣤲	ee;qe
@@ -7941,7 +7944,7 @@ sort: by_weight
 鲼	ff;yb
 鳻	ff;nf
 黂	ff;mb
-黺	ff;fb
+黺	ff;yf
 鼖	ff;gh
 鼢	ff;uf
 𠛸	ff;vf
@@ -8066,7 +8069,7 @@ sort: by_weight
 靊	fg;yd
 风	fg;ji
 飌	fg;fv
-鳯	fg;jn
+鳯	fg;nj
 鴌	fg;nt
 𫜑	fg;mf
 𡉚	fg;ty
@@ -8418,12 +8421,12 @@ sort: by_weight
 麸	fu;mf
 𤿲	fu;mp
 麱	fu;mf
-黻	fu;bb
-黼	fu;fb
+黻	fu;yb
+黼	fu;yf
 𠋩	fu;rf
 𠌽	fu;rf
 𠓗	fu;et
-𠟌	fu;pd
+𠟌	fu;dp
 𠡂	fu;lf
 𠣾	fu;gf
 𠪻	fu;pc
@@ -9023,7 +9026,7 @@ sort: by_weight
 鲄	ge;yk
 鴚	ge;nk
 鸽	ge;nh
-𠛊	ge;ud
+𠛊	ge;du
 𠯫	ge;kg
 𠲱	ge;fg
 𠸲	ge;kb
@@ -9098,7 +9101,7 @@ sort: by_weight
 茛	gf;cg
 跟	gf;zg
 𠄣	gf;gp
-𠛵	gf;gd
+𠛵	gf;dg
 𥃩	gf;ob
 𨒼	gf;zg
 𩑡	gf;yq
@@ -9238,7 +9241,7 @@ sort: by_weight
 龚	gs;lg
 𠇒	gs;rr
 𠌕	gs;jj
-𠞖	gs;gd
+𠞖	gs;dg
 𡔕	gs;tg
 𡚑	gs;td
 𫝪	gs;ng
@@ -9288,7 +9291,7 @@ sort: by_weight
 𪏢	gs;hk
 㗕	gz;kg
 㜌	gz;un
-㝅	gz;zu
+㝅	gz;uz
 㝤	gz;bg
 㨌	gz;uu
 㳶	gz;dr
@@ -9325,7 +9328,7 @@ sort: by_weight
 笱	gz;vj
 篝	gz;vg
 簼	gz;vg
-糓	gz;mu
+糓	gz;um
 缑	gz;sh
 耇	gz;lj
 耈	gz;lj
@@ -9344,14 +9347,14 @@ sort: by_weight
 钩	gz;jg
 雊	gz;vj
 鞲	gz;gg
-𠛎	gz;jd
+𠛎	gz;dj
 𡖑	gz;du
 𡗁	gz;dh
 𢄇	gz;bg
 𣕉	gz;mg
 𣕌	gz;mk
 𣙱	gz;mg
-𣫌	gz;uu
+𣫌	gz;uf
 𤖮	gz;pg
 𤚼	gz;nu
 𤠼	gz;qk
@@ -9361,7 +9364,7 @@ sort: by_weight
 𥬉	gz;vg
 𥴴	gz;vg
 𥿺	gz;sw
-𦎯	gz;yu
+𦎯	gz;uy
 𦎼	gz;yk
 𦩷	gz;vg
 𦱣	gz;cm
@@ -9430,7 +9433,7 @@ sort: by_weight
 柧	gu;mg
 梏	gu;mg
 棝	gu;mg
-榖	gu;hu
+榖	gu;mu
 榾	gu;mg
 橭	gu;mg
 櫎	gu;mg
@@ -9456,7 +9459,7 @@ sort: by_weight
 箍	gu;vz
 箛	gu;vg
 篐	gu;vz
-糓	gu;mu
+糓	gu;um
 𦈔	gu;sg
 罛	gu;sg
 罟	gu;sg
@@ -9589,9 +9592,9 @@ sort: by_weight
 𠈥	gx;rg
 𠊰	gx;rg
 𠙼	gx;kk
-𠛒	gx;gd
-𠜵	gx;qg
-𠟗	gx;cd
+𠛒	gx;dg
+𠜵	gx;dg
+𠟗	gx;dk
 𠮠	gx;kg
 𠯑	gx;ku
 𠵯	gx;kg
@@ -9917,7 +9920,7 @@ sort: by_weight
 鳺	gv;nf
 龟	gv;dd
 𠐽	gv;rg
-𠜾	gv;qd
+𠜾	gv;dq
 𠪑	gv;iu
 𠱓	gv;kw
 𠿥	gv;ko
@@ -10019,7 +10022,7 @@ sort: by_weight
 鮌	gy;yx
 鲧	gy;yx
 𠃌	gy;;
-𠞬	gy;gd
+𠞬	gy;dg
 𡈧	gy;kq
 𡘝	gy;du
 𡻨	gy;ug
@@ -10102,7 +10105,7 @@ sort: by_weight
 馃	go;ug
 馘	go;uh
 𠋜	go;rk
-𠜴	go;gd
+𠜴	go;dg
 𠩥	go;ii
 𠿤	go;kg
 𡆸	go;kg
@@ -11223,6 +11226,7 @@ sort: by_weight
 㷤	hu;uh
 㸦	hu;ad
 㹱	hu;qz
+㺀	hu;qh
 㺉	hu;uq
 㽇	hu;wx
 㾰	hu;bh
@@ -11348,7 +11352,7 @@ sort: by_weight
 絗	hu;sh
 綔	hu;xk
 𦈔	hu;sg
-縠	hu;su
+縠	hu;us
 胡	hu;og
 膴	hu;ow
 芐	hu;cx
@@ -11365,7 +11369,7 @@ sort: by_weight
 虝	hu;hw
 蝴	hu;ih
 螜	hu;iu
-觳	hu;ju
+觳	hu;uj
 觷	hu;jb
 謼	hu;yh
 许	hu;yw
@@ -11429,7 +11433,7 @@ sort: by_weight
 𣛫	hu;mh
 𣝗	hu;mj
 𣡾	hu;ii
-𣫈	hu;tu
+𣫈	hu;uy
 𣲑	hu;dh
 𣹬	hu;uu
 𤇠	hu;hh
@@ -11492,7 +11496,7 @@ sort: by_weight
 𧰴	hu;ug
 𧲇	hu;uh
 𧲥	hu;vo
-𧹲	hu;ti
+𧹲	hu;ui
 𧹾	hu;iy
 𧻰	hu;zg
 𧿓	hu;;
@@ -11603,7 +11607,7 @@ sort: by_weight
 骅	hx;mh
 𪉊	hx;hn
 黊	hx;hg
-𠝐	hx;hd
+𠝐	hx;dh
 𠤎	hx;gp
 𠳂	hx;kg
 𠿜	hx;kh
@@ -12439,7 +12443,7 @@ sort: by_weight
 𢋒	ho;gh
 𢝇	ho;xh
 𢞕	ho;xh
-𣄸	ho;jg
+𣄸	ho;wg
 𣉒	ho;oh
 𣤨	ho;qh
 𤁹	ho;dh
@@ -12715,7 +12719,7 @@ sort: by_weight
 癪	ji;bj
 皀	ji;bb
 皍	ji;be
-瞉	ji;ou
+瞉	ji;uo
 矶	ji;uj
 磼	ji;uj
 祭	ji;uy
@@ -12864,8 +12868,8 @@ sort: by_weight
 𠓞	ji;re
 𠔋	ji;bi
 𠗏	ji;du
-𠚽	ji;vd
-𠟣	ji;jd
+𠚽	ji;dv
+𠟣	ji;dj
 𠢠	ji;lj
 𠦫	ji;uj
 𠨕	ji;jv
@@ -12924,7 +12928,7 @@ sort: by_weight
 𢼋	ji;uw
 𢼷	ji;wy
 𣄯	ji;;
-𣄱	ji;jg
+𣄱	ji;wg
 𣇳	ji;oq
 𣏡	ji;mb
 𣔽	ji;mg
@@ -13871,7 +13875,7 @@ sort: by_weight
 龣	jn;lc
 𠕧	jn;vh
 𠘣	jn;dj
-𠜅	jn;jd
+𠜅	jn;dj
 𠝑	jn;ud
 𠞰	jn;di
 𠩏	jn;iu
@@ -14395,7 +14399,7 @@ sort: by_weight
 黅	jb;hj
 齽	jb;ij
 𠂟	jb;pq
-𠞱	jb;jd
+𠞱	jb;dj
 𠞾	jb;xv
 𠢱	jb;lj
 𠢵	jb;lj
@@ -14757,9 +14761,9 @@ sort: by_weight
 𠖬	jq;dg
 𠙔	jq;jt
 𠚨	jq;dj
-𠛩	jq;sd
-𠜃	jq;jd
-𠜉	jq;id
+𠛩	jq;ds
+𠜃	jq;dj
+𠜉	jq;di
 𠠳	jq;lj
 𠣿	jq;gj
 𠴄	jq;kj
@@ -15018,9 +15022,9 @@ sort: by_weight
 𠉧	ju;rq
 𠋬	ju;ri
 𠙆	ju;ij
-𠚵	ju;jd
+𠚵	ju;dj
 𠜹	ju;od
-𠟰	ju;jd
+𠟰	ju;dj
 𠤄	ju;gx
 𠨭	ju;ie
 𠩉	ju;ii
@@ -15358,7 +15362,7 @@ sort: by_weight
 玦	jt;wd
 玨	jt;ww
 珏	jt;wy
-瑴	jt;uu
+瑴	jt;uw
 璚	jt;wk
 疦	jt;bd
 瘚	jt;bj
@@ -15412,7 +15416,7 @@ sort: by_weight
 𠄑	jt;jj
 𠊬	jt;rq
 𠎮	jt;rj
-𠜾	jt;qd
+𠜾	jt;dq
 𠢤	jt;lj
 𠨊	jt;gw
 𠫃	jt;im
@@ -15703,7 +15707,7 @@ sort: by_weight
 顑	kj;yx
 鬫	kj;dg
 龛	kj;lh
-𠝲	kj;xd
+𠝲	kj;dx
 𠪚	kj;ig
 𡚜	kj;dg
 𡶪	kj;uu
@@ -16082,7 +16086,7 @@ sort: by_weight
 𪔣	ks;gk
 㓂	kz;bn
 㔚	kz;lu
-㲄	kz;uu
+㲄	kz;uw
 㸸	kz;nh
 䁱	kz;oy
 䍍	kz;uf
@@ -16091,7 +16095,7 @@ sort: by_weight
 䳹	kz;nk
 佝	kz;rj
 冦	kz;bp
-𠛅	kz;qd
+𠛅	kz;dq
 劶	kz;lh
 口	kz;aa
 叩	kz;ke
@@ -16105,7 +16109,7 @@ sort: by_weight
 滱	kz;dk
 眍	kz;oq
 眗	kz;oj
-瞉	kz;ou
+瞉	kz;uo
 窛	kz;xn
 竘	kz;lj
 筘	kz;vk
@@ -16113,7 +16117,7 @@ sort: by_weight
 芤	kz;ck
 蔲	kz;ck
 蔻	kz;ck
-鷇	kz;nu
+鷇	kz;un
 𡠆	kz;nu
 𡯷	kz;wp
 𢂁	kz;jj
@@ -16135,11 +16139,11 @@ sort: by_weight
 𨥴	kz;uj
 𩀠	kz;tv
 𪄺	kz;nw
-𪇄	kz;tn
+𪇄	kz;nl
 㒂	ku;rv
 㠸	ku;jf
 㱠	ku;dg
-㲄	ku;uu
+㲄	ku;uw
 䇢	ku;vg
 䊿	ku;sf
 䔯	ku;cg
@@ -16214,9 +16218,9 @@ sort: by_weight
 𩑶	ku;yg
 𩨳	ku;gi
 𩱙	ku;gl
-𪇄	ku;tn
+𪇄	ku;nl
 𪌓	ku;mu
-𫜕	ku;tm
+𫜕	ku;mu
 㐄	kx;aa
 㡁	kx;jk
 䋀	kx;sh
@@ -16525,7 +16529,7 @@ sort: by_weight
 𢌳	kv;cd
 𢜽	kv;xg
 𢼀	kv;wr
-𣄲	kv;jw
+𣄲	kv;ww
 𣥮	kv;vg
 𣧼	kv;dw
 𤆂	kv;ha
@@ -16653,6 +16657,7 @@ sort: by_weight
 萿	ko;ch
 葀	ko;ck
 蛞	ko;iu
+适	ko;zu
 铦	ko;ju
 銽	ko;jk
 阔	ko;mh
@@ -16663,7 +16668,7 @@ sort: by_weight
 頢	ko;yu
 髺	ko;iu
 𫘽	ko;ih
-𠚳	ko;gd
+𠚳	ko;dg
 𡎒	ko;th
 𡻙	ko;ug
 𢠛	ko;xj
@@ -17046,7 +17051,7 @@ sort: by_weight
 𫗨	lh;ul
 𩲒	lh;gi
 𩷕	lh;yl
-𪁜	lh;ln
+𪁜	lh;nl
 㗦	lc;kl
 㞠	lc;ul
 㟉	lc;ul
@@ -17490,7 +17495,7 @@ sort: by_weight
 悡	li;xl
 悧	li;xl
 悷	li;xl
-栗	li;xm
+栗	li;mx
 戾	li;hq
 扐	li;fl
 扚	li;fu
@@ -17658,12 +17663,12 @@ sort: by_weight
 𠚄	li;kb
 𠛘	li;dd
 𠛦	li;pd
-𠝄	li;vd
-𠞉	li;ld
-𠞙	li;hd
+𠝄	li;dw
+𠞉	li;dl
+𠞙	li;dx
 𠞤	li;;
-𠠏	li;ld
-𠠝	li;ld
+𠠏	li;dl
+𠠝	li;dl
 𠠵	li;lj
 𠢠	li;lj
 𠩵	li;il
@@ -18069,11 +18074,11 @@ sort: by_weight
 悢	ll;xl
 𪭵	ll;fl
 晾	ll;oj
-梁	ll;mb
+梁	ll;md
 椋	ll;mj
 湸	ll;dl
 粮	ll;ml
-粱	ll;mb
+粱	ll;md
 緉	ll;sl
 脼	ll;ol
 良	ll;dg
@@ -18096,7 +18101,7 @@ sort: by_weight
 𠯱	ll;kr
 𡑆	ll;tl
 𡮎	ll;kj
-𣄴	ll;jj
+𣄴	ll;wj
 𣓈	ll;ml
 𤙝	ll;ny
 𥈘	ll;oj
@@ -18308,7 +18313,7 @@ sort: by_weight
 𫚓	lp;ly
 𫚭	lp;yl
 𠛱	lp;;
-𠠗	lp;ld
+𠠗	lp;dl
 𠷈	lp;kl
 𡁓	lp;kl
 𡂏	lp;kl
@@ -18601,7 +18606,7 @@ sort: by_weight
 龗	lk;yl
 𠄖	lk;ld
 𠏡	lk;rl
-𠟨	lk;ld
+𠟨	lk;dl
 𠠢	lk;dl
 𠡭	lk;ll
 𠱠	lk;kk
@@ -18781,7 +18786,7 @@ sort: by_weight
 鹨	lq;nl
 麍	lq;li
 𠗽	lq;dl
-𠛓	lq;md
+𠛓	lq;dm
 𠪐	lq;il
 𠺕	lq;kl
 𡻪	lq;ul
@@ -18999,7 +19004,7 @@ sort: by_weight
 鷜	lz;nl
 𠖛	lz;bl
 𠗩	lz;dd
-𠞭	lz;ld
+𠞭	lz;dl
 𠳴	lz;kn
 𡀔	lz;kl
 𡇭	lz;kn
@@ -19467,7 +19472,7 @@ sort: by_weight
 鵅	lo;ng
 鸁	lo;nk
 𠉗	lo;rl
-𠜖	lo;ld
+𠜖	lo;dl
 𠶱	lo;kg
 𠻐	lo;kl
 𠻡	lo;kl
@@ -19579,7 +19584,7 @@ sort: by_weight
 闾	lv;ml
 驴	lv;mh
 鷜	lv;nl
-𠜈	lv;yd
+𠜈	lv;dy
 𠣊	lv;lf
 𠷈	lv;kl
 𠻜	lv;kl
@@ -19597,6 +19602,7 @@ sort: by_weight
 𣭇	lv;mm
 𤁵	lv;dl
 𤗬	lv;pl
+𤝽	lv;qy
 𤾺	lv;hd
 𥖼	lv;ul
 𥡢	lv;hl
@@ -20373,7 +20379,7 @@ sort: by_weight
 𦷹	mg;co
 𦿏	mg;cm
 𧀆	mg;cd
-𧀧	mg;cw
+𧀧	mg;cl
 𧁊	mg;cx
 𧂛	mg;cm
 𧂡	mg;jx
@@ -21684,7 +21690,6 @@ sort: by_weight
 𣧍	ne;dn
 𧤜	ne;jg
 㐻	nw;rn
-㖏	nw;kn
 㘨	nw;tn
 㨅	nw;fr
 㼏	nw;gt
@@ -21840,6 +21845,7 @@ sort: by_weight
 鲵	ni;ye
 麑	ni;le
 𫠜	ni;ie
+鿭	ni;je
 𠆵	ni;rx
 𠒰	ni;en
 𠱘	ni;kn
@@ -22027,6 +22033,7 @@ sort: by_weight
 𩭑	nn;ii
 𪅝	nn;nn
 𱊜	nn;nn
+㖏	np;kn
 㖕	np;kx
 㖖	np;kx
 㘝	np;wy
@@ -23324,6 +23331,7 @@ sort: by_weight
 𪌈	pi;mb
 𪖞	pi;bp
 𪛎	pi;jy
+𱇒	pi;yb
 㓲	pm;db
 㛹	pm;nb
 㸤	pm;px
@@ -23737,7 +23745,7 @@ sort: by_weight
 犃	pz;nk
 箁	pz;vk
 裒	pz;wy
-𠟌	pz;pd
+𠟌	pz;dp
 𢒷	pz;xp
 𦵿	pz;cp
 𦺎	pz;cb
@@ -24369,7 +24377,7 @@ sort: by_weight
 𠕣	qx;md
 𠜤	qx;gr
 𠜼	qx;dd
-𠝘	qx;yd
+𠝘	qx;dy
 𠝛	qx;td
 𠳌	qx;qk
 𡘧	qx;db
@@ -24578,12 +24586,12 @@ sort: by_weight
 鹐	qm;nj
 黔	qm;hj
 黚	qm;hg
-𠀼	qm;ba
+𠀼	qm;ai
 𠊭	qm;rx
 𠋵	qm;rq
 𠑲	qm;jj
 𠔺	qm;jx
-𠠃	qm;cd
+𠠃	qm;dj
 𠢍	qm;ql
 𠬾	qm;yy
 𠳋	qm;;
@@ -25120,7 +25128,7 @@ sort: by_weight
 𠔎	qb;be
 𠖶	qb;dx
 𠘅	qb;dq
-𠜘	qb;jd
+𠜘	qb;dj
 𠦎	qb;ub
 𠻨	qb;kj
 𡫧	qb;bo
@@ -25825,7 +25833,7 @@ sort: by_weight
 鬈	qr;ij
 鳈	qr;yq
 齤	qr;if
-𠛮	qr;qd
+𠛮	qr;dq
 𠤹	qr;kq
 𠥙	qr;kz
 𡇮	qr;ky
@@ -25875,7 +25883,7 @@ sort: by_weight
 㰌	qt;mh
 㱋	qt;qh
 㱿	qt;uq
-㲉	qt;uu
+㲉	qt;ul
 㴶	qt;dh
 㹤	qt;qq
 㹱	qt;qz
@@ -25929,14 +25937,14 @@ sort: by_weight
 𣖫	qt;mh
 𣛵	qt;mq
 𣤇	qt;hq
-𣪹	qt;uu
+𣪹	qt;ui
 𤡯	qt;qx
 𤣅	qt;qh
 𤷽	qt;bq
 𤿋	qt;pc
 𤿩	qt;pg
 𤿵	qt;pv
-𥀎	qt;pu
+𥀎	qt;up
 𥆸	qt;og
 𥕹	qt;uc
 𥗙	qt;ux
@@ -26237,7 +26245,7 @@ sort: by_weight
 釼	ri;jr
 鈤	ri;jo
 驲	ri;mo
-𠟅	ri;id
+𠟅	ri;di
 𡆸	ri;kg
 𡈎	ri;kw
 𡉭	ri;to
@@ -26397,7 +26405,7 @@ sort: by_weight
 騥	rz;mr
 鰇	rz;yr
 鶔	rz;nr
-𠠐	rz;ur
+𠠐	rz;ru
 𡗑	rz;vx
 𢔟	rz;xr
 𢘅	rz;xm
@@ -26472,7 +26480,7 @@ sort: by_weight
 鳰	ru;nr
 鴑	ru;nn
 𫛪	ru;rn
-𠟺	ru;xd
+𠟺	ru;dx
 𠤦	ru;be
 𡄲	ru;ri
 𡈴	ru;kx
@@ -26539,7 +26547,7 @@ sort: by_weight
 软	rr;iq
 輭	rr;id
 阮	rr;ey
-𠟺	rr;xd
+𠟺	rr;dx
 𠤦	rr;be
 𢘧	rr;xr
 𢡵	rr;ee
@@ -26619,6 +26627,7 @@ sort: by_weight
 𨧨	rv;jr
 𨳙	rv;mn
 𪏩	rv;hd
+𮉫	rv;sw
 㝄	ry;xt
 㠈	ry;ur
 䏕	ry;or
@@ -26945,8 +26954,8 @@ sort: by_weight
 雭	se;yj
 𫗋	se;fs
 𠎸	se;rs
-𠟦	se;sd
-𠟩	se;sd
+𠟦	se;ds
+𠟩	se;ds
 𠢳	se;ls
 𠵭	se;ko
 𠽼	se;ks
@@ -27056,7 +27065,7 @@ sort: by_weight
 鯋	ua;yu
 𠄒	ua;pc
 𠍽	ua;ru
-𠚺	ua;ud
+𠚺	ua;du
 𡺧	ua;uw
 𢅑	ua;ju
 𢇗	ua;gx
@@ -27240,7 +27249,7 @@ sort: by_weight
 鳝	uj;yu
 鳣	uj;yd
 鿃	uj;oj
-𠚹	uj;ud
+𠚹	uj;du
 𠫹	uj;sa
 𠿞	uj;kd
 𡟨	uj;nu
@@ -28438,7 +28447,7 @@ sort: by_weight
 蟀	uk;il
 衰	uk;yv
 𠌭	uk;rl
-𠞩	uk;ld
+𠞩	uk;dl
 𢕅	uk;xf
 𢕑	uk;xl
 𣘚	uk;ml
@@ -28748,6 +28757,7 @@ sort: by_weight
 𣩠	si;ds
 𣱻	si;uj
 𤆟	si;hp
+𤝽	si;qy
 𤣵	si;wy
 𤱸	si;st
 𤺊	si;bs
@@ -28914,7 +28924,7 @@ sort: by_weight
 𠌞	sz;ry
 𠌟	sz;rp
 𠘂	sz;du
-𠝬	sz;sd
+𠝬	sz;dy
 𠪇	sz;is
 𡠼	sz;in
 𡣂	sz;ns
@@ -29354,8 +29364,8 @@ sort: by_weight
 𠋲	so;rs
 𠗼	so;dq
 𠘺	so;jt
-𠝿	so;sd
-𠞯	so;xd
+𠝿	so;db
+𠞯	so;dx
 𠩄	so;ia
 𠱗	so;ke
 𡩡	so;bs
@@ -29772,6 +29782,7 @@ sort: by_weight
 𪍵	tj;mq
 㑽	th;rt
 㒉	th;rt
+㓥	th;dd
 㙶	th;wt
 㜍	th;nt
 㦂	th;xi
@@ -29792,7 +29803,6 @@ sort: by_weight
 偒	th;ry
 傏	th;rt
 傥	th;rd
-㓥	th;dd
 唐	th;gk
 啺	th;ky
 嘡	th;kt
@@ -29946,7 +29956,7 @@ sort: by_weight
 𠓝	tc;ru
 𠗆	tc;yd
 𠚜	tc;ay
-𠞞	tc;yd
+𠞞	tc;dy
 𠬢	tc;yi
 𡍒	tc;tt
 𡺫	tc;uy
@@ -30167,7 +30177,7 @@ sort: by_weight
 鶙	ti;nd
 鷈	ti;nh
 𫛴	ti;dn
-𠞄	ti;sd
+𠞄	ti;ds
 𡥩	ti;zd
 𡰎	ti;wn
 𡲕	ti;uy
@@ -30323,6 +30333,7 @@ sort: by_weight
 鷆	tm;nv
 鷏	tm;nv
 黇	tm;hv
+鿬	tm;ut
 𠗘	tm;dd
 𡒧	tm;tj
 𡙒	tm;tt
@@ -30429,7 +30440,7 @@ sort: by_weight
 鯈	tn;ry
 鲦	tn;yt
 龆	tn;iv
-𠛪	tn;vd
+𠛪	tn;dv
 𠤺	tn;kp
 𠧪	tn;br
 𡠊	tn;nt
@@ -30843,8 +30854,8 @@ sort: by_weight
 鷵	tu;nt
 鼵	tu;ut
 𠊲	tu;rt
-𠞀	tu;kd
-𠟶	tu;kd
+𠞀	tu;dk
+𠟶	tu;dk
 𠫓	tu;sa
 𠫮	tu;js
 𠳶	tu;kt
@@ -31873,7 +31884,7 @@ sort: by_weight
 𢼸	ww;uw
 𢾁	ww;ww
 𣄧	ww;fy
-𣄺	ww;jw
+𣄺	ww;ww
 𣈎	ww;ou
 𣍟	ww;bo
 𣨙	ww;dw
@@ -32412,7 +32423,7 @@ sort: by_weight
 齀	wu;bw
 𠒄	wu;iw
 𠘻	wu;ff
-𠛆	wu;wd
+𠛆	wu;dw
 𠥢	wu;kw
 𠯃	wu;gj
 𠵦	wu;ww
@@ -32532,6 +32543,7 @@ sort: by_weight
 㳀	xi;dg
 㳧	xi;dv
 㵿	xi;dj
+㶉	xi;dn
 㸍	xi;hx
 㹫	xi;qy
 㺣	xi;qx
@@ -32821,7 +32833,6 @@ sort: by_weight
 鳛	xi;yb
 𬶮	xi;yx
 鵗	xi;nx
-㶉	xi;dn
 黖	xi;hw
 鼷	xi;ux
 𠅤	xi;ws
@@ -32830,8 +32841,8 @@ sort: by_weight
 𠔃	xi;bk
 𠔍	xi;by
 𠘕	xi;dx
-𠜗	xi;xd
-𠟊	xi;hd
+𠜗	xi;dx
+𠟊	xi;dy
 𠤴	xi;kv
 𠦜	xi;cc
 𠨚	xi;ex
@@ -33122,7 +33133,7 @@ sort: by_weight
 𫚥	xx;yj
 鶷	xx;nh
 黠	xx;hj
-𠀼	xx;ba
+𠀼	xx;ai
 𠖹	xx;dj
 𠢆	xx;lh
 𠩘	xx;ij
@@ -33439,9 +33450,9 @@ sort: by_weight
 𠏡	xm;rl
 𠓌	xm;gl
 𠚆	xm;au
-𠛑	xm;xd
-𠜎	xm;xd
-𠠁	xm;xd
+𠛑	xm;dx
+𠜎	xm;dx
+𠠁	xm;dx
 𠤕	xm;bu
 𠫄	xm;il
 𠷢	xm;ki
@@ -33556,6 +33567,8 @@ sort: by_weight
 𪄏	xm;nx
 𪄷	xm;xn
 𪔩	xm;gx
+𬖑	xm;mj
+𮬣	xm;yx
 㗽	xl;kx
 㟄	xl;uy
 㟟	xl;uj
@@ -34516,6 +34529,7 @@ sort: by_weight
 㱙	xq;dk
 㳜	xq;dx
 㾋	xq;bx
+䗛	xq;ix
 䜬	xq;gy
 䰍	xq;iu
 休	xq;rm
@@ -34761,7 +34775,7 @@ sort: by_weight
 魖	xu;gx
 𫚈	xu;yy
 𠆐	xu;wh
-𠜄	xu;xd
+𠜄	xu;dx
 𠧰	xu;bk
 𠯜	xu;kg
 𠷙	xu;kw
@@ -34888,6 +34902,7 @@ sort: by_weight
 䀏	xr;og
 䁔	xr;oy
 䁢	xr;ox
+䃠	xr;ux
 䍗	xr;sx
 䍻	xr;ys
 䗠	xr;ix
@@ -35161,7 +35176,7 @@ sort: by_weight
 𨨺	xt;jx
 𨭁	xt;ju
 𩋾	xt;gw
-𩌊	xt;gu
+𩌊	xt;ug
 𩖱	xt;fu
 𩖶	xt;fv
 𩶫	xt;yx
@@ -35421,7 +35436,7 @@ sort: by_weight
 𫜰	ya;xi
 𠄮	ya;aa
 𠋗	ya;ry
-𠜲	ya;yd
+𠜲	ya;dy
 𠮜	ya;kg
 𠵣	ya;kv
 𡇼	ya;kh
@@ -35438,7 +35453,7 @@ sort: by_weight
 𣏎	ya;my
 𤘅	ya;yz
 𤘆	ya;yy
-𤴓	ya;ab
+𤴓	ya;av
 𤵭	ya;bj
 𤷅	ya;be
 𤸱	ya;bg
@@ -35765,8 +35780,8 @@ sort: by_weight
 𠉬	yj;ri
 𠍛	yj;rn
 𠘥	yj;dy
-𠛭	yj;yd
-𠝢	yj;yd
+𠛭	yj;dy
+𠝢	yj;dc
 𠰖	yj;kl
 𠻤	yj;ky
 𡙶	yj;yd
@@ -35938,6 +35953,7 @@ sort: by_weight
 䬺	yh;uy
 䭐	yh;uy
 䭥	yh;uy
+𫚐	yh;yy
 䵮	yh;hy
 仰	yh;re
 佒	yh;ry
@@ -36200,7 +36216,7 @@ sort: by_weight
 繇	yc;vx
 纅	yc;sl
 耀	yc;gd
-肴	yc;ou
+肴	yc;iy
 腰	yc;oy
 舀	yc;vj
 艞	yc;vv
@@ -36245,7 +36261,7 @@ sort: by_weight
 𠏈	yc;rf
 𠑐	yc;cc
 𠕻	yc;by
-𠟋	yc;yd
+𠟋	yc;dy
 𠢩	yc;ly
 𠣑	yc;gy
 𠹑	yc;kg
@@ -36454,7 +36470,7 @@ sort: by_weight
 鸈	ye;ny
 𠀸	ye;aq
 𠄅	ye;yg
-𠟪	ye;yd
+𠟪	ye;dy
 𠥇	ye;ky
 𠱝	ye;ky
 𡀽	ye;kg
@@ -36754,10 +36770,10 @@ sort: by_weight
 弋	yi;ad
 弌	yi;ya
 弬	yi;gi
-彛	yi;ac
-彜	yi;jc
-彝	yi;ac
-彞	yi;cf
+彛	yi;cf
+彜	yi;cf
+彝	yi;cs
+彞	yi;cs
 彵	yi;xy
 役	yi;xu
 忆	yi;xy
@@ -37021,7 +37037,7 @@ sort: by_weight
 黳	yi;hu
 𬺈	yi;iq
 齸	yi;iy
-𠂆	yi;;
+𠂆	yi;pp
 𠄱	yi;ei
 𠅌	yi;wd
 𠈶	yi;rj
@@ -37033,7 +37049,7 @@ sort: by_weight
 𠗺	yi;dy
 𠚮	yi;dq
 𠛃	yi;pd
-𠜁	yi;yd
+𠜁	yi;dy
 𠡔	yi;li
 𠡝	yi;lx
 𠤕	yi;bu
@@ -37724,8 +37740,8 @@ sort: by_weight
 鸎	yk;bn
 鹦	yk;ny
 𠊶	yk;rn
-𠝟	yk;yd
-𠠜	yk;yd
+𠝟	yk;dy
+𠠜	yk;dy
 𠮳	yk;ku
 𠸄	yk;ky
 𡀘	yk;ky
@@ -38744,6 +38760,7 @@ sort: by_weight
 𪑌	yu;hg
 𪑝	yu;hh
 𪓊	yu;hy
+𮬛	yu;yy
 㘣	yr;wy
 㛪	yr;ny
 㟲	yr;uy
@@ -38884,8 +38901,8 @@ sort: by_weight
 鼘	yr;ga
 鼝	yr;gy
 𠒜	yr;ym
-𠛭	yr;yd
-𠝳	yr;xd
+𠛭	yr;dy
+𠝳	yr;dx
 𠩠	yr;ib
 𡈒	yr;kx
 𡈓	yr;kv
@@ -39576,7 +39593,7 @@ sort: by_weight
 鸅	ze;nx
 齚	ze;iv
 𫜬	ze;ix
-𠟻	ze;bd
+𠟻	ze;db
 𠨻	ze;iu
 𠷌	ze;kz
 𡵗	ze;ud
@@ -39761,8 +39778,8 @@ sort: by_weight
 齇	va;bc
 𠍹	va;rd
 𠓣	va;rx
-𠝚	va;cd
-𠝝	va;yd
+𠝚	va;dm
+𠝝	va;dy
 𠢙	va;li
 𠢡	va;ld
 𠭯	va;yc
@@ -39998,8 +40015,8 @@ sort: by_weight
 黵	vj;hv
 龪	vj;zr
 𠌲	vj;rv
-𠟉	vj;cd
-𠟧	vj;vd
+𠟉	vj;dc
+𠟧	vj;dv
 𡁳	vj;db
 𡅹	vj;kd
 𡓦	vj;ti
@@ -40066,6 +40083,7 @@ sort: by_weight
 𪏉	vj;hd
 𪗦	vj;iv
 𪘪	vj;ij
+𰲳	vj;ij
 㕩	vh;kf
 㙊	vh;ti
 㙣	vh;tv
@@ -40213,7 +40231,7 @@ sort: by_weight
 鼌	vc;md
 𠕖	vc;mm
 𠕭	vc;mv
-𠟅	vc;id
+𠟅	vc;di
 𠠄	vc;vd
 𠻥	vc;ki
 𡖎	vc;dl
@@ -40336,9 +40354,9 @@ sort: by_weight
 鹧	ve;nu
 𠌮	ve;ru
 𠚱	ve;dq
-𠝚	ve;cd
-𠝝	ve;yd
-𠞃	ve;id
+𠝚	ve;dm
+𠝝	ve;dy
+𠞃	ve;di
 𠯓	ve;kj
 𠽻	ve;kv
 𠾀	ve;kw
@@ -41022,7 +41040,7 @@ sort: by_weight
 𠓶	vi;rd
 𠘖	vi;dv
 𠚅	vi;kg
-𠟅	vi;id
+𠟅	vi;di
 𠦧	vi;ux
 𠮡	vi;ke
 𠰅	vi;ku
@@ -41291,7 +41309,7 @@ sort: by_weight
 鴤	vs;nd
 鼨	vs;ud
 𠊥	vs;rv
-𠛀	vs;gd
+𠛀	vs;dg
 𠱧	vs;kp
 𡖌	vs;xv
 𡥿	vs;zv
@@ -41419,7 +41437,7 @@ sort: by_weight
 鸼	vz;nv
 𠊣	vz;ri
 𠋢	vz;rs
-𠚴	vz;id
+𠚴	vz;di
 𠣘	vz;gv
 𠤍	vz;gg
 𠱙	vz;ku
@@ -42231,7 +42249,7 @@ sort: by_weight
 𢆶	zi;yy
 𢱆	zi;fz
 𢼱	zi;kp
-𣄮	zi;jk
+𣄮	zi;kw
 𣓊	zi;mu
 𣖨	zi;mi
 𣚀	zi;mz
@@ -42648,7 +42666,7 @@ sort: by_weight
 鳟	zy;yz
 鶎	zy;nz
 𫜄	zy;zn
-𠟃	zy;zd
+𠟃	zy;dz
 𠱜	zy;kc
 𤮐	zy;wz
 𥊭	zy;oz

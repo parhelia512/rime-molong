@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-03-06"
+version: "2025-05-10"
 sort: by_weight
 ...
 ##### 容错词
@@ -53,6 +53,8 @@ sort: by_weight
 坐骑	zo;rr ji;md
 铁骑	tp;jp qi;md
 铁骑	tp;jp ji;md
+铁骑突出刀枪鸣	tp;jp qi;md tu;xq iu;ck dc;vp ql;ar mk;kn
+铁骑突出刀枪鸣	tp;jp ji;md tu;xq iu;ck dc;vp ql;ar mk;kn
 一骑绝尘	yi;hh qi;md jt;sd if;xt
 一骑绝尘	yi;hh ji;md jt;sd if;xt
 一骑当千	yi;hh qi;md dh;xx qm;pu
@@ -141,6 +143,8 @@ sort: by_weight
 虚与委蛇	xu;hy yu;hv ww;hn ue;ig
 木讷	mu;ub ne;yk
 木讷	mu;ub na;yk
+龟裂	jy;do lp;hy
+龟裂	gv;do lp;hy
 独乐乐	du;qi yt;px le;px
 独乐乐	du;qi le;px le;px
 众乐乐	vs;rr yt;px le;px
@@ -271,6 +275,8 @@ sort: by_weight
 应该	yb;gx gd;yw
 粘贴	vj;mb tp;bb
 粘贴	nm;mb tp;bb
+粘一粘	vj;mb yi;hh vj;mb
+粘一粘	nm;mb yi;hh nm;mb
 高句丽	gc;wk gz;bk li;hk
 高句丽	gc;wk ju;bk li;hk
 角斗士	jt;do dz;du ui;uh
@@ -291,6 +297,8 @@ sort: by_weight
 手如柔荑	uz;su ru;nk rz;ya yi;ch
 温庭筠	wf;do tk;gq yy;vt
 温庭筠	wf;do tk;gq jy;vt
+朱祐樘	vu;ph yz;uu ig;ax
+朱祐樘	vu;ph yz;uu th;ax
 关卡	gr;bt qx;ub
 关卡	gr;bt ka;ub	1000
 三昧真火	sj;hh mw;oh vf;uj ho;dp
@@ -309,12 +317,22 @@ sort: by_weight
 哺乳	pu;kf ru;av
 脑卒中	nc;ow cu;wr vs;ku
 脑卒中	nc;ow zu;wr vs;ku
+阈值	yu;mg vi;ru
+阈值	fa;mg vi;ru
 潟湖	xi;; hu;dg
 潟湖	xp;; hu;dg
 果脯	go;oa fu;of
 果脯	go;oa pu;of
 肉脯	rz;kr fu;of
 肉脯	rz;kr pu;of
+脯氨酸	fu;of an;qg sr;ys
+脯氨酸	pu;of an;qg sr;ys
+酪氨酸	lc;yw an;qg sr;ys
+酪氨酸	lo;yw an;qg sr;ys
+没食子	mo;dj ui;rl zi;lh
+没食子	mw;dj ui;rl zi;lh
+裳凤蝶	ih;xy fg;jy dp;in
+裳凤蝶	uh;xy fg;jy dp;in
 白𬶨豚	bd;po ji;; ty;ou
 白𬶨豚	bd;po qi;; ty;ou
 桡骨	rc;aq gu;ko
@@ -337,8 +355,26 @@ sort: by_weight
 安瓿	an;gn pz;lw
 安瓿瓶	an;gn bu;lw pk;bw
 安瓿瓶	an;gn pz;lw pk;bw
+解剖	jp;dd pz;ld
+解剖	jp;dd pc;ld
+剖分	pz;ld ff;bd
+剖分	pc;ld ff;bd
+剖腹产	pz;ld fu;or ij;lp
+剖腹产	pc;ld fu;or ij;lp
+剖宫产	pz;ld gs;gk ij;lp
+剖宫产	pc;ld gs;gk ij;lp
 金匮	jb;rw gv;kv
 金匮	jb;rw kv;kv
+清平乐	qk;df pk;hb yt;px
+清平乐	qk;df pk;hb le;px
+踏莎行	ta;zu so;cd xk;rh
+踏莎行	ta;zu ua;cd xk;rh
+莎草	so;cd cc;co
+莎草	ua;cd cc;co
+杉木	ua;ap mu;ub
+杉木	uj;ap mu;ub
+道在屎溺	dc;bz zd;ut ui;um nn;dg
+道在屎溺	dc;bz zd;ut ui;um ni;dg
 ### 错字
 曾经	cg;bo jk;ss
 曾今	cg;bo jb;rd

@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-03-06"
+version: "2025-05-10"
 sort: by_weight
 ...
 ##### 容错词
@@ -53,6 +53,8 @@ sort: by_weight
 坐騎	zo;rr ji;;
 鐵騎	tp;; qi;;
 鐵騎	tp;; ji;;
+鐵騎突出刀槍鳴	tp;; qi;; tu;xq iu;ck dc;vp ql;; mk;;
+鐵騎突出刀槍鳴	tp;; ji;; tu;xq iu;ck dc;vp ql;; mk;;
 一騎絕塵	yi;hh qi;; jt;; if;;
 一騎絕塵	yi;hh ji;; jt;; if;;
 一騎當千	yi;hh qi;; dh;; qm;pu
@@ -141,6 +143,8 @@ sort: by_weight
 虛與委蛇	xu;; yu;; ww;hn ue;ig
 木訥	mu;ub ne;;
 木訥	mu;ub na;;
+龜裂	jy;; lp;hy
+龜裂	gv;; lp;hy
 獨樂樂	du;; yt;; le;;
 獨樂樂	du;; le;; le;;
 衆樂樂	vs;; yt;; le;;
@@ -271,6 +275,8 @@ sort: by_weight
 應該	yb;; gd;;
 粘貼	vj;mb tp;;
 粘貼	nm;mb tp;;
+粘一粘	vj;mb yi;hh vj;mb
+粘一粘	nm;mb yi;hh nm;mb
 高句麗	gc;wk gz;bk li;;
 高句麗	gc;wk ju;bk li;;
 角鬥士	jt;do dz;; ui;uh
@@ -291,6 +297,8 @@ sort: by_weight
 手如柔荑	uz;su ru;nk rz;ya yi;ch
 溫庭筠	wf;; tk;gq yy;vt
 溫庭筠	wf;; tk;gq jy;vt
+朱祐樘	vu;ph yz;uu ig;ax
+朱祐樘	vu;ph yz;uu th;ax
 關卡	gr;; qx;ub
 關卡	gr;; ka;ub	1000
 三昧真火	sj;hh mw;oh vf;uj ho;dp
@@ -309,12 +317,22 @@ sort: by_weight
 哺乳	pu;kf ru;av
 腦卒中	nc;; cu;wr vs;ku
 腦卒中	nc;; zu;wr vs;ku
+閾值	yu;; vi;ru
+閾值	fa;; vi;ru
 潟湖	xi;; hu;dg
 潟湖	xp;; hu;dg
 果脯	go;oa fu;of
 果脯	go;oa pu;of
 肉脯	rz;kr fu;of
 肉脯	rz;kr pu;of
+脯氨酸	fu;of an;qg sr;ys
+脯氨酸	pu;of an;qg sr;ys
+酪氨酸	lc;yw an;qg sr;ys
+酪氨酸	lo;yw an;qg sr;ys
+沒食子	mo;; ui;rl zi;lh
+沒食子	mw;; ui;rl zi;lh
+裳鳳蝶	ih;xy fg;; dp;in
+裳鳳蝶	uh;xy fg;; dp;in
 白鱀豚	bd;po ji;; ty;ou
 白鱀豚	bd;po qi;; ty;ou
 橈骨	rc;; gu;ko
@@ -337,8 +355,26 @@ sort: by_weight
 安瓿	an;gn pz;lw
 安瓿瓶	an;gn bu;lw pk;bw
 安瓿瓶	an;gn pz;lw pk;bw
+解剖	jp;dd pz;ld
+解剖	jp;dd pc;ld
+剖分	pz;ld ff;bd
+剖分	pc;ld ff;bd
+剖腹產	pz;ld fu;or ij;;
+剖腹產	pc;ld fu;or ij;;
+剖宮產	pz;ld gs;; ij;;
+剖宮產	pc;ld gs;; ij;;
 金匱	jb;rw gv;;
 金匱	jb;rw kv;;
+清平樂	qk;df pk;hb yt;;
+清平樂	qk;df pk;hb le;;
+踏莎行	ta;zu so;cd xk;rh
+踏莎行	ta;zu ua;cd xk;rh
+莎草	so;cd cc;co
+莎草	ua;cd cc;co
+杉木	ua;ap mu;ub
+杉木	uj;ap mu;ub
+道在屎溺	dc;bz zd;ut ui;um nn;dg
+道在屎溺	dc;bz zd;ut ui;um ni;dg
 ### 错字
 曾經	cg;bo jk;;
 曾今	cg;bo jb;rd

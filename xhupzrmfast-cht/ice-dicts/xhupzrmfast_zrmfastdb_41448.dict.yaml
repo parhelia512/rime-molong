@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-02-02"
+version: "2025-05-10"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -121,6 +121,7 @@ sort: by_weight
 靄	ai;;
 餲	ai;;
 馤	ai;;
+騃	ai;;
 鱫	ai;;
 鴱	ai;;
 𠊎	ai;;
@@ -403,6 +404,7 @@ sort: by_weight
 鰲	ao;;
 鷔	ao;;
 鼇	ao;;
+鿫	ao;;
 𡊛	ao;;
 𡏼	ao;;
 𡒃	ao;;
@@ -5452,6 +5454,7 @@ sort: by_weight
 黕	dj;;
 黮	dj;;
 黵	dj;;
+鿕	dj;;
 𠆛	dj;;
 𠆶	dj;;
 𠇋	dj;;
@@ -11279,6 +11282,7 @@ sort: by_weight
 㷤	hu;;
 㸦	hu;;
 㹱	hu;;
+㺀	hu;;
 㺉	hu;;
 㽇	hu;;
 㾰	hu;;
@@ -16750,6 +16754,7 @@ sort: by_weight
 萿	ko;;
 葀	ko;;
 蛞	ko;iq
+適	ko;;
 銛	ko;;
 銽	ko;;
 闊	ko;;
@@ -19712,6 +19717,7 @@ sort: by_weight
 𣭇	lv;;
 𤁵	lv;;
 𤗬	lv;;
+𤝽	lv;;
 𤾺	lv;;
 𥖼	lv;;
 𥡢	lv;;
@@ -21807,7 +21813,6 @@ sort: by_weight
 𣧍	ne;;
 𧤜	ne;;
 㐻	nw;;
-㖏	nw;;
 㘨	nw;;
 㨅	nw;;
 㼏	nw;;
@@ -21962,6 +21967,7 @@ sort: by_weight
 鯢	ni;;
 麑	ni;;
 齯	ni;;
+鿭	ni;;
 𠆵	ni;;
 𠒰	ni;;
 𠱘	ni;;
@@ -22152,6 +22158,7 @@ sort: by_weight
 𩭑	nn;;
 𪅝	nn;;
 𪈼	nn;;
+㖏	np;;
 㖕	np;;
 㖖	np;;
 㘝	np;;
@@ -23450,6 +23457,7 @@ sort: by_weight
 𪌈	pi;;
 𪖞	pi;;
 𪛎	pi;;
+𱇒	pi;;
 㓲	pm;;
 㛹	pm;;
 㸤	pm;;
@@ -26760,6 +26768,7 @@ sort: by_weight
 𨧨	rv;;
 𨳙	rv;;
 𪏩	rv;;
+𮉫	rv;;
 㝄	ry;;
 㠈	ry;;
 䏕	ry;;
@@ -28902,6 +28911,7 @@ sort: by_weight
 𣩠	si;;
 𣱻	si;;
 𤆟	si;;
+𤝽	si;;
 𤣵	si;;
 𤱸	si;;
 𤺊	si;;
@@ -29945,6 +29955,7 @@ sort: by_weight
 𪍵	tj;;
 㑽	th;;
 㒉	th;;
+劏	th;;
 㙶	th;;
 㜍	th;;
 㦂	th;;
@@ -29965,7 +29976,6 @@ sort: by_weight
 偒	th;;
 傏	th;;
 儻	th;;
-劏	th;;
 唐	th;gx
 啺	th;;
 嘡	th;kx
@@ -30499,6 +30509,7 @@ sort: by_weight
 鷆	tm;;
 鷏	tm;;
 黇	tm;;
+鿬	tm;;
 𠗘	tm;;
 𡒧	tm;;
 𡙒	tm;;
@@ -32719,6 +32730,7 @@ sort: by_weight
 㳀	xi;;
 㳧	xi;;
 㵿	xi;;
+鸂	xi;;
 㸍	xi;;
 㹫	xi;;
 㺣	xi;;
@@ -33011,7 +33023,6 @@ sort: by_weight
 鰼	xi;;
 鱚	xi;;
 鵗	xi;;
-鸂	xi;;
 黖	xi;;
 鼷	xi;ja
 𠅤	xi;;
@@ -33750,6 +33761,8 @@ sort: by_weight
 𪄏	xm;;
 𪄷	xm;;
 𪔩	xm;;
+𬖑	xm;;
+𮬣	xm;;
 㗽	xl;;
 㟄	xl;;
 㟟	xl;;
@@ -34715,6 +34728,7 @@ sort: by_weight
 㱙	xq;;
 㳜	xq;;
 㾋	xq;;
+䗛	xq;;
 䜬	xq;;
 䰍	xq;;
 休	xq;ra
@@ -35092,6 +35106,7 @@ sort: by_weight
 䀏	xr;;
 䁔	xr;;
 䁢	xr;;
+䃠	xr;;
 䍗	xr;;
 䍻	xr;;
 䗠	xr;;
@@ -36151,6 +36166,7 @@ sort: by_weight
 䬺	yh;;
 䭐	yh;;
 䭥	yh;;
+䱀	yh;;
 䵮	yh;;
 仰	yh;rp
 佒	yh;;
@@ -38964,6 +38980,7 @@ sort: by_weight
 𪑌	yu;;
 𪑝	yu;;
 𪓊	yu;;
+𮬛	yu;;
 㘣	yr;;
 㛪	yr;;
 㟲	yr;;
@@ -40298,6 +40315,7 @@ sort: by_weight
 𪏉	vj;;
 𪗦	vj;;
 𪘪	vj;;
+𰲳	vj;;
 㕩	vh;;
 㙊	vh;;
 㙣	vh;;

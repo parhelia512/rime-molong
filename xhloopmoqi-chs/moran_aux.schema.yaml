@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_aux
   name: 魔然·輔篩
-  version: "20250214"
+  version: "20250418"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -68,13 +68,13 @@ engine:
     - lua_translator@*moran_aux_translator
     - lua_translator@*moran_pin*panacea_translator
   filters:
-    #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
+    - lua_filter@*moran_hint_filter@auxfilter
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_fix_filter
     - lua_filter@*moran_pin*pin_filter
-    - simplifier
     - simplifier@emoji
     - simplifier@chaifen
+    - simplifier
     - simplifier@std_tw
     - simplifier@std_hk
     - simplifier@std_dzing
@@ -150,7 +150,7 @@ chaifen:
   tips: char
   show_in_comment: true
   inherit_comment: true
-  comment_form:
+  comment_format:
     - "xform/-/ /"
     - "xform/〕〔/｜/"
 
@@ -341,6 +341,11 @@ moran:
   # any：任意字
   aux_position: any
 
+  # 輔助碼提示
+  # 格式爲：<匹配的輔助碼> ¦ <詞典中的輔助碼>
+  # 該功能不顯示拆分，建議使用 Ctrl+i 顯示單字拆分
+  enable_aux_hint: false
+
   # 「置頂」功能相關設置
   # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂，被置頂的候選位置固定，不再參與調頻
   # 對同一輸入碼最高支持8個置頂詞，當嘗試置頂第9個詞時，最早被置頂的詞將會失效
@@ -361,6 +366,14 @@ moran:
       # 自由加詞模式開關，開啓此模式後，輸入「編碼A」//並空格上屏後會進入加詞狀態，此時可以連續地、不受束縛地輸入，再次按下x//空格退出加詞狀態，期間輸入的內容將會被記錄爲「編碼A」的新置頂詞
       # 此模式適合造一些混合詞，如「A4紙」、「KOS-MOS」等
       freestyle: false
+
+  # 「通用」字符集設置
+  # 不影響「增廣」：增廣仍顯示*所有*字符
+  #
+  # both: 允許繁體和簡體同時顯示
+  # simp: 只顯示簡化字
+  # trad: 只顯示繁體字
+  charset: both
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence

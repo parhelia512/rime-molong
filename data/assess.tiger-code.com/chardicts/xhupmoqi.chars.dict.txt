@@ -56,6 +56,7 @@
 㷉	yU;uc	0
 㷤	hU;th	0
 㷤	xT;th	0
+㷤	hE;th	0
 㸃	dM;lv	0
 㸆	kC;hf	0
 㸑	cR;jh	0
@@ -90,6 +91,8 @@
 䊨	lO;wm	0
 䍃	yZ;vf	0
 䍍	kZ;tf	0
+䍍	gL;tf	0
+䍍	gU;tf	0
 䎩	zI	0
 䏋	sU;ys	0
 䏿	qI;ho	0
@@ -224,7 +227,7 @@
 丶	dM;dd	718
 丶	vU;dd	40
 丷	bA;dp	595
-丸	wJ;ld	1817
+丸	wJ;jd	1817
 丹	dJ;kd	3242
 为	wW;ld	0
 主	vU;wt	11740
@@ -2770,6 +2773,7 @@
 喿	sC;km	331
 喿	zC;km	331
 嗀	hO;tu	273
+嗀	hU;tu	0
 嗁	tI;kj	245
 嗂	yC;kf	251
 嗃	gC;kk	306
@@ -15451,6 +15455,7 @@
 糑	nO;mg	210
 糒	bW;my	310
 糓	gU;tu	293
+糓	gZ;tu	0
 糔	sC;mi	231
 糔	xQ;mi	231
 糔	zC;mi	231
@@ -21247,7 +21252,7 @@
 躨	kV;zw	238
 躩	jT;zy	265
 躪	lB;zv	404
-身	jR;zc	0
+身	yR;zc	10
 身	uF;zc	6688
 躬	gS;ug	825
 躭	dJ;ue	312
@@ -24600,6 +24605,7 @@
 饥	jI;uj	0
 饦	tO;uq	0
 饧	xK;up	0
+饨	dY;ut	0
 饨	tY;ut	0
 饩	xI;uq	0
 饪	rF;uw	0
@@ -27905,7 +27911,6 @@
 𤕈	lM	0
 𩠐	uZ	0
 丼	dS;jd	39
-𮱜	gV	0
 𡆡	qI	0
 𡆡	qU	0
 𡆢	qQ	0
@@ -27918,6 +27923,7 @@
 丶	pP;dd	0
 丷	pP;dp	0
 乁	pP;nn	0
+⺄	pP	0
 乂	pP;pn	0
 乊	pP;pb	0
 乚	pP;vv	0
@@ -28009,12 +28015,14 @@
 𡭔	pP	0
 䒑	pP;ba	0
 龸	pP	0
+㐅	pP;pd	0
 龻	pP;xx	0
 㐄	pP;uv	0
 𠂉	pP	0
 𠃓	pP	0
 𥫗	pP	0
 ⻗	pP	0
+⺁	pP	0
 〇	lK;vv	981
 の	nO	0
 𠷡	bD	0
@@ -28790,7 +28798,7 @@
 㝃	mM;ze	0	# auto
 㝃	wJ;ze	0	# auto
 㝄	iY;wt	0	# auto
-㝅	gZ;tz	0	# auto
+㝅	gZ;tz	0
 㝇	iY;wz	0	# auto
 㝈	lR;xz	0	# auto
 㝉	vU;ba	0	# auto
@@ -29211,7 +29219,7 @@
 㤂	jI;jx	0	# auto
 㤃	fH;xf	0	# auto
 㤄	pW;xj	0	# auto
-㤅	aI;wx	0	# auto
+㤅	aI;wx	0
 㤆	fJ;xy	0	# auto
 㤇	aO;xy	0	# auto
 㤈	qB;xx	0	# auto
@@ -30137,13 +30145,14 @@
 㲁	vS	0	# auto
 㲂	iG;xu	0	# auto
 㲃	jQ;bu	0	# auto
-㲄	jT;tu	0	# auto
-㲄	kU;tu	0	# auto
+㲄	jT;tu	0
+㲄	kU;tu	0
+㲄	kZ;tu	0
 㲅	jI;bu	0	# auto
 㲆	lK;ts	0	# auto
 㲈	tC;tk	0	# auto
 㲈	uC;tk	0	# auto
-㲉	qT;tl	0	# auto
+㲉	qT;tl	0
 㲊	rV;bu	0	# auto
 㲌	nG;mn	0	# auto
 㲍	vI	0	# auto
@@ -34695,8 +34704,8 @@
 𠀱	mZ;bf	0	# auto
 𠀷	jI;ac	0	# auto
 𠀸	yE;av	0	# auto
-𠀼	qM;bx	0	# auto
-𠀼	xX;bx	0	# auto
+𠀼	qM;bx	0
+𠀼	xX;bx	0
 𠁉	iU;aw	0	# auto
 𠁷	iJ;ii	0	# auto
 𠂄	hR;dr	0	# auto
@@ -38100,13 +38109,12 @@
 𣄠	bN;fq	0	# auto
 𣄧	sV;fb	0	# auto
 𣄧	wW;fb	0	# auto
-𣄮	zI;wk	0	# auto
-𣄰	eE;wk	0	# auto
-𣄱	jI;wt	0	# auto
-𣄲	kV;wv	0	# auto
-𣄴	lL;wx	0	# auto
-𣄸	hO;wk	0	# auto
-𣄺	wW;ww	0	# auto
+𣄮	zI;wk	0
+𣄰	eE;wk	0
+𣄱	jI;wt	0
+𣄴	lL;wx	0
+𣄸	hO;wk	0
+𣄺	wW;ww	0
 𣄻	vO;ov	0	# auto
 𣄿	tK;od	0	# auto
 𣅃	zD;ob	0	# auto
@@ -38797,7 +38805,7 @@
 𣪯	tS;bu	0	# auto
 𣪶	uJ;su	0	# auto
 𣪸	gU;tk	0	# auto
-𣪹	qT;ti	0	# auto
+𣪹	qT;ti	0
 𣫀	gU;tk	0	# auto
 𣫌	gZ;tz	0	# auto
 𣫐	iZ;tu	0	# auto
@@ -45560,7 +45568,7 @@
 𩇇	hY;yl	0	# auto
 𩇏	jM;yj	0	# auto
 𩇐	qU;yv	0	# auto
-𩇕	jK;fp	0	# auto
+𩇕	jK;fp	0
 𩇖	iF;yo	0	# auto
 𩇜	iG;fe	0	# auto
 𩇜	vF;fe	0	# auto
@@ -47281,8 +47289,8 @@
 𩿤	vA;mn	0	# auto
 𩿥	qU;dn	0	# auto
 𩿧	fU;rn	0	# auto
-𩿩	dO;in	0	# auto
-𩿩	qU;in	0	# auto
+𩿩	dO;in	0
+𩿩	qU;in	0
 𩿪	iI;in	0	# auto
 𩿬	yZ;yn	0	# auto
 𩿷	tI;un	0	# auto
@@ -48785,8 +48793,8 @@
 𣇑	uU	0	# auto
 𥍣	nV;mk	0	# auto
 𥛶	xI	0	# auto
-𪇄	kZ;tn	0	# auto
-𪇄	kU;tn	0	# auto
+𪇄	kZ;tn	0
+𪇄	kU;tn	0
 𤊁	dI	0	# auto
 𰉲	wJ	0	# auto
 𩞡	iI	0	# auto
@@ -49162,7 +49170,7 @@
 𡩳	mU	0	# auto
 𪮥	bJ	0	# auto
 𥰲	hS;vg	0	# auto
-𪁜	lH;ln	0	# auto
+𪁜	lH;ln	0
 𪳄	lL	0	# auto
 𡤴	qI	0	# auto
 𥫋	gS;il	0	# auto
@@ -49416,7 +49424,7 @@
 𠙜	vI	0	# auto
 𠷩	jL	0	# auto
 𦻓	iG	0	# auto
-𦎯	gZ;ty	0	# auto
+𦎯	gZ;ty	0
 𡍉	bW	0	# auto
 𪳥	gV	0	# auto
 𬿆	bJ	0	# auto
@@ -49767,7 +49775,7 @@
 𡒁	jI;tj	0	# auto
 𪺄	jN	0	# auto
 𬫌	yT	0	# auto
-𧀧	mG;cw	0	# auto
+𧀧	mG;cw	0
 𫦲	xU	0	# auto
 𲅂	rZ	0	# auto
 𫅐	yH	0	# auto
@@ -50019,7 +50027,7 @@
 𢏯	jI;gj	0	# auto
 𱵁	uF	0	# auto
 𱖙	hF	0	# auto
-𣪨	xT;tt	0	# auto
+𣪨	xT;tt	0
 𫣑	yK	0	# auto
 𱖬	lD	0	# auto
 𭑰	mU	0	# auto
@@ -50634,7 +50642,7 @@
 𠍌	mI	0	# auto
 𤶫	jQ	0	# auto
 𬧋	vJ	0	# auto
-𧹲	hU;ti	0	# auto
+𧹲	hU;ti	0
 𠊂	jY	0	# auto
 𧚙	zU	0	# auto
 𫒭	bC	0	# auto
@@ -50762,7 +50770,7 @@
 𡷯	wU	0	# auto
 𦡝	aI	0	# auto
 𢜅	lK	0	# auto
-𤚲	gZ	0	# auto
+𤚲	gZ	0
 𥬐	uF;vu	0	# auto
 𣬀	xI	0	# auto
 𢫋	tU	0	# auto
@@ -50960,7 +50968,7 @@
 𦓁	uZ	0	# auto
 𱖇	qM	0	# auto
 𪠓	gL	0	# auto
-𬆯	gZ	0	# auto
+𬆯	gZ	0
 𡷈	kA;uu	0	# auto
 𣷫	sU;dw	0	# auto
 𣷫	yZ;dw	0	# auto
@@ -51715,7 +51723,7 @@
 𥀏	mA;wp	0	# auto
 𢳪	uU	0	# auto
 𩷩	iF	0	# auto
-𣫔	dU;tu	0	# auto
+𣫔	dU;tu	0
 𢛸	dK	0	# auto
 𠫁	yC	0	# auto
 𠸖	lK	0	# auto
@@ -56368,7 +56376,7 @@
 𢉮	uF	0	# auto
 𣺩	uU	0	# auto
 𥂯	zU	0	# auto
-𪍠	kU;tw	0	# auto
+𪍠	kU;tw	0
 𬤌	iA	0	# auto
 𡒚	yR	0	# auto
 𪟜	uA	0	# auto
@@ -56960,7 +56968,8 @@
 𡦯	nP	0	# auto
 𪯂	yK	0	# auto
 𡆛	vV	0	# auto
-𣄲	gV;wv	0	# auto
+𣄲	kV;wv	0
+𣄲	gV;wv	0
 𫈜	yZ	0	# auto
 𬋁	cJ	0	# auto
 𤻟	mG	0	# auto
@@ -59648,7 +59657,7 @@
 𠄋	qM	0	# auto
 𠄒	iV;pc	0	# auto
 𠄒	uA;pc	0	# auto
-𠄔	hR	0	# auto
+𠄔	hR	0
 𠄕	nD	0	# auto
 𠄘	iG	0	# auto
 𠄙	vG	0	# auto
@@ -64930,7 +64939,7 @@
 𢢟	rE	0	# auto
 𢢠	dO	0	# auto
 𢢡	aO	0	# auto
-𢢢	qT	0	# auto
+𢢢	qT	0
 𢢣	xP	0	# auto
 𢢤	vC	0	# auto
 𢢥	cE	0	# auto
@@ -67301,11 +67310,11 @@
 𣩿	lO	0	# auto
 𣪅	oU	0	# auto
 𣪆	uA	0	# auto
-𣪊	hU	0	# auto
-𣪊	jL	0	# auto
-𣪊	kE	0	# auto
-𣪊	qN	0	# auto
-𣪊	qT	0	# auto
+𣪊	hU	0
+𣪊	jL	0
+𣪊	kE	0
+𣪊	qN	0
+𣪊	qT	0
 𣪋	jQ	0	# auto
 𣪍	dM	0	# auto
 𣪎	hU	0	# auto
@@ -67344,7 +67353,7 @@
 𣪱	gU	0	# auto
 𣪱	vU	0	# auto
 𣪲	zC	0	# auto
-𣪳	hU	0	# auto
+𣪳	hU	0
 𣪴	yI	0	# auto
 𣪵	dM	0	# auto
 𣪷	hV	0	# auto
@@ -67361,7 +67370,7 @@
 𣫄	sJ	0	# auto
 𣫅	hU	0	# auto
 𣫆	qK	0	# auto
-𣫈	hU;ty	0	# auto
+𣫈	hU;ty	0
 𣫊	gU	0	# auto
 𣫋	gU	0	# auto
 𣫏	hV	0	# auto
@@ -69760,8 +69769,8 @@
 𤴐	lW	0	# auto
 𤴑	lW	0	# auto
 𤴒	lW	0	# auto
-𤴓	vG;az	0	# auto
-𤴓	yA;az	0	# auto
+𤴓	vG;az	0
+𤴓	yA;az	0
 𤴔	pI	0	# auto
 𤴔	uU	0	# auto
 𤴔	yA	0	# auto
@@ -70150,7 +70159,7 @@
 𥀊	wW	0	# auto
 𥀋	zI	0	# auto
 𥀍	pI	0	# auto
-𥀎	qT;tp	0	# auto
+𥀎	qT;tp	0
 𥀑	zI	0	# auto
 𥀒	zI	0	# auto
 𥀕	bI	0	# auto
@@ -70768,7 +70777,7 @@
 𥔨	zJ	0	# auto
 𥔰	bC	0	# auto
 𥔰	pC	0	# auto
-𥔳	qT	0	# auto
+𥔳	qT	0
 𥔵	cI	0	# auto
 𥔾	kL	0	# auto
 𥕃	iF	0	# auto
@@ -72955,6 +72964,7 @@
 𦔻	kU	0	# auto
 𦔻	uG	0	# auto
 𦔻	zD	0	# auto
+𦔻	tK	0
 𦔽	tK	0	# auto
 𦔾	fU	0	# auto
 𦕀	qI	0	# auto
@@ -73469,7 +73479,7 @@
 𦣹	zI;ke	0	# auto
 𦣼	vI	0	# auto
 𦣼	zI	0	# auto
-𦣽	hV	0	# auto
+𦣽	hV	0
 𦣿	jK	0	# auto
 𦤀	iZ	0	# auto
 𦤀	xQ	0	# auto
@@ -76102,7 +76112,7 @@
 𧯮	fG	0	# auto
 𧯳	wJ	0	# auto
 𧯷	jB	0	# auto
-𧯸	gU	0	# auto
+𧯸	gU	0
 𧯹	yB	0	# auto
 𧯻	pI	0	# auto
 𧯿	pI	0	# auto
@@ -82958,7 +82968,7 @@
 𫜒	tO	0	# auto
 𫜓	jR	0	# auto
 𫜔	pI	0	# auto
-𫜕	kU	0	# auto
+𫜕	kU	0
 𫜗	lA	0	# auto
 𫜗	lI	0	# auto
 𫜗	nE	0	# auto
@@ -85828,8 +85838,8 @@
 𬸩	aO	0	# auto
 𬸩	wO	0	# auto
 𬸫	tR	0	# auto
-𬸬	kZ	0	# auto
-𬸬	kU	0	# auto
+𬸬	kZ	0
+𬸬	kU	0
 𬸭	yA	0	# auto
 𬸯	pI	0	# auto
 𬸰	hE	0	# auto
@@ -85900,7 +85910,6 @@
 𬺺	xI	0	# auto
 𬺽	xI	0	# auto
 𬺿	nH	0	# auto
-𬻀	pU	0	# auto
 𬻂	xI	0	# auto
 𬻃	tM	0	# auto
 𬻆	wU	0	# auto
@@ -94728,7 +94737,7 @@
 𱋚	bW	0	# auto
 𱋜	mD	0	# auto
 𱋝	bU	0	# auto
-𱋞	kU	0	# auto
+𱋞	kU	0
 𱋟	hU	0	# auto
 𱋠	tZ	0	# auto
 𱋡	lZ	0	# auto
@@ -98779,7 +98788,6 @@
 啂	gZ;kv	0
 拘	gZ;fj	0
 痀	gZ;bj	0
-糓	gZ;tu	0
 蚼	xU;ij	0
 㧽	hU;fg	0
 㼋	mZ;gg	0
@@ -98789,8 +98797,6 @@
 䀜	xT;wo	0
 䀰	yK;og	0
 䊺	gU;sh	0
-䍍	gL;tf	0
-䍍	gU;tf	0
 䡩	hZ;ib	0
 䡩	tZ;ib	0
 䡩	gU;ib	0
@@ -99007,7 +99013,6 @@
 㮝	lO;me	0
 㷎	xP;hr	0
 㷎	hS;hr	0
-㷤	hE;th	0
 㿣	xX;br	0
 㿥	hE;bv	0
 䌾	hE;sg	0
@@ -99079,7 +99084,6 @@
 䮸	hU;jm	0
 䲵	hU;un	0
 唬	xX;kj	0
-嗀	hU;tu	0
 姱	hU;nk	0
 汻	hL;dw	0
 浒	xU;dw	0
@@ -99628,7 +99632,6 @@
 椌	kS;mg	0
 涳	nH;dg	0
 㔚	kZ;ul	0
-㲄	kZ;tu	0
 䳟	kZ;on	0
 䳟	mO;on	0
 竘	qU;lj	0
@@ -101193,4 +101196,496 @@
 𱹀	kQ	0
 𠂤	uI;pl	0
 𠂤	vV;pl	0
+𠃓	yH	0
+𠃓	yI	0
+𭴈	yY	0
+𰟋	yY	0
+𬻀	pU	0
+𢌽	nP	0
+𠂆	yI;pp	0
+𤚴	fJ	0
+𮯰	aO	0
+𮯰	mF	0
+𮯱	vZ	0
+𮯱	dJ	0
+𮯲	tM	0
+𮯲	tY	0
+𮯲	vY	0
+𮯳	xP	0	# auto
+𮯴	vH	0	# auto
+𮯴	nI	0	# auto
+𮯵	mO	0	# auto
+𮯵	oU	0	# auto
+𮯵	wJ	0	# auto
+𮯶	jI	0	# auto
+𮯷	iA	0	# auto
+𮯸	lI	0	# auto
+𮯹	sU	0	# auto
+𮯺	qN	0	# auto
+𮯻	vF	0	# auto
+𮯻	jK	0	# auto
+𮯼	jP	0	# auto
+𮯾	hJ	0	# auto
+𮰁	uH	0	# auto
+𮰁	fU	0	# auto
+𮰄	iS	0	# auto
+𮰅	lJ	0	# auto
+𮰅	lH	0	# auto
+𮰅	dM	0	# auto
+𮰈	lK	0	# auto
+𮰉	pK	0	# auto
+𮰊	jI	0	# auto
+𮰋	dZ	0	# auto
+𮰌	xT	0	# auto
+𮰌	yZ	0	# auto
+𮰌	xN	0	# auto
+𮰍	uI	0	# auto
+𮰍	iI	0	# auto
+𮰎	xN	0	# auto
+𮰑	hJ	0	# auto
+𮰑	aN	0	# auto
+𮰑	iH	0	# auto
+𮰒	yJ	0	# auto
+𮰒	yK	0	# auto
+𮰓	qT	0	# auto
+𮰔	wW	0	# auto
+𮰕	uU	0	# auto
+𮰛	rF	0	# auto
+𮰜	aO	0	# auto
+𮰝	dM	0	# auto
+𮰟	fF	0	# auto
+𮰠	dH	0	# auto
+𮰡	bO	0	# auto
+𮰡	yU	0	# auto
+𮰣	dD	0	# auto
+𮰣	fH	0	# auto
+𮰤	bA	0	# auto
+𮰤	jU	0	# auto
+𮰥	hR	0	# auto
+𮰦	zZ	0	# auto
+𮰧	yU	0	# auto
+𮰪	dZ	0	# auto
+𮰫	aN	0	# auto
+𮰬	iH	0	# auto
+𮰬	uH	0	# auto
+𮰮	nS	0	# auto
+𮰰	hV	0	# auto
+𮰲	vC	0	# auto
+𮰶	fJ	0	# auto
+𮰸	yI	0	# auto
+𮰹	mN	0	# auto
+𮰻	fG	0	# auto
+𮰼	wW	0	# auto
+𮰽	yT	0	# auto
+𮰾	lJ	0	# auto
+𮰿	qP	0	# auto
+𮱀	xK	0	# auto
+𮱀	uA	0	# auto
+𮱁	hX	0	# auto
+𮱁	jB	0	# auto
+𮱂	yU	0	# auto
+𮱅	lZ	0	# auto
+𮱆	mB	0	# auto
+𮱇	lM	0	# auto
+𮱈	hV	0	# auto
+𮱊	lO	0	# auto
+𮱋	xN	0	# auto
+𮱌	lJ	0	# auto
+𮱍	qK	0	# auto
+𮱎	hZ	0	# auto
+𮱐	wJ	0	# auto
+𮱑	yJ	0	# auto
+𮱒	nN	0	# auto
+𮱓	lI	0	# auto
+𮱓	iI	0	# auto
+𮱔	mJ	0	# auto
+𮱕	yK	0	# auto
+𮱚	lU	0	# auto
+𮱜	gV	0	# auto
+𮱞	iS	0	# auto
+𮱠	jR	0	# auto
+𮱠	jY	0	# auto
+𮱡	uC	0	# auto
+𮱢	uA	0	# auto
+𮱣	tV	0	# auto
+𮱥	rF	0	# auto
+𮱥	yB	0	# auto
+𮱦	fG	0	# auto
+𮱧	dD	0	# auto
+𮱨	hJ	0	# auto
+𮱨	aN	0	# auto
+𮱩	yY	0	# auto
+𮱪	kX	0	# auto
+𮱫	bB	0	# auto
+𮱬	yT	0	# auto
+𮱭	lK	0	# auto
+𮱯	dJ	0	# auto
+𮱱	fG	0	# auto
+𮱲	jI	0	# auto
+𮱲	qI	0	# auto
+𮱵	qN	0	# auto
+𮱸	bI	0	# auto
+𮱹	uJ	0	# auto
+𮱻	jK	0	# auto
+𮱼	pW	0	# auto
+𮱿	xM	0	# auto
+𮲀	jU	0	# auto
+𮲁	qM	0	# auto
+𮲂	fG	0	# auto
+𮲃	lE	0	# auto
+𮲃	yT	0	# auto
+𮲄	tS	0	# auto
+𮲅	uY	0	# auto
+𮲅	uF	0	# auto
+𮲆	bU	0	# auto
+𮲇	gO	0	# auto
+𮲈	lH	0	# auto
+𮲉	mW	0	# auto
+𮲊	cI	0	# auto
+𮲊	yR	0	# auto
+𮲋	jY	0	# auto
+𮲍	vI	0	# auto
+𮲎	iG	0	# auto
+𮲎	uG	0	# auto
+𮲏	dG	0	# auto
+𮲏	jI	0	# auto
+𮲏	kV	0	# auto
+𮲐	yI	0	# auto
+𮲒	qK	0	# auto
+𮲓	iY	0	# auto
+𮲓	uU	0	# auto
+𮲔	vU	0	# auto
+𮲔	aI	0	# auto
+𮲔	gU	0	# auto
+𮲕	mU	0	# auto
+𮲙	jK	0	# auto
+𮲙	jB	0	# auto
+𮲛	xI	0	# auto
+𮲝	yC	0	# auto
+𮲞	bF	0	# auto
+𮲟	xU	0	# auto
+𮲡	yI	0	# auto
+𮲢	nI	0	# auto
+𮲥	tK	0	# auto
+𮲥	iG	0	# auto
+𮲦	sZ	0	# auto
+𮲧	fG	0	# auto
+𮲨	bB	0	# auto
+𮲫	bF	0	# auto
+𮲫	xM	0	# auto
+𮲫	xI	0	# auto
+𮲬	tD	0	# auto
+𮲬	lI	0	# auto
+𮲭	cS	0	# auto
+𮲮	uL	0	# auto
+𮲯	sI	0	# auto
+𮲰	bI	0	# auto
+𮲱	sH	0	# auto
+𮲲	qK	0	# auto
+𮲴	vI	0	# auto
+𮲶	jM	0	# auto
+𮲸	yH	0	# auto
+𮲹	tA	0	# auto
+𮲺	hE	0	# auto
+𮲺	xP	0	# auto
+𮲺	gE	0	# auto
+𮲿	vG	0	# auto
+𮳃	iA	0	# auto
+𮳅	wA	0	# auto
+𮳆	hE	0	# auto
+𮳉	mU	0	# auto
+𮳊	yI	0	# auto
+𮳍	kO	0	# auto
+𮳏	xM	0	# auto
+𮳐	iF	0	# auto
+𮳑	jP	0	# auto
+𮳔	fW	0	# auto
+𮳖	yJ	0	# auto
+𮳗	uU	0	# auto
+𮳚	wO	0	# auto
+𮳛	fW	0	# auto
+𮳜	yI	0	# auto
+𮳝	fW	0	# auto
+𮳠	fG	0	# auto
+𮳢	vU	0	# auto
+𮳣	lM	0	# auto
+𮳤	gZ	0	# auto
+𮳥	lC	0	# auto
+𮳦	yJ	0	# auto
+𮳧	qN	0	# auto
+𮳨	dI	0	# auto
+𮳬	lM	0	# auto
+𮳮	jP	0	# auto
+𮳱	fF	0	# auto
+𮳱	hV	0	# auto
+𮳳	cS	0	# auto
+𮳳	zS	0	# auto
+𮳳	iL	0	# auto
+𮳴	yE	0	# auto
+𮳵	jX	0	# auto
+𮳵	gU	0	# auto
+𮳷	bU	0	# auto
+𮳸	hS	0	# auto
+𮳺	fJ	0	# auto
+𮳺	mU	0	# auto
+𮳻	lI	0	# auto
+𮴀	wJ	0	# auto
+𮴂	yI	0	# auto
+𮴃	dE	0	# auto
+𮴃	dI	0	# auto
+𮴅	lY	0	# auto
+𮴆	pW	0	# auto
+𮴇	fG	0	# auto
+𮴉	vI	0	# auto
+𮴊	qU	0	# auto
+𮴋	uI	0	# auto
+𮴌	lJ	0	# auto
+𮴏	yI	0	# auto
+𮴐	iL	0	# auto
+𮴐	yI	0	# auto
+𮴔	yE	0	# auto
+𮴗	yC	0	# auto
+𮴘	dA	0	# auto
+𮴙	zZ	0	# auto
+𮴚	kG	0	# auto
+𮴚	jM	0	# auto
+𮴛	hE	0	# auto
+𮴜	kF	0	# auto
+𮴜	yB	0	# auto
+𮴞	wW	0	# auto
+𮴟	lK	0	# auto
+𮴡	zD	0	# auto
+𮴡	kU	0	# auto
+𮴡	uG	0	# auto
+𮴣	uZ	0	# auto
+𮴤	iG	0	# auto
+𮴦	fU	0	# auto
+𮴦	fZ	0	# auto
+𮴧	uI	0	# auto
+𮴧	sI	0	# auto
+𮴧	yI	0	# auto
+𮴨	cS	0	# auto
+𮴩	xI	0	# auto
+𮴫	wG	0	# auto
+𮴯	yH	0	# auto
+𮴯	iH	0	# auto
+𮴶	yK	0	# auto
+𮴷	wW	0	# auto
+𮴸	cJ	0	# auto
+𮴹	lJ	0	# auto
+𮴼	yJ	0	# auto
+𮴾	wW	0	# auto
+𮴿	tM	0	# auto
+𮵁	bI	0	# auto
+𮵅	wO	0	# auto
+𮵅	nD	0	# auto
+𮵅	xI	0	# auto
+𮵆	wW	0	# auto
+𮵉	iD	0	# auto
+𮵋	yJ	0	# auto
+𮵎	lW	0	# auto
+𮵏	yI	0	# auto
+𮵐	qN	0	# auto
+𮵐	dN	0	# auto
+𮵑	nC	0	# auto
+𮵒	yU	0	# auto
+𮵓	yJ	0	# auto
+𮵕	bK	0	# auto
+𮵕	mC	0	# auto
+𮵕	mZ	0	# auto
+𮵕	bS	0	# auto
+𮵖	yU	0	# auto
+𮵙	yT	0	# auto
+𮵛	xQ	0	# auto
+𮵠	yI	0	# auto
+𮵣	vF	0	# auto
+𮵤	uF	0	# auto
+𮵤	vF	0	# auto
+𮵤	rF	0	# auto
+𮵥	iF	0	# auto
+𮵨	bB	0	# auto
+𮵫	lN	0	# auto
+𮵬	sR	0	# auto
+𮵬	cS	0	# auto
+𮵭	fG	0	# auto
+𮵮	dN	0	# auto
+𮵱	lD	0	# auto
+𮵳	yK	0	# auto
+𮵴	vI	0	# auto
+𮵴	qI	0	# auto
+𮵷	bI	0	# auto
+𮵷	jB	0	# auto
+𮵺	qI	0	# auto
+𮵻	bK	0	# auto
+𮵽	dZ	0	# auto
+𮵾	jB	0	# auto
+𮵿	iA	0	# auto
+𮶀	eN	0	# auto
+𮶁	gR	0	# auto
+𮶁	lY	0	# auto
+𮶂	fG	0	# auto
+𮶃	tC	0	# auto
+𮶅	rS	0	# auto
+𮶆	vZ	0	# auto
+𮶇	qU	0	# auto
+𮶈	jQ	0	# auto
+𮶋	iS	0	# auto
+𮶌	qN	0	# auto
+𮶍	iS	0	# auto
+𮶏	mB	0	# auto
+𮶏	xR	0	# auto
+𮶐	zI	0	# auto
+𮶑	fG	0	# auto
+𮶑	wH	0	# auto
+𮶒	xI	0	# auto
+𮶔	wW	0	# auto
+𮶕	xI	0	# auto
+𮶖	xX	0	# auto
+𮶗	gJ	0	# auto
+𮶘	yY	0	# auto
+𮶙	jM	0	# auto
+𮶚	vI	0	# auto
+𮶛	qI	0	# auto
+𮶜	lJ	0	# auto
+𮶜	vD	0	# auto
+𮶝	aI	0	# auto
+𮶝	zI	0	# auto
+𮶝	eE	0	# auto
+𮶝	iD	0	# auto
+𮶞	fW	0	# auto
+𮶟	lJ	0	# auto
+𮶠	bU	0	# auto
+𮶡	yE	0	# auto
+𮶡	xP	0	# auto
+𮶢	iL	0	# auto
+𮶤	yY	0	# auto
+𮶦	mW	0	# auto
+𮶩	sI	0	# auto
+𮶪	jU	0	# auto
+𮶫	jM	0	# auto
+𮶬	jM	0	# auto
+𮶭	rV	0	# auto
+𮶮	bW	0	# auto
+𮶯	xM	0	# auto
+𮶳	wW	0	# auto
+𮶷	mB	0	# auto
+𮶷	mJ	0	# auto
+𮶸	jB	0	# auto
+𮶺	rV	0	# auto
+𮶻	fW	0	# auto
+𮶼	uI	0	# auto
+𮶽	fJ	0	# auto
+𮶽	qQ	0	# auto
+𮶾	xN	0	# auto
+𮶿	yI	0	# auto
+𮷃	yI	0	# auto
+𮷄	jN	0	# auto
+𮷄	jT	0	# auto
+𮷅	dS	0	# auto
+𮷅	jM	0	# auto
+𮷇	lE	0	# auto
+𮷈	jI	0	# auto
+𮷈	qI	0	# auto
+𮷉	yH	0	# auto
+𮷊	bO	0	# auto
+𮷍	vU	0	# auto
+𮷏	yY	0	# auto
+𮷖	gV	0	# auto
+𮷗	tD	0	# auto
+𮷗	dD	0	# auto
+𮷚	zH	0	# auto
+𮷛	hS	0	# auto
+𮷝	tC	0	# auto
+𮷞	tK	0	# auto
+𮷟	hE	0	# auto
+𮷠	jK	0	# auto
+𮷡	tI	0	# auto
+𮷢	jB	0	# auto
+𮷣	yR	0	# auto
+𮷣	wW	0	# auto
+𮷤	xX	0	# auto
+𮷥	tK	0	# auto
+𮷧	uI	0	# auto
+𮷧	kO	0	# auto
+𮷨	lI	0	# auto
+𮷩	lR	0	# auto
+𮷩	yT	0	# auto
+𮷪	jM	0	# auto
+𮷬	xI	0	# auto
+𮷯	xI	0	# auto
+𮷰	bC	0	# auto
+𮷲	cS	0	# auto
+𮷳	xM	0	# auto
+𮷴	dE	0	# auto
+𮷵	jI	0	# auto
+𮷶	yI	0	# auto
+𮷷	jI	0	# auto
+𮷸	yR	0	# auto
+𮷺	qB	0	# auto
+𮷻	lQ	0	# auto
+𮷽	uU	0	# auto
+𮸀	lM	0
+𮸀	jM	0
+𮸂	rJ	0	# auto
+𮸃	pI	0	# auto
+𮸄	rS	0	# auto
+𮸄	yT	0	# auto
+𮸆	qK	0	# auto
+𮸈	jY	0	# auto
+𮸊	iJ	0	# auto
+𮸋	yU	0	# auto
+𮸌	uI	0	# auto
+𮸏	jR	0	# auto
+𮸏	jM	0	# auto
+𮸏	cR	0	# auto
+𮸐	fH	0	# auto
+𮸔	bO	0	# auto
+𮸕	fU	0	# auto
+𮸖	jM	0	# auto
+𮸗	xM	0	# auto
+𮸙	qB	0	# auto
+𮸛	kD	0	# auto
+𮸜	kD	0	# auto
+𮸞	qI	0	# auto
+𮸟	uH	0	# auto
+𮸠	xM	0	# auto
+𮸢	kD	0	# auto
+𮸤	aO	0	# auto
+𮸥	xP	0	# auto
+𮸥	yA	0	# auto
+𮸦	fU	0	# auto
+𮸧	qT	0	# auto
+𮸨	qK	0	# auto
+𮸩	xK	0	# auto
+𮸩	xI	0	# auto
+𮸫	fJ	0	# auto
+𮸬	yY	0	# auto
+𮸮	xP	0	# auto
+𮸲	lS	0	# auto
+𮸳	uC	0	# auto
+𮸶	xM	0	# auto
+𮸷	yY	0	# auto
+𮸹	gU	0	# auto
+𮸺	pB	0	# auto
+𮸻	yH	0	# auto
+𮸼	bN	0	# auto
+𮸽	fW	0	# auto
+𮹀	pB	0	# auto
+𮹁	jY	0	# auto
+𮹂	fW	0	# auto
+𮹄	dY	0	# auto
+𮹄	tY	0	# auto
+𮹄	vY	0	# auto
+𮹅	mO	0	# auto
+𮹆	yI	0	# auto
+𮹋	vZ	0	# auto
+𮹌	wF	0	# auto
+𮹑	sI	0	# auto
+𮹓	hZ	0	# auto
+𮹕	yR	0	# auto
+𮹕	dD	0	# auto
+𮹗	lK	0	# auto
+𮹘	yK	0	# auto
+𮹙	hE	0	# auto
+𮹜	yJ	0	# auto
 #𱍒	dD	0	# auto

@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-03-06"
+version: "2025-05-10"
 sort: by_weight
 ...
 ##### 容错词
@@ -53,6 +53,8 @@ sort: by_weight
 坐骑	zo;tr ji;mk
 铁骑	tp;jf qi;mk
 铁骑	tp;jf ji;mk
+铁骑突出刀枪鸣	tp;jf qi;mk tu;bq iu;uu dc;vp ql;mv mk;kn
+铁骑突出刀枪鸣	tp;jf ji;mk tu;bq iu;uu dc;vp ql;mv mk;kn
 一骑绝尘	yi;aa qi;mk jt;sb if;xt
 一骑绝尘	yi;aa ji;mk jt;sb if;xt
 一骑当千	yi;aa qi;mk dh;xe qm;pu
@@ -141,6 +143,8 @@ sort: by_weight
 虚与委蛇	xu;hy yu;va ww;hn ue;ib
 木讷	mu;ur ne;yn
 木讷	mu;ur na;yn
+龟裂	jy;dd lp;dy
+龟裂	gv;dd lp;dy
 独乐乐	du;qi yt;px le;px
 独乐乐	du;qi le;px le;px
 众乐乐	vs;rr yt;px le;px
@@ -271,6 +275,8 @@ sort: by_weight
 应该	yb;ga gd;yr
 粘贴	vj;mv tp;bv
 粘贴	nm;mv tp;bv
+粘一粘	vj;mv yi;aa vj;mv
+粘一粘	nm;mv yi;aa nm;mv
 高句丽	gc;wk gz;bk li;ad
 高句丽	gc;wk ju;bk li;ad
 角斗士	jt;dy dz;ud ui;ua
@@ -291,6 +297,8 @@ sort: by_weight
 手如柔荑	uz;pf ru;nk rz;mm yi;cy
 温庭筠	wf;dm tk;gw yy;vy
 温庭筠	wf;dm tk;gw jy;vy
+朱祐樘	vu;pw yz;pk ig;mt
+朱祐樘	vu;pw yz;pk th;mt
 关卡	gr;bt qx;ub
 关卡	gr;bt ka;ub	1000
 三昧真火	sj;ae mw;ow vf;ub ho;br
@@ -309,12 +317,22 @@ sort: by_weight
 哺乳	pu;kf ru;vv
 脑卒中	nc;ox cu;wu vs;kl
 脑卒中	nc;ox zu;wu vs;kl
+阈值	yu;ma vi;rq
+阈值	fa;ma vi;rq
 潟湖	xi;dh hu;do
 潟湖	xp;dh hu;do
 果脯	go;tm fu;of
 果脯	go;tm pu;of
 肉脯	rz;nr fu;of
 肉脯	rz;nr pu;of
+脯氨酸	fu;of an;qn sr;yw
+脯氨酸	pu;of an;qn sr;yw
+酪氨酸	lc;yk an;qn sr;yw
+酪氨酸	lo;yk an;qn sr;yw
+没食子	mo;du ui;rg zi;la
+没食子	mw;du ui;rg zi;la
+裳凤蝶	ih;xy fg;jy dp;im
+裳凤蝶	uh;xy fg;jy dp;im
 白𬶨豚	bd;po ji;gy ty;ou
 白𬶨豚	bd;po qi;gy ty;ou
 桡骨	rc;mw gu;go
@@ -337,8 +355,26 @@ sort: by_weight
 安瓿	an;bn pz;lw
 安瓿瓶	an;bn bu;lw pk;bw
 安瓿瓶	an;bn pz;lw pk;bw
+解剖	jp;dn pz;ld
+解剖	jp;dn pc;ld
+剖分	pz;ld ff;bd
+剖分	pc;ld ff;bd
+剖腹产	pz;ld fu;ow ij;wi
+剖腹产	pc;ld fu;ow ij;wi
+剖宫产	pz;ld gs;bk ij;wi
+剖宫产	pc;ld gs;bk ij;wi
 金匮	jb;rb gv;kb
 金匮	jb;rb kv;kb
+清平乐	qk;do pk;au yt;px
+清平乐	qk;do pk;au le;px
+踏莎行	ta;zo so;cu xk;rd
+踏莎行	ta;zo ua;cu xk;rd
+莎草	so;cu cc;cu
+莎草	ua;cu cc;cu
+杉木	ua;mp mu;ur
+杉木	uj;mp mu;ur
+道在屎溺	dc;zz zd;ut ui;um nn;dg
+道在屎溺	dc;zz zd;ut ui;um ni;dg
 ### 错字
 曾经	cg;bo jk;sj
 曾今	cg;bo jb;rv

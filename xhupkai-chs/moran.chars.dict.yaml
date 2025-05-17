@@ -50,6 +50,9 @@ use_preset_vocabulary: false
 㜌	gz;un	0
 㜌	kz;un	0
 㜌	nz;un	0
+㜌	gz;nu	0
+㜌	kz;nu	0
+㜌	nz;nu	0
 㞎	ba;ub	0
 㞢	vi;ca	0
 㠪	ju;aa	0
@@ -81,7 +84,11 @@ use_preset_vocabulary: false
 㷉	ww;ch	0
 㷉	yu;ch	0
 㷤	hu;uh	0
+㷤	hu;hu	0
 㷤	xt;uh	0
+㷤	xt;hu	0
+㷤	he;uh	0
+㷤	he;hu	0
 㸃	dm;hv	0
 㸆	kc;hk	0
 㸑	cr;xf	0
@@ -90,6 +97,7 @@ use_preset_vocabulary: false
 㸦	jx;ad	0
 㹧	yh;qy	0
 㺉	hu;uq	0
+㺉	hu;qu	0
 㻀	yu;wy	0
 㻄	bc;wd	0
 㻗	bw;yf	0
@@ -122,6 +130,11 @@ use_preset_vocabulary: false
 䊨	lo;wj	0
 䍃	yz;vf	0
 䍍	kz;uf	0
+䍍	gl;uf	0
+䍍	gu;uf	0
+䍍	kz;fu	0
+䍍	gl;fu	0
+䍍	gu;fu	0
 䎩	zi;lz	0
 䏋	su;aa	0
 䏿	qi;ow	0
@@ -130,6 +143,8 @@ use_preset_vocabulary: false
 䐡	qi;wr	0
 䐨	gu;uo	0
 䐨	qt;uo	0
+䐨	gu;ou	0
+䐨	qt;ou	0
 䑁	wu;ob	0
 䑁	wu;jo	0
 䑕	uu;jy	0
@@ -3471,7 +3486,9 @@ use_preset_vocabulary: false
 喿	sc;mp	0
 喿	zc;mp	0
 嗀	ho;uk	0
-嗀	ho;uu	0
+嗀	ho;ku	0
+嗀	hu;uk	0
+嗀	hu;ku	0
 嗁	ti;kh	0
 嗂	yc;kf	0
 嗃	gc;kg	0
@@ -7389,15 +7406,14 @@ use_preset_vocabulary: false
 彚	hv;gb	0
 彚	hv;vg	0
 彚	hv;zd	0
-彛	yi;ac	0
 彛	yi;cf	0
-彛	yi;vc	0
+彛	yi;ac	0
+彜	yi;cf	0
 彜	yi;jc	0
-彝	yi;ac	4376
 彝	yi;cs	4376
 彝	yi;jc	4376
-彝	yi;vc	4376
-彞	yi;cf	0
+彝	yi;ac	4376
+彞	yi;cs	0
 彟	ho;xh	0
 彟	ho;xy	0
 彠	ho;xh	0
@@ -11011,6 +11027,7 @@ use_preset_vocabulary: false
 栕	vf;mi	0
 栖	qi;mx	20169
 栖	xi;mx	0
+栗	li;mx	29059
 栗	li;xm	29059
 栘	ii;md	0
 栘	yi;md	0
@@ -11154,7 +11171,7 @@ use_preset_vocabulary: false
 桾	jy;mj	0
 桿	gj;mh	0
 梀	cu;mu	0
-梁	ll;mb	201687
+梁	ll;md	201687
 梂	qq;mq	0
 梃	tk;mt	271
 梄	yz;my	0
@@ -11561,9 +11578,8 @@ use_preset_vocabulary: false
 榓	mi;mm	0
 榔	lh;ml	2354
 榕	rs;mr	11223
-榖	gu;hu	50
-榖	gu;uh	50
-榖	gu;uu	50
+榖	gu;mu	50
+榖	gu;um	50
 榗	jm;mj	0
 榗	jb;mj	0
 榘	ju;mj	0
@@ -11599,8 +11615,8 @@ use_preset_vocabulary: false
 榫	sy;mu	395
 榬	yr;my	0
 榭	xp;mu	5270
-榮	rs;hm	0
 榮	rs;mb	0
+榮	rs;hm	0
 榯	ui;mu	0
 榰	qi;mo	0
 榰	qi;mq	0
@@ -12454,6 +12470,9 @@ use_preset_vocabulary: false
 殼	ke;uj	0
 殼	qn;uj	0
 殼	qt;uj	0
+殼	ke;ju	0
+殼	qn;ju	0
+殼	qt;ju	0
 殽	yc;uy	0
 殾	xy;uv	0
 殿	dm;ug	225035
@@ -15925,10 +15944,8 @@ use_preset_vocabulary: false
 瑲	il;wc	0
 瑲	ql;wc	0
 瑳	co;wi	14
-瑴	jt;uu	0
 瑴	jt;uw	0
 瑴	jt;wu	0
-瑴	yu;uu	0
 瑴	yu;uw	0
 瑴	yu;wu	0
 瑵	vc;wi	0
@@ -17170,10 +17187,10 @@ use_preset_vocabulary: false
 瞆	kv;og	0
 瞇	mi;om	0
 瞈	wg;ow	0
-瞉	gz;ou	0
 瞉	gz;uo	0
-瞉	kz;ou	0
+瞉	gz;ou	0
 瞉	kz;uo	0
+瞉	kz;ou	0
 瞊	dh;ot	0
 瞋	if;ov	263
 瞌	ke;oh	7311
@@ -17281,6 +17298,7 @@ use_preset_vocabulary: false
 矌	gl;og	0
 矌	kl;og	0
 矍	jt;oy	1634
+矍	jt;ov	1634
 矍	jt;yq	1634
 矎	qs;ow	0
 矎	qs;ox	0
@@ -18229,8 +18247,8 @@ use_preset_vocabulary: false
 稽	qi;hv	1
 稾	gc;hg	0
 稿	gc;hg	59162
-穀	gu;hu	0
 穀	gu;uh	0
+穀	gu;hu	0
 穁	rs;hr	0
 穂	sv;hh	0
 穂	sv;hx	0
@@ -19203,7 +19221,7 @@ use_preset_vocabulary: false
 粯	jm;mj	0
 粯	xm;mj	0
 粰	fu;mf	0
-粱	ll;mb	5673
+粱	ll;md	5673
 粲	cj;my	2974
 粳	gg;mg	0
 粳	jk;mg	344
@@ -19251,8 +19269,10 @@ use_preset_vocabulary: false
 糑	ni;mr	0
 糑	no;mr	0
 糒	bw;my	6
-糓	gu;mu	0
 糓	gu;um	0
+糓	gu;mu	0
+糓	gz;mu	0
+糓	gz;um	0
 糔	sc;mz	0
 糔	xq;mz	0
 糔	zc;mz	0
@@ -19743,10 +19763,10 @@ use_preset_vocabulary: false
 縝	vf;sv	0
 縞	gc;sg	0
 縟	ru;sr	0
-縠	gu;su	0
 縠	gu;us	0
-縠	hu;su	46
+縠	gu;su	0
 縠	hu;us	46
+縠	hu;su	46
 縡	zd;sz	0
 縢	tg;os	19
 縣	xm;xx	0
@@ -20741,9 +20761,13 @@ use_preset_vocabulary: false
 育	yu;os	214206
 育	yu;wo	214206
 肳	wf;ow	0
+肴	xn;iy	0
+肴	xn;iy	0
+肴	yc;iy	12069
+肴	yc;iy	12069
 肴	xn;ou	0
-肴	yc;ou	12069
 肴	xn;oy	0
+肴	yc;ou	12069
 肴	yc;oy	12069
 肵	jb;oj	0
 肵	jk;oj	0
@@ -21138,6 +21162,7 @@ use_preset_vocabulary: false
 膸	ww;os	0
 膹	ff;ob	0
 膺	yk;go	6134
+膺	yk;ov	6134
 膻	dj;od	1
 膻	tj;od	0
 膻	uj;od	1908
@@ -24464,8 +24489,8 @@ use_preset_vocabulary: false
 觰	vu;jv	0
 觱	bi;jx	16
 觲	xk;jn	0
-觳	hu;ju	205
 觳	hu;uj	205
+觳	hu;ju	205
 觴	uh;jw	0
 觴	uh;jy	0
 觵	gs;jh	0
@@ -26291,7 +26316,7 @@ use_preset_vocabulary: false
 躩	jt;zy	0
 躪	lb;zl	0
 躪	lb;zv	0
-身	jr;pp	0
+身	yr;pp	0
 身	uf;pp	581990
 躬	gs;ug	43678
 躭	dj;ug	0
@@ -26504,8 +26529,8 @@ use_preset_vocabulary: false
 轀	wf;iw	0
 轁	dc;iy	0
 轁	tc;iy	0
-轂	gu;iu	0
 轂	gu;ui	0
+轂	gu;iu	0
 轃	qb;iq	0
 轃	vf;iq	0
 轄	xx;ih	0
@@ -30303,6 +30328,7 @@ use_preset_vocabulary: false
 饦	to;uq	0
 饦	to;ut	0
 饧	xk;uy	241
+饨	dy;ut	0
 饨	ty;ut	2968
 饩	xi;uq	99
 饪	rf;ur	3245
@@ -31527,10 +31553,12 @@ use_preset_vocabulary: false
 鳭	dn;nd	0
 鳮	ji;ny	0
 鳮	ji;yn	0
+鳯	fg;nj	0
 鳯	fg;jn	0
 鳰	ru;nr	0
 鳱	gj;ng	0
 鳲	ui;nu	0
+鳳	fg;na	0
 鳳	fg;jn	0
 鳴	mk;kn	0
 鳴	mk;nk	0
@@ -31611,6 +31639,7 @@ use_preset_vocabulary: false
 鴦	yh;ny	0
 鴧	yu;nj	0
 鴨	ya;nj	0
+鴨	ya;jn	0
 鴩	vi;nu	0
 鴩	yi;nu	0
 鴪	yu;nx	0
@@ -31839,10 +31868,10 @@ use_preset_vocabulary: false
 鷄	ji;nx	0
 鷅	li;nl	0
 鷆	tm;nv	0
-鷇	gz;nu	0
 鷇	gz;un	0
-鷇	kz;nu	0
+鷇	gz;nu	0
 鷇	kz;un	0
+鷇	kz;nu	0
 鷈	ti;nh	0
 鷉	ti;nh	0
 鷊	ni;ng	0
@@ -32322,13 +32351,13 @@ use_preset_vocabulary: false
 黷	du;hm	0
 黸	lu;hl	0
 黹	vi;yb	113
-黺	ff;fb	0
 黺	ff;yf	0
-黻	fu;bb	444
+黺	ff;fb	0
 黻	fu;yb	444
 黻	fu;yy	444
-黼	fu;fb	684
+黻	fu;bb	444
 黼	fu;yf	684
+黼	fu;fb	684
 黽	mb;kg	0
 黽	mb;aa	0
 黾	mb;kd	130
@@ -32902,8 +32931,8 @@ use_preset_vocabulary: false
 𬂉	ug;ob	0
 𬂩	jx;mj	0
 𬃊	vi;mv	0
-𬆮	kz;nu	0
 𬆮	kz;un	0
+𬆮	kz;nu	0
 𬇕	wj;dw	0
 𬇙	bw;db	0
 𬇙	pw;db	0
@@ -34054,14 +34083,11 @@ use_preset_vocabulary: false
 𤕈	lm;vl	0
 𩠐	uz;iz	0
 丼	ds;jd	0
-𮱜	gv;dl	0
-𮱜	gv;zm	0
 𡆡	qi;kd	0
 𡆡	qu;kd	0
 𡆢	qq;ka	0
 𲀁	ga;ij	0
 𲀁	ga;ig	0
-
 
 # 偏旁部首
 丆	pp;ap	0
@@ -34077,6 +34103,7 @@ use_preset_vocabulary: false
 丿	pp;px	0
 乀	pp;yi	0
 乁	pp;yi	0
+⺄	pp;yi	0
 乂	pp;yi	0
 乊	pp;ho	0
 乊	pp;px	0
@@ -34159,7 +34186,6 @@ use_preset_vocabulary: false
 阝	pp;er	0
 飠	pp;ui	0
 饣	pp;ui	0
-乁	pp;yi	0
 ⺈	pp;dk	0
 ⺋	pp;ee	0
 龴	pp;si	0
@@ -34182,7 +34208,7 @@ use_preset_vocabulary: false
 龶	pp;qy	0
 龷	pp;nm	0
 龸	pp;ih	0
-龹	pp;jr	0
+㐅	pp;ia	0
 龺	pp;uz	0
 龻	pp;lm	0
 㐄	pp;fg	0
@@ -34190,6 +34216,7 @@ use_preset_vocabulary: false
 𠃓	pp;yp	0
 𥫗	pp;vd	0
 ⻗	pp;yu	0
+⺁	pp;px	0
 
 # 其他增補
 〇	lk;aa	0
@@ -35008,8 +35035,8 @@ use_preset_vocabulary: false
 㝃	mm;zm	0	# auto
 㝃	wj;zm	0	# auto
 㝄	iy;xt	0	# auto
-㝅	gz;zu	0	# auto
-㝅	gz;tu	0	# auto
+㝅	gz;uz	0
+㝅	gz;zu	0
 㝇	iy;xx	0	# auto
 㝈	lr;lz	0	# auto
 㝉	vu;ba	0	# auto
@@ -35438,7 +35465,7 @@ use_preset_vocabulary: false
 㤂	ji;xj	0	# auto
 㤃	fh;xf	0	# auto
 㤄	pw;xu	0	# auto
-㤅	ai;xj	0	# auto
+㤅	ai;xw	0
 㤆	fj;xf	0	# auto
 㤇	ao;xy	0	# auto
 㤈	qb;xx	0	# auto
@@ -36394,13 +36421,18 @@ use_preset_vocabulary: false
 㲂	ig;uu	0	# auto
 㲃	jq;bu	0	# auto
 㲃	jq;ub	0	# auto
-㲄	jt;uu	0	# auto
-㲄	ku;uu	0	# auto
+㲄	jt;uw	0
+㲄	ku;uw	0
+㲄	kz;uw	0
+㲄	jt;wu	0
+㲄	ku;wu	0
+㲄	kz;wu	0
 㲅	ji;uh	0	# auto
 㲆	lk;kl	0	# auto
 㲈	tc;kv	0	# auto
 㲈	uc;kv	0	# auto
-㲉	qt;uu	0	# auto
+㲉	qt;ul	0
+㲉	qt;lu	0
 㲊	rv;ru	0	# auto
 㲊	rv;ur	0	# auto
 㲌	ng;mn	0	# auto
@@ -40854,7 +40886,6 @@ use_preset_vocabulary: false
 䴖	jk;nq	0	# auto
 䴗	ju;in	0	# auto
 䴘	ti;ns	0	# auto
-䴙	pi;nb	0	# auto
 䴚	gh;lk	0	# auto
 䴛	xn;lx	0	# auto
 䴜	wd;lg	0	# auto
@@ -41046,8 +41077,8 @@ use_preset_vocabulary: false
 𠀱	mz;bf	0	# auto
 𠀷	ji;ac	0	# auto
 𠀸	ye;aq	0	# auto
-𠀼	qm;ba	0	# auto
-𠀼	xx;ba	0	# auto
+𠀼	qm;ai	0
+𠀼	xx;ai	0
 𠁉	iu;ah	0	# auto
 𠁷	ij;ii	0	# auto
 𠂄	hr;dh	0	# auto
@@ -41351,141 +41382,160 @@ use_preset_vocabulary: false
 𠚜	tc;ay	0	# auto
 𠚥	dn;dd	0	# auto
 𠚧	er;ed	0	# auto
+𠚧	er;de	0	# auto
 𠚨	jq;dj	0	# auto
-𠚭	di;ud	0	# auto
+𠚭	di;du	0	# auto
 𠚮	yi;dq	0	# auto
 𠚯	ky;wd	0	# auto
+𠚯	ky;dw	0	# auto
 𠚱	ve;dq	0	# auto
-𠚳	ko;gd	0	# auto
-𠚴	vz;id	0	# auto
-𠚵	ju;jd	0	# auto
-𠚹	uj;ud	0	# auto
-𠚺	ua;ud	0	# auto
-𠚼	bj;fd	0	# auto
-𠚼	bb;fd	0	# auto
-𠚽	ji;vd	0	# auto
-𠛀	vs;gd	0	# auto
-𠛅	kz;qd	0	# auto
-𠛆	wu;wd	0	# auto
-𠛊	ge;ud	0	# auto
-𠛋	ba;bd	0	# auto
-𠛎	gz;jd	0	# auto
-𠛑	xm;xd	0	# auto
-𠛒	gx;gd	0	# auto
-𠛓	lq;md	0	# auto
-𠛔	ii;zd	0	# auto
+𠚳	ko;dg	0	# auto
+𠚴	vz;di	0	# auto
+𠚵	ju;dj	0	# auto
+𠚹	uj;du	0	# auto
+𠚺	ua;du	0	# auto
+𠚼	bj;df	0	# auto
+𠚼	bb;df	0	# auto
+𠚽	ji;dv	0	# auto
+𠛀	vs;dg	0	# auto
+𠛅	kz;dq	0	# auto
+𠛆	wu;dw	0	# auto
+𠛊	ge;du	0	# auto
+𠛋	ba;db	0	# auto
+𠛎	gz;dj	0	# auto
+𠛑	xm;dx	0	# auto
+𠛒	gx;dg	0	# auto
+𠛓	lq;dm	0	# auto
+𠛔	ii;dz	0	# auto
 𠛕	gk;dd	0	# auto
-𠛙	cu;bd	0	# auto
-𠛡	bi;bd	0	# auto
-𠛥	bk;bd	0	# auto
-𠛩	jq;sd	0	# auto
-𠛪	dn;vd	0	# auto
-𠛪	tn;vd	0	# auto
+𠛙	cu;db	0	# auto
+𠛡	bi;db	0	# auto
+𠛥	bk;db	0	# auto
+𠛩	jq;ds	0	# auto
+𠛪	dn;dv	0	# auto
+𠛪	tn;dv	0	# auto
 𠛫	do;dd	0	# auto
-𠛭	yj;yd	0	# auto
-𠛭	yr;yd	0	# auto
-𠛮	qr;qd	0	# auto
+𠛭	yj;dy	0	# auto
+𠛭	yr;dy	0	# auto
+𠛮	qr;dq	0	# auto
 𠛳	he;dh	0	# auto
 𠛳	ke;dh	0	# auto
-𠛵	gf;gd	0	# auto
+𠛵	gf;dg	0	# auto
 𠛸	ff;vf	0	# auto
-𠜁	yi;yd	0	# auto
-𠜃	jq;jd	0	# auto
-𠜄	xu;xd	0	# auto
-𠜅	jn;jd	0	# auto
-𠜈	lv;yd	0	# auto
-𠜉	jq;id	0	# auto
-𠜎	xm;xd	0	# auto
+𠜁	yi;dy	0	# auto
+𠜃	jq;dj	0	# auto
+𠜄	xu;dx	0	# auto
+𠜅	jn;dj	0	# auto
+𠜈	lv;dy	0	# auto
+𠜉	jq;di	0	# auto
+𠜎	xm;dx	0	# auto
 𠜑	dv;dd	0	# auto
-𠜖	lo;ld	0	# auto
-𠜗	xi;xd	0	# auto
-𠜘	qb;jd	0	# auto
-𠜙	bu;fd	0	# auto
+𠜖	lo;dl	0	# auto
+𠜗	xi;dx	0	# auto
+𠜘	qb;dj	0	# auto
+𠜘	qb;dy	0	# auto
+𠜙	bu;df	0	# auto
 𠜤	qx;gr	0	# auto
+𠜤	qx;rg	0	# auto
 𠜱	pi;db	0	# auto
 𠜱	pi;bd	0	# auto
-𠜲	ya;yd	0	# auto
-𠜳	bg;pd	0	# auto
-𠜴	go;gd	0	# auto
-𠜵	gx;qg	0	# auto
+𠜲	ya;dy	0	# auto
+𠜳	bg;dp	0	# auto
+𠜴	go;dg	0	# auto
+𠜵	gx;dg	0	# auto
+𠜵	gx;fg	0	# auto
 𠜼	qx;dd	0	# auto
-𠜾	gv;qd	0	# auto
-𠜾	jt;qd	0	# auto
-𠝐	hx;hd	0	# auto
-𠝘	qx;yd	0	# auto
-𠝝	va;yd	0	# auto
-𠝝	ve;yd	0	# auto
-𠝞	ia;id	0	# auto
-𠝟	yk;yd	0	# auto
-𠝢	yj;yd	0	# auto
-𠝤	is;vd	0	# auto
+𠜾	gv;dq	0	# auto
+𠜾	jt;dq	0	# auto
+𠝐	hx;dh	0	# auto
+𠝘	qx;dy	0	# auto
+𠝝	va;dy	0	# auto
+𠝝	va;dm	0	# auto
+𠝝	ve;dy	0	# auto
+𠝝	ve;dm	0	# auto
+𠝞	ia;di	0	# auto
+𠝟	yk;dy	0	# auto
+𠝢	yj;dc	0	# auto
+𠝤	is;dv	0	# auto
 𠝨	ii;xu	0	# auto
-𠝬	sz;sd	0	# auto
-𠝲	kj;xd	0	# auto
-𠝳	yr;xd	0	# auto
+𠝬	sz;dy	0	# auto
+𠝲	kj;dx	0	# auto
+𠝳	yr;dx	0	# auto
 𠝹	jp;dj	0	# auto
-𠝹	jp;jd	0	# auto
 𠝽	iz;do	0	# auto
-𠝿	so;sd	0	# auto
-𠞀	tu;kd	0	# auto
-𠞃	ve;id	0	# auto
-𠞄	ii;sd	0	# auto
-𠞄	ti;sd	0	# auto
-𠞆	wu;wd	0	# auto
-𠞈	da;td	0	# auto
-𠞉	li;ld	0	# auto
-𠞊	ia;id	0	# auto
-𠞊	id;id	0	# auto
+𠝿	so;db	0	# auto
+𠝿	so;ds	0	# auto
+𠞀	tu;dk	0	# auto
+𠞃	ve;di	0	# auto
+𠞄	ii;ds	0	# auto
+𠞄	ii;dh	0	# auto
+𠞄	ti;ds	0	# auto
+𠞄	ti;dh	0	# auto
+𠞆	wu;dw	0	# auto
+𠞈	da;dt	0	# auto
+𠞈	da;dy	0	# auto
+𠞉	li;dl	0	# auto
+𠞊	ia;di	0	# auto
+𠞊	id;di	0	# auto
 𠞕	rs;vr	0	# auto
-𠞖	gs;gd	0	# auto
-𠞞	tc;yd	0	# auto
+𠞕	rs;rv	0	# auto
+𠞖	gs;dg	0	# auto
+𠞞	tc;dy	0	# auto
+𠞞	tc;dj	0	# auto
 𠞧	mi;dm	0	# auto
-𠞩	ii;ld	0	# auto
-𠞩	uk;ld	0	# auto
-𠞬	gy;gd	0	# auto
-𠞭	lz;ld	0	# auto
-𠞮	il;ud	0	# auto
-𠞯	so;xd	0	# auto
+𠞧	mi;gd	0	# auto
+𠞩	ii;dl	0	# auto
+𠞩	uk;dl	0	# auto
+𠞬	gy;dg	0	# auto
+𠞭	lz;dl	0	# auto
+𠞮	il;du	0	# auto
+𠞯	so;dx	0	# auto
 𠞰	jn;di	0	# auto
-𠞱	jb;jd	0	# auto
+𠞱	jb;dj	0	# auto
 𠞶	vd;dd	0	# auto
 𠞾	jb;xv	0	# auto
-𠟂	cg;cd	0	# auto
-𠟃	zy;zd	0	# auto
-𠟅	ri;id	0	# auto
-𠟅	vi;id	0	# auto
-𠟅	vc;id	0	# auto
+𠟂	cg;dc	0	# auto
+𠟃	zy;dz	0	# auto
+𠟅	ri;di	0	# auto
+𠟅	vi;di	0	# auto
+𠟅	vc;di	0	# auto
 𠟈	pp;db	0	# auto
-𠟉	ij;cd	0	# auto
-𠟉	vj;cd	0	# auto
-𠟊	xi;hd	0	# auto
-𠟋	yc;yd	0	# auto
-𠟌	fu;pd	0	# auto
-𠟌	pz;pd	0	# auto
-𠟍	is;td	0	# auto
-𠟓	cv;zd	0	# auto
-𠟣	ji;jd	0	# auto
-𠟦	se;sd	0	# auto
-𠟧	vj;vd	0	# auto
-𠟨	lk;ld	0	# auto
-𠟩	se;sd	0	# auto
-𠟪	ye;yd	0	# auto
-𠟰	ju;jd	0	# auto
-𠟶	tu;kd	0	# auto
-𠟺	rr;xd	0	# auto
-𠟺	ru;xd	0	# auto
-𠠁	xm;xd	0	# auto
+𠟉	ij;dc	0	# auto
+𠟉	vj;dc	0	# auto
+𠟊	xi;dy	0	# auto
+𠟊	xi;dx	0	# auto
+𠟊	xi;xd	0	# auto
+𠟋	yc;dy	0	# auto
+𠟌	fu;dp	0	# auto
+𠟌	pz;dp	0	# auto
+𠟍	is;dt	0	# auto
+𠟓	cv;dz	0	# auto
+𠟣	ji;dj	0	# auto
+𠟦	se;ds	0	# auto
+𠟧	vj;dv	0	# auto
+𠟨	lk;dl	0	# auto
+𠟩	se;ds	0	# auto
+𠟪	ye;dy	0	# auto
+𠟰	ju;dj	0	# auto
+𠟶	tu;dk	0	# auto
+𠟺	rr;dx	0	# auto
+𠟺	ru;dx	0	# auto
+𠠁	xm;dx	0	# auto
 𠠄	vc;vd	0	# auto
 𠠄	vc;zx	0	# auto
+𠠋	cj;bd	0	# auto
 𠠋	cj;cz	0	# auto
-𠠎	ko;gd	0	# auto
-𠠏	li;ld	0	# auto
+𠠎	ko;dg	0	# auto
+𠠏	li;dl	0	# auto
+𠠐	rz;ru	0	# auto
 𠠐	rz;ur	0	# auto
 𠠔	du;md	0	# auto
-𠠗	lp;ld	0	# auto
-𠠜	yk;yd	0	# auto
-𠠝	li;ld	0	# auto
+𠠔	du;dm	0	# auto
+𠠗	lp;dl	0	# auto
+𠠜	yk;dy	0	# auto
+𠠝	li;dl	0	# auto
 𠠠	du;mr	0	# auto
+𠠠	du;rm	0	# auto
 𠠢	lk;dl	0	# auto
 𠠪	wj;dl	0	# auto
 𠠯	dp;dd	0	# auto
@@ -42243,7 +42293,7 @@ use_preset_vocabulary: false
 𡇞	he;kh	0	# auto
 𡇟	ji;ky	0	# auto
 𡇠	ve;kb	0	# auto
-𡇤	bk;kg	0	# auto
+𡇤	bk;bg	0	# auto
 𡇦	ww;kn	0	# auto
 𡇧	tz;kd	0	# auto
 𡇩	tu;kv	0	# auto
@@ -43968,6 +44018,7 @@ use_preset_vocabulary: false
 𢦎	qq;gj	0	# auto
 𢦏	zd;gu	0	# auto
 𢦑	ug;yp	0	# auto
+𢦑	ug;gp	0	# auto
 𢦕	vi;gf	0	# auto
 𢦕	yi;gf	0	# auto
 𢦚	hx;gj	0	# auto
@@ -44500,13 +44551,12 @@ use_preset_vocabulary: false
 𣄠	bn;fb	0	# auto
 𣄧	sv;fy	0	# auto
 𣄧	ww;fy	0	# auto
-𣄮	zi;jk	0	# auto
-𣄰	ee;jk	0	# auto
-𣄱	ji;jg	0	# auto
-𣄲	kv;jw	0	# auto
-𣄴	ll;jj	0	# auto
-𣄸	ho;jg	0	# auto
-𣄺	ww;jw	0	# auto
+𣄮	zi;kw	0
+𣄰	ee;wk	0
+𣄱	ji;wg	0
+𣄴	ll;wj	0
+𣄸	ho;wg	0
+𣄺	ww;ww	0
 𣄻	vo;oy	0	# auto
 𣄿	tk;od	0	# auto
 𣅃	zd;ob	0	# auto
@@ -45210,9 +45260,10 @@ use_preset_vocabulary: false
 𣪯	ts;ug	0	# auto
 𣪶	uj;uc	0	# auto
 𣪸	gu;uu	0	# auto
-𣪹	qt;uu	0	# auto
+𣪹	qt;ui	0
+𣪹	qt;iu	0
 𣫀	gu;uu	0	# auto
-𣫌	gz;uu	0	# auto
+𣫌	gz;uf	0	# auto
 𣫐	iz;uu	0	# auto
 𣫒	kg;kj	0	# auto
 𣫙	yi;kg	0	# auto
@@ -51035,12 +51086,8 @@ use_preset_vocabulary: false
 𨙳	ia;ei	0	# auto
 𨙳	ia;ie	0	# auto
 𨙴	cd;ec	0	# auto
-𨙴	cd;ec	0	# auto
-𨙴	cd;ce	0	# auto
 𨙴	cd;ce	0	# auto
 𨙴	zd;ec	0	# auto
-𨙴	zd;ec	0	# auto
-𨙴	zd;ce	0	# auto
 𨙴	zd;ce	0	# auto
 𨙵	hh;ex	0	# auto
 𨙵	hh;xe	0	# auto
@@ -51051,12 +51098,8 @@ use_preset_vocabulary: false
 𨙷	jk;ej	0	# auto
 𨙷	jk;je	0	# auto
 𨙸	qi;ev	0	# auto
-𨙸	qi;ev	0	# auto
-𨙸	qi;ve	0	# auto
 𨙸	qi;ve	0	# auto
 𨙸	vi;ev	0	# auto
-𨙸	vi;ev	0	# auto
-𨙸	vi;ve	0	# auto
 𨙸	vi;ve	0	# auto
 𨙹	uc;eu	0	# auto
 𨙹	uc;ue	0	# auto
@@ -51071,30 +51114,14 @@ use_preset_vocabulary: false
 𨙽	qb;ej	0	# auto
 𨙽	qb;je	0	# auto
 𨚍	bi;eb	0	# auto
-𨚍	bi;eb	0	# auto
-𨚍	bi;be	0	# auto
 𨚍	bi;be	0	# auto
 𨚍	bw;eb	0	# auto
-𨚍	bw;eb	0	# auto
-𨚍	bw;be	0	# auto
 𨚍	bw;be	0	# auto
 𨚓	bi;ef	0	# auto
-𨚓	bi;ef	0	# auto
-𨚓	bi;ef	0	# auto
-𨚓	bi;fe	0	# auto
-𨚓	bi;fe	0	# auto
 𨚓	bi;fe	0	# auto
 𨚓	fu;ef	0	# auto
-𨚓	fu;ef	0	# auto
-𨚓	fu;ef	0	# auto
-𨚓	fu;fe	0	# auto
-𨚓	fu;fe	0	# auto
 𨚓	fu;fe	0	# auto
 𨚓	fw;ef	0	# auto
-𨚓	fw;ef	0	# auto
-𨚓	fw;ef	0	# auto
-𨚓	fw;fe	0	# auto
-𨚓	fw;fe	0	# auto
 𨚓	fw;fe	0	# auto
 𨚔	bc;eb	0	# auto
 𨚔	bc;be	0	# auto
@@ -51182,12 +51209,8 @@ use_preset_vocabulary: false
 𨛬	pw;fy	0
 𨛬	xi;fy	0
 𨛭	ue;eu	0	# auto
-𨛭	ue;eu	0	# auto
-𨛭	ue;ue	0	# auto
 𨛭	ue;ue	0	# auto
 𨛭	uu;eu	0	# auto
-𨛭	uu;eu	0	# auto
-𨛭	uu;ue	0	# auto
 𨛭	uu;ue	0	# auto
 𨛮	ju;ej	0	# auto
 𨛮	ju;je	0	# auto
@@ -51198,22 +51221,14 @@ use_preset_vocabulary: false
 𨛱	is;ez	0	# auto
 𨛱	is;ze	0	# auto
 𨛳	ji;ex	0	# auto
-𨛳	ji;ex	0	# auto
-𨛳	ji;xe	0	# auto
 𨛳	ji;xe	0	# auto
 𨛳	xi;ex	0	# auto
-𨛳	xi;ex	0	# auto
-𨛳	xi;xe	0	# auto
 𨛳	xi;xe	0	# auto
 𨛵	hu;eh	0	# auto
 𨛵	hu;he	0	# auto
 𨛶	rz;eu	0	# auto
-𨛶	rz;eu	0	# auto
-𨛶	rz;ue	0	# auto
 𨛶	rz;ue	0	# auto
 𨛶	uz;eu	0	# auto
-𨛶	uz;eu	0	# auto
-𨛶	uz;ue	0	# auto
 𨛶	uz;ue	0	# auto
 𨜌	hr;eg	0	# auto
 𨜌	hr;ge	0	# auto
@@ -51304,22 +51319,14 @@ use_preset_vocabulary: false
 𨝨	zo;ec	0	# auto
 𨝨	zo;ce	0	# auto
 𨝫	ue;ex	0	# auto
-𨝫	ue;ex	0	# auto
-𨝫	ue;xe	0	# auto
 𨝫	ue;xe	0	# auto
 𨝫	xi;ex	0	# auto
-𨝫	xi;ex	0	# auto
-𨝫	xi;xe	0	# auto
 𨝫	xi;xe	0	# auto
 𨝭	fg;ef	0	# auto
 𨝭	fg;de	0	# auto
 𨝮	ju;em	0	# auto
-𨝮	ju;em	0	# auto
-𨝮	ju;qe	0	# auto
 𨝮	ju;qe	0	# auto
 𨝮	zz;em	0	# auto
-𨝮	zz;em	0	# auto
-𨝮	zz;qe	0	# auto
 𨝮	zz;qe	0	# auto
 𨝯	ts;et	0	# auto
 𨝯	ts;te	0	# auto
@@ -51343,12 +51350,8 @@ use_preset_vocabulary: false
 𨞓	yu;ea	0	# auto
 𨞓	yu;ae	0	# auto
 𨞕	iu;eu	0	# auto
-𨞕	iu;eu	0	# auto
-𨞕	iu;ue	0	# auto
 𨞕	iu;ue	0	# auto
 𨞕	vu;eu	0	# auto
-𨞕	vu;eu	0	# auto
-𨞕	vu;ue	0	# auto
 𨞕	vu;ue	0	# auto
 𨞗	qy;eq	0	# auto
 𨞗	qy;qe	0	# auto
@@ -51369,12 +51372,8 @@ use_preset_vocabulary: false
 𨞩	vd;ed	0	# auto
 𨞩	vd;de	0	# auto
 𨞪	iz;eu	0	# auto
-𨞪	iz;eu	0	# auto
-𨞪	iz;ue	0	# auto
 𨞪	iz;ue	0	# auto
 𨞪	uz;eu	0	# auto
-𨞪	uz;eu	0	# auto
-𨞪	uz;ue	0	# auto
 𨞪	uz;ue	0	# auto
 𨞫	mg;em	0	# auto
 𨞫	mg;me	0	# auto
@@ -52261,7 +52260,8 @@ use_preset_vocabulary: false
 𩇇	hy;yx	0	# auto
 𩇏	jm;yx	0	# auto
 𩇐	qu;yq	0	# auto
-𩇕	jk;qp	0	# auto
+𩇕	jk;qp	0
+𩇕	jk;pq	0
 𩇖	if;qy	0	# auto
 𩇖	if;yq	0	# auto
 𩇜	ig;qx	0	# auto
@@ -54004,8 +54004,10 @@ use_preset_vocabulary: false
 𩿤	va;nv	0	# auto
 𩿥	qu;ne	0	# auto
 𩿧	fu;nf	0	# auto
-𩿩	do;ni	0	# auto
-𩿩	qu;ni	0	# auto
+𩿩	do;ni	0
+𩿩	do;in	0
+𩿩	qu;ni	0
+𩿩	qu;in	0
 𩿪	ii;ni	0	# auto
 𩿬	yz;ny	0	# auto
 𩿷	ti;un	0	# auto
@@ -55229,7 +55231,7 @@ use_preset_vocabulary: false
 𢵿	jn;bu	0	# auto
 𫭽	lg;tl	0	# auto
 𥣤	lu;hq	0	# auto
-𠚹	ua;ud	0	# auto
+𠚹	ua;du	0	# auto
 𢁶	wh;jy	0	# auto
 𨈌	lr;zl	0	# auto
 𨷝	yu;wy	0	# auto
@@ -55884,10 +55886,10 @@ use_preset_vocabulary: false
 𣇑	uu;ja	0	# auto
 𥍣	nv;mh	0	# auto
 𥛶	xi;uu	0	# auto
-𪇄	kz;tn	0	# auto
-𪇄	kz;nl	0	# auto
-𪇄	ku;tn	0	# auto
-𪇄	ku;nl	0	# auto
+𪇄	kz;nl	0
+𪇄	kz;un	0
+𪇄	ku;nl	0
+𪇄	ku;un	0
 𤊁	di;vh	0	# auto
 𰉲	wj;tm	0	# auto
 𩞡	ii;uo	0	# auto
@@ -56014,7 +56016,6 @@ use_preset_vocabulary: false
 𠿟	wo;kb	0	# auto
 𩗛	hu;fu	0	# auto
 𣢊	xu;wq	0	# auto
-𨛌	mh;we	0	# auto
 𥌢	li;ol	0	# auto
 𥬔	qu;vq	0	# auto
 𱦷	xb;dx	0	# auto
@@ -56429,13 +56430,11 @@ use_preset_vocabulary: false
 𦏤	vi;yk	0	# auto
 𠱞	rj;kz	0	# auto
 𡩳	mu;bt	0	# auto
-𩿩	qu;in	0	# auto
-𩿩	do;in	0	# auto
 𪮥	bj;fi	0	# auto
 𥛯	jt;uy	0	# auto
 𥰲	hs;vh	0	# auto
-𪁜	lh;ln	0	# auto
-𪁜	lh;dn	0	# auto
+𪁜	lh;nl	0
+𪁜	lh;ln	0
 𪳄	ll;ml	0	# auto
 𡤴	qi;nj	0	# auto
 𥫋	gs;il	0	# auto
@@ -56545,7 +56544,6 @@ use_preset_vocabulary: false
 𣤶	zj;tq	0	# auto
 𦳓	fu;cj	0	# auto
 𫲠	yj;ng	0	# auto
-𨝏	li;le	0	# auto
 𤙘	uz;un	0	# auto
 𣾱	da;dt	0	# auto
 𫱮	hv;nh	0	# auto
@@ -56822,8 +56820,8 @@ use_preset_vocabulary: false
 𩥑	ta;my	0	# auto
 𠷩	jl;kj	0	# auto
 𦻓	ig;ci	0	# auto
-𦎯	gz;yu	0	# auto
-𦎯	gz;ty	0	# auto
+𦎯	gz;uy	0
+𦎯	gz;yu	0
 𡍉	bw;tb	0	# auto
 𪳥	gv;mo	0	# auto
 𬿆	bj;rb	0	# auto
@@ -57058,7 +57056,6 @@ use_preset_vocabulary: false
 𬄳	pg;mm	0	# auto
 𤓕	vi;hh	0	# auto
 𣹬	hu;uu	0	# auto
-𣹬	hu;tu	0	# auto
 𬑲	fj;um	0	# auto
 𧡈	ig;ij	0	# auto
 𩑍	ao;yg	0	# auto
@@ -57114,7 +57111,6 @@ use_preset_vocabulary: false
 𡏒	gf;tg	0	# auto
 𡏒	gf;gt	0	# auto
 𧂉	po;cp	0	# auto
-𣄺	ww;aw	0	# auto
 𢲡	na;fn	0	# auto
 𢲡	na;uh	0	# auto
 𥜭	go;ua	0	# auto
@@ -57343,7 +57339,8 @@ use_preset_vocabulary: false
 𠓪	qi;ra	0	# auto
 𪺄	jn;hj	0	# auto
 𬫌	yt;jd	0	# auto
-𧀧	mg;cw	0	# auto
+𧀧	mg;cl	0
+𧀧	mg;cw	0
 𫦲	xu;lo	0	# auto
 𫦲	xu;kl	0	# auto
 𲅂	rz;im	0	# auto
@@ -57480,7 +57477,6 @@ use_preset_vocabulary: false
 𨃞	pj;bz	0	# auto
 𥚷	ji;uw	0	# auto
 𮥝	mj;em	0	# auto
-𣄸	ho;ag	0	# auto
 𬎱	cd;gc	0	# auto
 𠰧	yu;ky	0	# auto
 𲌳	yh;yy	0	# auto
@@ -57739,8 +57735,9 @@ use_preset_vocabulary: false
 𩾔	ci;qn	0	# auto
 𡰋	hv;yc	0	# auto
 𱖙	hf;tu	0	# auto
-𣪨	xt;ud	0	# auto
-𣪨	xt;td	0	# auto
+𣪨	xt;ud	0
+𣪨	xt;ut	0
+𣪨	xt;du	0
 𫣑	yk;rr	0	# auto
 𫣑	yk;ra	0	# auto
 𡮙	nd;xn	0	# auto
@@ -58307,7 +58304,6 @@ use_preset_vocabulary: false
 𫂟	ma;vm	0	# auto
 𬭡	vc;ju	0	# auto
 𬰀	bc;yp	0	# auto
-𨛓	ns;ne	0	# auto
 𢷇	ql;fb	0	# auto
 𨇙	gv;zw	0	# auto
 𢅠	yj;yj	0	# auto
@@ -58682,8 +58678,8 @@ use_preset_vocabulary: false
 𧡼	xn;jh	0	# auto
 𡹩	qi;uy	0	# auto
 𡹩	qi;iu	0	# auto
-𧹲	hu;ti	0	# auto
-𧹲	hu;iu	0	# auto
+𧹲	hu;ui	0
+𧹲	hu;iu	0
 𠊂	jy;rw	0	# auto
 𩒃	kj;wy	0	# auto
 𧚙	zu;yz	0	# auto
@@ -58860,8 +58856,8 @@ use_preset_vocabulary: false
 𦡝	ai;ra	0	# auto
 𢜅	lk;xl	0	# auto
 𢜅	lk;lx	0	# auto
-𤚲	gz;tn	0	# auto
-𤚲	gz;nu	0	# auto
+𤚲	gz;un	0
+𤚲	gz;nu	0
 𥬐	uf;vu	0	# auto
 𣬀	xi;lm	0	# auto
 𣬀	xi;mi	0	# auto
@@ -59150,8 +59146,8 @@ use_preset_vocabulary: false
 𱖇	qm;tg	0	# auto
 𥹍	vu;mn	0	# auto
 𪠓	gl;ih	0	# auto
-𬆯	gz;ud	0	# auto
-𬆯	gz;tu	0	# auto
+𬆯	gz;ud	0
+𬆯	gz;du	0
 𡷈	ka;uu	0	# auto
 𣷫	su;df	0	# auto
 𣷫	yz;df	0	# auto
@@ -60225,8 +60221,8 @@ use_preset_vocabulary: false
 𥀏	ma;pm	0	# auto
 𢳪	uu;fs	0	# auto
 𩷩	if;yi	0	# auto
-𣫔	du;ud	0	# auto
-𣫔	du;td	0	# auto
+𣫔	du;ud	0
+𣫔	du;ui	0
 𢛸	dk;xd	0	# auto
 𠫁	yc;io	0	# auto
 𧍰	ls;iu	0	# auto
@@ -60352,7 +60348,7 @@ use_preset_vocabulary: false
 𧨋	hx;yv	0	# auto
 𠥽	ji;ua	0	# auto
 𠥽	ji;my	0	# auto
-𠞩	hk;ld	0	# auto
+𠞩	hk;dl	0	# auto
 𠡘	zd;lz	0	# auto
 𦷙	nm;cv	0	# auto
 𢧪	th;gt	0	# auto
@@ -60698,7 +60694,6 @@ use_preset_vocabulary: false
 𥋁	xi;od	0	# auto
 𡺋	yh;uy	0	# auto
 𫕢	mw;ym	0	# auto
-𣄴	ll;aj	0	# auto
 𨫊	li;jl	0	# auto
 𧮕	iu;yi	0	# auto
 𦃕	hy;sx	0	# auto
@@ -60937,7 +60932,6 @@ use_preset_vocabulary: false
 𢧍	sv;ug	0	# auto
 𪵋	jn;ux	0	# auto
 𪵋	jn;xu	0	# auto
-𨟂	ui;ce	0	# auto
 𤽈	gc;bh	0	# auto
 𤽈	ze;bh	0	# auto
 𢉐	ui;gh	0	# auto
@@ -60984,6 +60978,7 @@ use_preset_vocabulary: false
 𫋵	uf;yu	0	# auto
 𨤿	du;jr	0	# auto
 𠜐	kk;bd	0	# auto
+𠜐	kk;dc	0	# auto
 𨵩	pi;mt	0	# auto
 𪉶	gu;bm	0	# auto
 𫊩	ji;ij	0	# auto
@@ -61174,7 +61169,6 @@ use_preset_vocabulary: false
 𢦌	qu;gy	0	# auto
 𢦌	qu;yg	0	# auto
 𫀚	wf;um	0	# auto
-𨜴	he;he	0	# auto
 𫮿	yj;tg	0	# auto
 𦙨	yi;og	0	# auto
 𧏡	ba;ix	0	# auto
@@ -61191,7 +61185,6 @@ use_preset_vocabulary: false
 𥵀	mj;vf	0	# auto
 𬯠	ia;ei	0	# auto
 𱣆	jl;mu	0	# auto
-𨞙	qu;he	0	# auto
 𣝡	yh;my	0	# auto
 𫐳	da;zy	0	# auto
 𬷈	dd;nd	0	# auto
@@ -61498,8 +61491,8 @@ use_preset_vocabulary: false
 𫏗	bd;zd	0	# auto
 𢺮	lj;fj	0	# auto
 𥙗	hu;uk	0	# auto
+𣫀	gu;ug	0	# auto
 𣫀	gu;ku	0	# auto
-𣫀	gu;tu	0	# auto
 𲇴	xb;jx	0	# auto
 𠉬	an;ri	0	# auto
 𠉬	yj;ri	0	# auto
@@ -61557,7 +61550,6 @@ use_preset_vocabulary: false
 𤤲	ks;hj	0	# auto
 𤿐	pi;kp	0	# auto
 𤿐	pi;pk	0	# auto
-𨟏	yb;ye	0	# auto
 𫖯	fu;vy	0	# auto
 𢝬	ui;vx	0	# auto
 𪻫	wh;ww	0	# auto
@@ -61582,6 +61574,7 @@ use_preset_vocabulary: false
 𧌙	mb;yi	0	# auto
 𡵖	se;uh	0	# auto
 𠠓	yk;hd	0	# auto
+𠠓	yk;du	0	# auto
 𢊣	pn;gp	0	# auto
 𥧥	lq;xl	0	# auto
 𣡲	xi;mx	0	# auto
@@ -61997,8 +61990,6 @@ use_preset_vocabulary: false
 𫘚	ff;mf	0	# auto
 𤞈	di;qq	0	# auto
 𨃃	ee;zh	0	# auto
-𨛬	pw;fy	0	# auto
-𨛬	xi;fy	0	# auto
 𨛬	xi;yf	0	# auto
 𢮄	qm;fm	0	# auto
 𢠗	yb;lr	0	# auto
@@ -62033,7 +62024,6 @@ use_preset_vocabulary: false
 𢧮	cj;go	0	# auto
 𢧮	cj;og	0	# auto
 𪫤	yy;xy	0	# auto
-𨞘	xi;he	0	# auto
 𬮉	iu;mi	0	# auto
 𧩣	nc;yx	0	# auto
 𱇁	ll;yl	0	# auto
@@ -62372,7 +62362,6 @@ use_preset_vocabulary: false
 𤐄	ji;hj	0	# auto
 𰀆	gz;yy	0	# auto
 𰀆	ku;yy	0	# auto
-𨜖	yu;ye	0	# auto
 𫳽	bc;bw	0	# auto
 𧳙	si;vl	0	# auto
 𥄇	ii;uo	0	# auto
@@ -62950,7 +62939,6 @@ use_preset_vocabulary: false
 𩑯	lw;dy	0	# auto
 𩑯	lw;yd	0	# auto
 𣫎	su;uu	0	# auto
-𣫎	su;tu	0	# auto
 𰖜	cd;oz	0	# auto
 𬸝	an;yn	0	# auto
 𬪭	yb;yt	0	# auto
@@ -62989,8 +62977,6 @@ use_preset_vocabulary: false
 𧓖	fw;ii	0	# auto
 𧓖	fw;fi	0	# auto
 𢥳	za;xg	0	# auto
-𠟊	xi;dd	0	# auto
-𠟊	xi;xd	0	# auto
 𡻅	dc;ud	0	# auto
 𢽇	da;kw	0	# auto
 𧣬	yi;jq	0	# auto
@@ -63783,6 +63769,7 @@ use_preset_vocabulary: false
 𠌖	qs;ru	0	# auto
 𠌖	qs;rm	0	# auto
 𤙏	qu;tm	0	# auto
+𠠃	qm;dj	0	# auto
 𠠃	qm;cd	0	# auto
 𤠎	ji;qw	0	# auto
 𢐍	ww;gw	0	# auto
@@ -64962,7 +64949,6 @@ use_preset_vocabulary: false
 𱑝	sa;ix	0	# auto
 𬜟	yj;sl	0	# auto
 𬜟	yj;ls	0	# auto
-𨛫	li;hy	0	# auto
 𫫚	hj;kh	0	# auto
 𨩄	yu;jy	0	# auto
 𥢑	gc;hj	0	# auto
@@ -65063,7 +65049,6 @@ use_preset_vocabulary: false
 𣤕	iu;uq	0	# auto
 𣤕	iu;qy	0	# auto
 𭸑	nc;qr	0	# auto
-𨛐	jy;se	0	# auto
 𠳄	wu;kw	0	# auto
 𠳄	wu;wk	0	# auto
 𱛒	hs;uk	0	# auto
@@ -65350,7 +65335,6 @@ use_preset_vocabulary: false
 𡎉	du;tv	0	# auto
 𤊏	pk;hp	0	# auto
 𤊏	pk;ph	0	# auto
-𨞽	lw;te	0	# auto
 𬻅	dq;dl	0	# auto
 𦉋	xi;rh	0	# auto
 𩣋	yz;my	0	# auto
@@ -65539,8 +65523,6 @@ use_preset_vocabulary: false
 𠦠	dj;uy	0	# auto
 𥽳	qi;me	0	# auto
 𥽳	ji;me	0	# auto
-𨞒	zo;he	0	# auto
-𨞒	xi;he	0	# auto
 𦰑	li;my	0	# auto
 𣲦	uc;uu	0	# auto
 𥵶	tm;vu	0	# auto
@@ -65623,7 +65605,6 @@ use_preset_vocabulary: false
 𦥂	ai;vk	0	# auto
 𤕢	xn;yn	0	# auto
 𤕢	xn;nw	0	# auto
-𣄰	ee;ak	0	# auto
 𠸮	xl;yh	0	# auto
 𡞶	ph;nf	0	# auto
 𠼊	ww;ky	0	# auto
@@ -65831,7 +65812,6 @@ use_preset_vocabulary: false
 𦖍	qi;eg	0	# auto
 𡫔	qb;bo	0	# auto
 𤚪	pi;nb	0	# auto
-𨝢	lz;be	0	# auto
 𪳕	iv;mi	0	# auto
 𦵍	du;cw	0	# auto
 𪮡	lh;fl	0	# auto
@@ -66670,6 +66650,7 @@ use_preset_vocabulary: false
 𪠘	hd;ij	0	# auto
 𤭕	bi;sw	0	# auto
 𤭕	bi;we	0	# auto
+𠠈	ch;dc	0	# auto
 𠠈	ch;cd	0	# auto
 𪻼	qr;wm	0	# auto
 𫀷	rf;hr	0	# auto
@@ -67122,8 +67103,8 @@ use_preset_vocabulary: false
 𥂯	zu;cm	0	# auto
 𥂯	zu;mt	0	# auto
 𠗝	qk;dr	0	# auto
-𪍠	ku;tm	0	# auto
-𪍠	ku;mu	0	# auto
+𪍠	ku;mu	0
+𪍠	ku;um	0
 𠒿	di;gg	0	# auto
 𠒿	di;eg	0	# auto
 𬤌	ia;yj	0	# auto
@@ -67392,7 +67373,6 @@ use_preset_vocabulary: false
 𥮂	ru;vk	0	# auto
 𬥗	zo;bz	0	# auto
 𣟙	xu;mx	0	# auto
-𨝭	fg;de	0	# auto
 𠢠	li;jl	0	# auto
 𠢠	ji;jl	0	# auto
 𢣕	ai;yx	0	# auto
@@ -67597,7 +67577,6 @@ use_preset_vocabulary: false
 𬀿	ky;ol	0	# auto
 𬦹	tn;zt	0	# auto
 𩳔	yc;xg	0	# auto
-𨙵	xl;xe	0	# auto
 𥷔	yu;vy	0	# auto
 𪿭	jx;uj	0	# auto
 𣱂	ky;bm	0	# auto
@@ -67679,7 +67658,7 @@ use_preset_vocabulary: false
 𣦪	bk;yv	0	# auto
 𫨚	bu;ib	0	# auto
 𮃇	qm;hq	0	# auto
-𠚳	cy;gd	0	# auto
+𠚳	cy;dg	0	# auto
 𬲀	hu;fh	0	# auto
 𩿷	ti;nu	0	# auto
 𬙻	yi;yy	0	# auto
@@ -68050,8 +68029,8 @@ use_preset_vocabulary: false
 𡦯	np;uz	0	# auto
 𪯂	yk;fy	0	# auto
 𡆛	vv;kv	0	# auto
-𣄲	kv;aw	0	# auto
-𣄲	gv;aw	0	# auto
+𣄲	kv;ww	0
+𣄲	gv;ww	0
 𦰰	xu;cj	0	# auto
 𫈜	yz;cy	0	# auto
 𬋁	cj;hm	0	# auto
@@ -68366,7 +68345,6 @@ use_preset_vocabulary: false
 𣹐	yj;dn	0	# auto
 𤨒	en;we	0	# auto
 𰈸	ju;kj	0	# auto
-𨝋	va;je	0	# auto
 𬟊	ma;cx	0	# auto
 𪱒	nh;ox	0	# auto
 𡢣	yk;nu	0	# auto
@@ -68419,7 +68397,6 @@ use_preset_vocabulary: false
 𠋡	si;rl	0	# auto
 𱃪	qi;uq	0	# auto
 𫅻	qu;lq	0	# auto
-𨜵	wf;oe	0	# auto
 𦰭	dy;ct	0	# auto
 𤍱	xu;xh	0	# auto
 𥀱	gl;gp	0	# auto
@@ -68589,8 +68566,6 @@ use_preset_vocabulary: false
 𬦌	yt;zi	0	# auto
 𢃻	ty;aj	0	# auto
 𢃻	ty;jf	0	# auto
-𠜵	gx;fg	0	# auto
-𠜵	gx;dg	0	# auto
 𠉌	yy;ro	0	# auto
 𡢄	mb;nm	0	# auto
 𣛁	mi;mm	0	# auto
@@ -69382,7 +69357,6 @@ use_preset_vocabulary: false
 𦶍	ji;cg	0	# auto
 𱑅	li;by	0	# auto
 𣠴	xi;mw	0	# auto
-𣄮	zi;ak	0	# auto
 𦭯	lv;cb	0	# auto
 𦭯	lz;cb	0	# auto
 𦨦	jx;jv	0	# auto
@@ -69506,7 +69480,6 @@ use_preset_vocabulary: false
 𠁌	ye;by	0	# auto
 𪠐	yj;iy	0	# auto
 𢦼	mp;gv	0	# auto
-𠜳	bg;oy	0	# auto
 𪲄	hv;mh	0	# auto
 𪧘	lz;bl	0	# auto
 𠙮	pi;pf	0	# auto
@@ -69619,7 +69592,6 @@ use_preset_vocabulary: false
 𨜗	zz;we	0	# auto
 𪶦	gy;da	0	# auto
 𨞤	kk;re	0	# auto
-𨝸	tj;te	0	# auto
 𧆎	li;cl	0	# auto
 𡶞	ts;ud	0	# auto
 𥒳	gh;dk	0	# auto
@@ -69818,8 +69790,6 @@ use_preset_vocabulary: false
 𢨭	nv;hn	0	# auto
 𤮎	lw;ws	0	# auto
 𤮎	lw;sw	0	# auto
-𨞩	qt;de	0	# auto
-𨞩	di;de	0	# auto
 𣘿	ss;xm	0	# auto
 𣘿	ss;mh	0	# auto
 𤒉	fu;hh	0	# auto
@@ -69928,7 +69898,6 @@ use_preset_vocabulary: false
 𣪠	qi;uk	0	# auto
 𣪠	qi;iu	0	# auto
 𣢶	iu;vq	0	# auto
-𣄱	ji;ag	0	# auto
 𥉄	yu;og	0	# auto
 𠆄	bb;wb	0	# auto
 𠆄	bb;lb	0	# auto
@@ -70344,8 +70313,8 @@ use_preset_vocabulary: false
 𬂢	fj;mf	0	# auto
 𢇷	ba;gd	0	# auto
 𫊜	dp;cd	0	# auto
+𩌊	xt;ug	0	# auto
 𩌊	xt;gu	0	# auto
-𩌊	xt;tg	0	# auto
 𡁢	wf;km	0	# auto
 𣡮	ju;mc	0	# auto
 𠵭	se;ko	0	# auto
@@ -71935,7 +71904,8 @@ use_preset_vocabulary: false
 𠄋	qm;yr	0	# auto
 𠄒	iv;pc	0	# auto
 𠄒	ua;pc	0	# auto
-𠄔	hr;yy	0	# auto
+𠄔	hr;aa	0
+𠄔	hr;yu	0
 𠄕	nd;ll	0	# auto
 𠄘	ig;ld	0	# auto
 𠄙	vg;da	0	# auto
@@ -72970,21 +72940,29 @@ use_preset_vocabulary: false
 𠛧	bc;kd	0	# auto
 𠛧	bo;kd	0	# auto
 𠛨	ii;ld	0	# auto
-𠛬	xk;gk	0	# auto
-𠛯	vi;ud	0	# auto
-𠛰	bp;kd	0	# auto
-𠛲	il;rd	0	# auto
-𠛴	ia;wd	0	# auto
-𠛴	ua;wd	0	# auto
-𠛷	ge;rd	0	# auto
-𠛹	uj;kd	0	# auto
+𠛬	xk;dk	0	# auto
+𠛬	xk;dg	0	# auto
+𠛯	vi;du	0	# auto
+𠛰	bp;dk	0	# auto
+𠛲	il;da	0	# auto
+𠛴	ia;dx	0	# auto
+𠛴	ua;dx	0	# auto
+𠛷	ge;dd	0	# auto
+𠛹	uj;dc	0	# auto
+𠛹	uj;da	0	# auto
 𠛺	fu;da	0	# auto
 𠛺	fu;rd	0	# auto
 𠜀	ii;qd	0	# auto
-𠜂	uj;kd	0	# auto
-𠜆	iu;yd	0	# auto
+𠜀	ii;dm	0	# auto
+𠜂	uj;dc	0	# auto
+𠜂	uj;da	0	# auto
+𠜆	iu;dy	0	# auto
 𠜇	ke;wd	0	# auto
+𠜇	ke;dr	0	# auto
+𠜇	ke;dd	0	# auto
+𠜋	hc;di	0	# auto
 𠜋	hc;rd	0	# auto
+𠜋	iz;di	0	# auto
 𠜋	iz;rd	0	# auto
 𠜌	io;pk	0	# auto
 𠜍	gr;bd	0	# auto
@@ -72994,7 +72972,11 @@ use_preset_vocabulary: false
 𠜔	vi;ud	0	# auto
 𠜕	ia;qd	0	# auto
 𠜚	xk;jd	0	# auto
+𠜚	xk;dt	0	# auto
+𠜛	gh;dj	0	# auto
+𠜛	gh;dk	0	# auto
 𠜛	gh;jd	0	# auto
+𠜜	gx;dk	0	# auto
 𠜜	gx;ud	0	# auto
 𠜝	gs;gd	0	# auto
 𠜟	yr;kd	0	# auto
@@ -73013,32 +72995,50 @@ use_preset_vocabulary: false
 𠜫	li;hd	0	# auto
 𠜰	yi;dg	0	# auto
 𠜰	yi;pd	0	# auto
+𠜶	nc;dv	0	# auto
 𠜶	nc;vd	0	# auto
 𠜷	dr;bd	0	# auto
 𠜸	ji;sd	0	# auto
 𠜺	lp;ld	0	# auto
+𠜻	hx;dh	0	# auto
 𠜻	hx;hd	0	# auto
+𠜽	ia;du	0	# auto
 𠜽	ia;yd	0	# auto
+𠜽	ua;du	0	# auto
 𠜽	ua;yd	0	# auto
+𠜿	vi;dv	0	# auto
 𠜿	vi;ud	0	# auto
+𠝀	il;da	0	# auto
 𠝀	il;ud	0	# auto
+𠝁	vi;dp	0	# auto
 𠝁	vi;wd	0	# auto
 𠝂	jr;db	0	# auto
-𠝂	jr;hf	0	# auto
+𠝂	jr;jf	0	# auto
+𠝃	yr;du	0	# auto
 𠝃	yr;ud	0	# auto
+𠝄	li;dw	0	# auto
 𠝄	li;vd	0	# auto
+𠝅	dr;da	0	# auto
 𠝅	dr;bd	0	# auto
-𠝅	dr;do	0	# auto
+𠝎	bk;dm	0	# auto
 𠝎	bk;pa	0	# auto
-𠝏	jm;dk	0	# auto
+𠝏	jm;dd	0	# auto
 𠝏	jm;rd	0	# auto
+𠝒	pz;df	0	# auto
 𠝒	pz;dd	0	# auto
+𠝙	jq;dj	0	# auto
 𠝙	jq;vd	0	# auto
+𠝚	va;dm	0	# auto
 𠝚	va;cd	0	# auto
+𠝚	ve;dm	0	# auto
 𠝚	ve;cd	0	# auto
+𠝜	co;dq	0	# auto
 𠝜	co;qd	0	# auto
+𠝜	xi;dq	0	# auto
 𠝜	xi;qd	0	# auto
-𠝠	sz;zd	0	# auto
+𠝠	sz;dy	0	# auto
+𠝠	sz;xd	0	# auto
+𠝡	qn;dv	0	# auto
 𠝡	qn;gd	0	# auto
 𠝣	qm;vd	0	# auto
 𠝥	kv;kd	0	# auto
@@ -73049,6 +73049,8 @@ use_preset_vocabulary: false
 𠝪	wj;wd	0	# auto
 𠝰	ww;wu	0	# auto
 𠝱	ii;dd	0	# auto
+𠝴	gh;du	0	# auto
+𠝴	gh;dg	0	# auto
 𠝴	gh;kd	0	# auto
 𠝵	il;br	0	# auto
 𠝷	bj;db	0	# auto
@@ -73057,119 +73059,213 @@ use_preset_vocabulary: false
 𠝷	ff;pf	0	# auto
 𠝸	wu;dw	0	# auto
 𠝸	wu;md	0	# auto
+𠝾	gh;du	0	# auto
+𠝾	gh;dg	0	# auto
 𠝾	gh;wd	0	# auto
+𠞁	ce;dc	0	# auto
 𠞁	ce;cd	0	# auto
+𠞂	ii;dx	0	# auto
 𠞂	ii;ud	0	# auto
+𠞂	xi;dx	0	# auto
 𠞂	xi;ud	0	# auto
+𠞅	ce;dw	0	# auto
 𠞅	ce;td	0	# auto
+𠞅	ji;dw	0	# auto
 𠞅	ji;td	0	# auto
+𠞇	pi;db	0	# auto
 𠞇	pi;xd	0	# auto
+𠞋	ze;dc	0	# auto
 𠞋	ze;od	0	# auto
+𠞌	pz;dk	0	# auto
 𠞌	pz;sd	0	# auto
+𠞍	wf;dw	0	# auto
 𠞍	wf;kd	0	# auto
+𠞎	jq;dh	0	# auto
 𠞎	jq;dd	0	# auto
+𠞏	jp;du	0	# auto
 𠞏	jp;ud	0	# auto
+𠞐	co;dt	0	# auto
 𠞐	co;ad	0	# auto
+𠞔	ug;du	0	# auto
 𠞔	ug;pd	0	# auto
+𠞘	ii;dq	0	# auto
+𠞘	ii;du	0	# auto
 𠞘	ii;md	0	# auto
+𠞙	li;dx	0	# auto
 𠞙	li;hd	0	# auto
+𠞚	wj;dm	0	# auto
 𠞚	wj;xd	0	# auto
-𠞛	uj;dd	0	# auto
-𠞛	uj;ud	0	# auto
+𠞛	uj;du	0	# auto
+𠞝	lp;dx	0	# auto
 𠞝	lp;cd	0	# auto
 𠞠	vi;dv	0	# auto
-𠞣	jk;cd	0	# auto
-𠞥	mo;md	0	# auto
-𠞦	ce;jd	0	# auto
-𠞨	lu;dd	0	# auto
+𠞣	jk;dr	0	# auto
+𠞣	jk;dg	0	# auto
+𠞥	mo;dm	0	# auto
+𠞦	ce;dj	0	# auto
 𠞨	lu;yd	0	# auto
+𠞨	lu;dx	0	# auto
 𠞪	hc;ad	0	# auto
 𠞪	hc;da	0	# auto
+𠞫	ke;dc	0	# auto
 𠞫	ke;kd	0	# auto
 𠞲	li;di	0	# auto
 𠞲	li;wd	0	# auto
 𠞴	il;cr	0	# auto
+𠞷	hx;dt	0	# auto
 𠞷	hx;yd	0	# auto
+𠞸	ux;dn	0	# auto
 𠞸	ux;nd	0	# auto
 𠞻	ii;dl	0	# auto
 𠞻	ii;ld	0	# auto
+𠞼	tz;dd	0	# auto
 𠞼	tz;rd	0	# auto
-𠞽	jm;dd	0	# auto
+𠞽	jm;dq	0	# auto
 𠞽	jm;qd	0	# auto
 𠟀	dn;dn	0	# auto
+𠟀	dn;nd	0	# auto
 𠟀	jn;dn	0	# auto
+𠟀	jn;nd	0	# auto
 𠟀	ux;dn	0	# auto
+𠟀	ux;nd	0	# auto
 𠟀	vc;dn	0	# auto
+𠟀	vc;nd	0	# auto
 𠟄	li;dh	0	# auto
 𠟄	li;id	0	# auto
+𠟆	zj;dt	0	# auto
 𠟆	zj;td	0	# auto
+𠟇	ug;dj	0	# auto
 𠟇	ug;wd	0	# auto
+𠟎	ee;dn	0	# auto
 𠟎	ee;kd	0	# auto
+𠟏	co;do	0	# auto
 𠟏	co;rd	0	# auto
+𠟏	xi;do	0	# auto
 𠟏	xi;rd	0	# auto
-𠟐	il;cd	0	# auto
+𠟐	il;rc	0	# auto
+𠟐	il;cr	0	# auto
+𠟑	fa;dy	0	# auto
 𠟑	fa;kd	0	# auto
+𠟔	ze;dc	0	# auto
 𠟔	ze;bd	0	# auto
+𠟕	zz;dm	0	# auto
 𠟕	zz;qd	0	# auto
+𠟖	xi;dd	0	# auto
 𠟖	xi;hd	0	# auto
+𠟗	gx;dk	0	# auto
 𠟗	gx;cd	0	# auto
+𠟘	ic;dm	0	# auto
 𠟘	ic;od	0	# auto
+𠟘	jn;dm	0	# auto
 𠟘	jn;od	0	# auto
+𠟜	qm;dj	0	# auto
 𠟜	qm;td	0	# auto
+𠟝	gd;dr	0	# auto
 𠟝	gd;cd	0	# auto
+𠟝	jp;dr	0	# auto
 𠟝	jp;cd	0	# auto
+𠟞	nc;dv	0	# auto
 𠟞	nc;vd	0	# auto
+𠟟	fa;dy	0	# auto
+𠟟	fa;dl	0	# auto
+𠟟	fa;sd	0	# auto
 𠟟	fa;ld	0	# auto
+𠟠	jm;dj	0	# auto
+𠟠	jm;da	0	# auto
 𠟠	jm;jd	0	# auto
+𠟠	jm;vd	0	# auto
+𠟢	xm;dx	0	# auto
 𠟢	xm;xd	0	# auto
+𠟫	li;dm	0	# auto
 𠟫	li;bd	0	# auto
+𠟬	ix;db	0	# auto
 𠟬	ix;vd	0	# auto
+𠟮	ji;dh	0	# auto
 𠟮	ji;yd	0	# auto
+𠟯	ic;dz	0	# auto
 𠟯	ic;dm	0	# auto
-𠟯	ic;pd	0	# auto
 𠟯	io;dm	0	# auto
-𠟯	io;pd	0	# auto
+𠟯	io;dz	0	# auto
 𠟯	jn;dm	0	# auto
-𠟯	jn;pd	0	# auto
+𠟯	jn;dz	0	# auto
 𠟯	vo;dm	0	# auto
-𠟯	vo;pd	0	# auto
+𠟯	vo;dz	0	# auto
+𠟱	hx;da	0	# auto
 𠟱	hx;yd	0	# auto
+𠟴	ii;du	0	# auto
 𠟴	ii;jd	0	# auto
+𠟵	ju;du	0	# auto
 𠟵	ju;ad	0	# auto
+𠟷	hx;dt	0	# auto
 𠟷	hx;ld	0	# auto
+𠟻	bd;db	0	# auto
 𠟻	bd;bd	0	# auto
+𠟻	ze;db	0	# auto
 𠟻	ze;bd	0	# auto
+𠟽	gx;dh	0	# auto
 𠟽	gx;cd	0	# auto
+𠟾	ic;dm	0	# auto
 𠟾	ic;id	0	# auto
+𠟾	jn;dm	0	# auto
 𠟾	jn;id	0	# auto
-𠟿	ic;di	0	# auto
+𠟿	ic;dm	0	# auto
 𠟿	ic;id	0	# auto
-𠟿	jn;di	0	# auto
+𠟿	jn;dm	0	# auto
 𠟿	jn;id	0	# auto
+𠠀	ix;dj	0	# auto
 𠠀	ix;jd	0	# auto
+𠠂	li;dm	0	# auto
 𠠂	li;td	0	# auto
+𠠅	jm;du	0	# auto
 𠠅	jm;ud	0	# auto
+𠠆	jm;dh	0	# auto
 𠠆	jm;rd	0	# auto
+𠠍	li;dl	0	# auto
 𠠍	li;ld	0	# auto
+𠠒	mo;dm	0	# auto
 𠠒	mo;md	0	# auto
-𠠕	pn;bd	0	# auto
+𠠕	pn;dp	0	# auto
+𠠕	pn;cd	0	# auto
+𠠖	gs;dg	0	# auto
 𠠖	gs;xd	0	# auto
+𠠘	ju;du	0	# auto
+𠠘	ju;db	0	# auto
 𠠘	ju;ud	0	# auto
+𠠛	ko;dh	0	# auto
+𠠛	ko;dv	0	# auto
 𠠛	ko;hd	0	# auto
+𠠞	li;di	0	# auto
 𠠞	li;td	0	# auto
+𠠡	ti;du	0	# auto
 𠠡	ti;od	0	# auto
+𠠣	mi;dm	0	# auto
+𠠣	mi;ds	0	# auto
 𠠣	mi;md	0	# auto
+𠠣	mw;dm	0	# auto
+𠠣	mw;ds	0	# auto
 𠠣	mw;md	0	# auto
-𠠤	ij;pd	0	# auto
+𠠤	ij;dm	0	# auto
+𠠤	ij;dd	0	# auto
+𠠥	ij;dt	0	# auto
 𠠥	ij;dd	0	# auto
-𠠥	ij;pd	0	# auto
-𠠦	fu;ft	0	# auto
-𠠦	pi;ft	0	# auto
+𠠦	fu;df	0	# auto
+𠠦	pi;ff	0	# auto
+𠠦	pi;at	0	# auto
+𠠧	pn;dh	0	# auto
+𠠧	pn;dm	0	# auto
 𠠧	pn;pd	0	# auto
+𠠨	er;dn	0	# auto
+𠠨	er;de	0	# auto
 𠠨	er;nd	0	# auto
+𠠫	li;dl	0	# auto
 𠠫	li;ld	0	# auto
+𠠮	ij;di	0	# auto
+𠠮	ij;dy	0	# auto
 𠠮	ij;id	0	# auto
+𠠰	ko;dv	0	# auto
 𠠰	ko;yd	0	# auto
+𠠱	lk;dl	0	# auto
+𠠱	lk;dw	0	# auto
 𠠱	lk;ld	0	# auto
 𠠲	li;pg	0	# auto
 𠠴	cs;ll	0	# auto
@@ -75385,8 +75481,10 @@ use_preset_vocabulary: false
 𡕯	yc;wy	0	# auto
 𡕰	zs;kw	0	# auto
 𡕰	zs;wb	0	# auto
-𡕱	xr;pw	0	# auto
-𡕱	xs;pw	0	# auto
+𡕱	xr;dw	0	# auto
+𡕱	xs;dw	0	# auto
+𡕱	xr;wo	0	# auto
+𡕱	xs;wo	0	# auto
 𡕲	ug;tw	0	# auto
 𡕲	ug;wr	0	# auto
 𡕴	fu;wl	0	# auto
@@ -78647,8 +78745,7 @@ use_preset_vocabulary: false
 𢢠	do;xz	0	# auto
 𢢡	ao;ax	0	# auto
 𢢡	ao;xa	0	# auto
-𢢢	qt;tx	0	# auto
-𢢢	qt;xt	0	# auto
+𢢢	qt;ux	0
 𢢣	xp;jx	0	# auto
 𢢣	xp;xj	0	# auto
 𢢤	vc;mx	0	# auto
@@ -81735,16 +81832,11 @@ use_preset_vocabulary: false
 𣪅	ou;vu	0	# auto
 𣪆	ua;hu	0	# auto
 𣪆	ua;uh	0	# auto
-𣪊	hu;tu	0	# auto
-𣪊	hu;ua	0	# auto
-𣪊	jl;tu	0	# auto
-𣪊	jl;ua	0	# auto
-𣪊	ke;tu	0	# auto
-𣪊	ke;ua	0	# auto
-𣪊	qn;tu	0	# auto
-𣪊	qn;ua	0	# auto
-𣪊	qt;tu	0	# auto
-𣪊	qt;ua	0	# auto
+𣪊	hu;ua	0
+𣪊	jl;ua	0
+𣪊	ke;ua	0
+𣪊	qn;ua	0
+𣪊	qt;ua	0
 𣪋	jq;qu	0	# auto
 𣪋	jq;uq	0	# auto
 𣪍	dm;uj	0	# auto
@@ -81820,8 +81912,8 @@ use_preset_vocabulary: false
 𣪱	vu;uq	0	# auto
 𣪲	zc;ug	0	# auto
 𣪲	zc;yu	0	# auto
-𣪳	hu;tq	0	# auto
-𣪳	hu;uq	0	# auto
+𣪳	hu;qu	0
+𣪳	hu;uq	0
 𣪴	yi;ud	0	# auto
 𣪵	dm;uv	0	# auto
 𣪵	dm;vu	0	# auto
@@ -81852,8 +81944,8 @@ use_preset_vocabulary: false
 𣫅	hu;tu	0	# auto
 𣫅	hu;uj	0	# auto
 𣫆	qk;uv	0	# auto
-𣫈	hu;tu	0	# auto
-𣫈	hu;uy	0	# auto
+𣫈	hu;uy	0
+𣫈	hu;yu	0
 𣫊	gu;ug	0	# auto
 𣫋	gu;bu	0	# auto
 𣫋	gu;uc	0	# auto
@@ -81861,8 +81953,8 @@ use_preset_vocabulary: false
 𣫏	hv;uy	0	# auto
 𣫑	ir;su	0	# auto
 𣫑	ir;us	0	# auto
-𣫓	ku;tl	0	# auto
 𣫓	ku;ul	0	# auto
+𣫓	ku;lu	0	# auto
 𣫖	yi;uu	0	# auto
 𣫖	yi;xu	0	# auto
 𣫗	gu;tu	0	# auto
@@ -84767,8 +84859,10 @@ use_preset_vocabulary: false
 𤴐	lw;th	0	# auto
 𤴑	lw;tl	0	# auto
 𤴒	lw;tt	0	# auto
-𤴓	vg;ab	0	# auto
-𤴓	ya;ab	0	# auto
+𤴓	vg;av	0
+𤴓	vg;ar	0
+𤴓	ya;av	0
+𤴓	ya;ar	0
 𤴔	pi;lb	0	# auto
 𤴔	uu;lb	0	# auto
 𤴔	ya;lb	0	# auto
@@ -85193,8 +85287,8 @@ use_preset_vocabulary: false
 𥀋	zi;pt	0	# auto
 𥀍	pi;np	0	# auto
 𥀍	pi;pn	0	# auto
-𥀎	qt;pu	0	# auto
-𥀎	qt;tp	0	# auto
+𥀎	qt;up	0
+𥀎	qt;pu	0
 𥀑	zi;ph	0	# auto
 𥀒	zi;pt	0	# auto
 𥀕	bi;bp	0	# auto
@@ -86005,8 +86099,7 @@ use_preset_vocabulary: false
 𥔨	zj;uu	0	# auto
 𥔰	bc;ub	0	# auto
 𥔰	pc;ub	0	# auto
-𥔳	qt;tu	0	# auto
-𥔳	qt;uu	0	# auto
+𥔳	qt;uu	0
 𥔵	ci;uz	0	# auto
 𥔾	kl;uh	0	# auto
 𥕃	if;uh	0	# auto
@@ -88502,6 +88595,7 @@ use_preset_vocabulary: false
 𦔻	ku;ek	0	# auto
 𦔻	ug;ek	0	# auto
 𦔻	zd;ek	0	# auto
+𦔻	tk;ek	0
 𦔽	tk;et	0	# auto
 𦔾	fu;ef	0	# auto
 𦕀	qi;eq	0	# auto
@@ -89122,7 +89216,8 @@ use_preset_vocabulary: false
 𦣹	zi;ke	0	# auto
 𦣼	vi;de	0	# auto
 𦣼	zi;de	0	# auto
-𦣽	hv;ao	0	# auto
+𦣽	hv;aa	0
+𦣽	hv;kz	0
 𦣿	jk;zg	0	# auto
 𦤀	iz;zd	0	# auto
 𦤀	xq;zd	0	# auto
@@ -92255,8 +92350,9 @@ use_preset_vocabulary: false
 𧯳	wj;wd	0	# auto
 𧯷	jb;cd	0	# auto
 𧯷	jb;dd	0	# auto
-𧯸	gu;uy	0	# auto
-𧯸	gu;yu	0	# auto
+𧯸	gu;uy	0
+𧯸	gu;yu	0
+𧯸	gu;du	0
 𧯹	yb;yd	0	# auto
 𧯻	pi;df	0	# auto
 𧯻	pi;jf	0	# auto
@@ -98792,7 +98888,6 @@ use_preset_vocabulary: false
 𪕪	vv;vu	0	# auto
 𪕬	si;ud	0	# auto
 𪕵	ui;uu	0	# auto
-𪕸	gu;tu	0	# auto
 𪕸	gu;uu	0	# auto
 𪕺	jt;ub	0	# auto
 𪕺	vo;ub	0	# auto
@@ -100610,7 +100705,8 @@ use_preset_vocabulary: false
 𫜒	to;mt	0	# auto
 𫜓	jr;mo	0	# auto
 𫜔	pi;mb	0	# auto
-𫜕	ku;tm	0	# auto
+𫜕	ku;mu	0
+𫜕	ku;um	0
 𫜗	la;ml	0	# auto
 𫜗	li;ml	0	# auto
 𫜗	ne;ml	0	# auto
@@ -101436,9 +101532,7 @@ use_preset_vocabulary: false
 𫭹	na;nt	0	# auto
 𫭹	na;tn	0	# auto
 𫮀	vz;tv	0	# auto
-𫮄	aa;at	0	# auto
 𫮄	aa;ta	0	# auto
-𫮄	ee;at	0	# auto
 𫮄	ee;ta	0	# auto
 𫮈	ij;tl	0	# auto
 𫮙	bg;tp	0	# auto
@@ -104045,8 +104139,10 @@ use_preset_vocabulary: false
 𬸩	ao;an	0	# auto
 𬸩	wo;an	0	# auto
 𬸫	tr;dn	0	# auto
-𬸬	kz;tn	0	# auto
-𬸬	ku;tn	0	# auto
+𬸬	kz;nl	0
+𬸬	kz;un	0
+𬸬	ku;nl	0
+𬸬	ku;un	0
 𬸭	ya;gn	0	# auto
 𬸯	pi;pn	0	# auto
 𬸰	he;hn	0	# auto
@@ -104130,7 +104226,6 @@ use_preset_vocabulary: false
 𬺽	xi;qa	0	# auto
 𬺿	nh;ad	0	# auto
 𬺿	nh;ud	0	# auto
-𬻀	pu;aa	0	# auto
 𬻂	xi;aa	0	# auto
 𬻂	xi;pa	0	# auto
 𬻃	tm;aa	0	# auto
@@ -114557,7 +114652,8 @@ use_preset_vocabulary: false
 𱋚	bw;mb	0	# auto
 𱋜	md;mv	0	# auto
 𱋝	bu;mk	0	# auto
-𱋞	ku;tu	0	# auto
+𱋞	ku;um	0
+𱋞	ku;mu	0
 𱋟	hu;mh	0	# auto
 𱋠	tz;my	0	# auto
 𱋡	lz;ml	0	# auto
@@ -119193,8 +119289,6 @@ use_preset_vocabulary: false
 啂	gz;kr	0
 拘	gz;fj	0
 痀	gz;bj	0
-糓	gz;mu	0
-糓	gz;um	0
 蚼	xu;ij	0
 㧽	hu;fg	0
 㼋	mz;gg	0
@@ -119204,8 +119298,6 @@ use_preset_vocabulary: false
 䀜	xt;ow	0
 䀰	yk;og	0
 䊺	gu;sh	0
-䍍	gl;uf	0
-䍍	gu;uf	0
 䡩	hz;iv	0
 䡩	tz;iv	0
 䡩	gu;iv	0
@@ -119450,7 +119542,6 @@ use_preset_vocabulary: false
 㮝	lo;mq	0
 㷎	xp;hh	0
 㷎	hs;hh	0
-㷤	he;uh	0
 㿣	xx;bh	0
 㿥	he;bh	0
 䌾	he;sn	0
@@ -119531,8 +119622,6 @@ use_preset_vocabulary: false
 䮸	hu;mx	0
 䲵	hu;nu	0
 唬	xx;kh	0
-嗀	hu;uk	0
-嗀	hu;uu	0
 姱	hu;nk	0
 汻	hl;dw	0
 浒	xu;dx	1
@@ -120156,7 +120245,6 @@ use_preset_vocabulary: false
 椌	ks;mk	0
 涳	nh;dk	0
 㔚	kz;lu	0
-㲄	kz;uu	0
 䳟	kz;nm	0
 䳟	mo;nm	0
 竘	qu;lj	2
@@ -121916,6 +122004,559 @@ use_preset_vocabulary: false
 𠂤	dv;pk	0
 𠂤	ui;pk	0
 𠂤	vv;pk	0
+𠃓	yh;ap	0
+𠃓	yi;ap	0
+𭴈	yy;hy	0
+𰟋	yy;yy	0
+𬻀	pu;ap	0
+𬻀	pu;cc	0
+𢌽	np;ss	0
+𠂆	yi;pp	0
+
+# CJK Ext I
+𤚴	fj;nm	0
+𮯰	ao;aa	0
+𮯰	mf;aa	0
+𮯱	vz;pd	0
+𮯱	vz;kd	0
+𮯱	dj;pd	0
+𮯱	dj;kd	0
+𮯲	tm;pg	0
+𮯲	tm;ng	0
+𮯲	ty;pg	0
+𮯲	ty;ng	0
+𮯲	vy;pg	0
+𮯲	vy;ng	0
+𮯳	xp;wh	0	# auto
+𮯳	xp;hh	0	# auto
+𮯴	vh;re	0	# auto
+𮯴	ni;re	0	# auto
+𮯵	mo;rw	0	# auto
+𮯵	ou;rw	0	# auto
+𮯵	wj;rw	0	# auto
+𮯶	ji;rj	0	# auto
+𮯷	ia;ri	0	# auto
+𮯸	li;rl	0	# auto
+𮯹	su;rf	0	# auto
+𮯺	qn;rq	0	# auto
+𮯻	vf;ru	0	# auto
+𮯻	jk;ru	0	# auto
+𮯼	jp;rh	0	# auto
+𮯼	jp;rj	0	# auto
+𮯾	hj;rh	0	# auto
+𮰁	uh;rf	0	# auto
+𮰁	fu;rf	0	# auto
+𮰄	is;bl	0	# auto
+𮰅	lj;bl	0	# auto
+𮰅	lh;bl	0	# auto
+𮰅	dm;bl	0	# auto
+𮰈	lk;dl	0	# auto
+𮰉	pk;jf	0	# auto
+𮰉	pk;fj	0	# auto
+𮰊	ji;ij	0	# auto
+𮰊	ji;ji	0	# auto
+𮰋	dz;jb	0	# auto
+𮰋	dz;yj	0	# auto
+𮰌	xt;yd	0	# auto
+𮰌	yz;yd	0	# auto
+𮰌	xn;yd	0	# auto
+𮰍	ui;ll	0	# auto
+𮰍	ii;ll	0	# auto
+𮰎	xn;lh	0	# auto
+𮰑	hj;id	0	# auto
+𮰑	an;id	0	# auto
+𮰑	ih;id	0	# auto
+𮰒	yj;yn	0	# auto
+𮰒	yk;yn	0	# auto
+𮰓	qt;yg	0	# auto
+𮰔	ww;kw	0	# auto
+𮰕	uu;gy	0	# auto
+𮰛	rf;tr	0	# auto
+𮰜	ao;tl	0	# auto
+𮰝	dm;mt	0	# auto
+𮰝	dm;tj	0	# auto
+𮰟	ff;ty	0	# auto
+𮰟	ff;yt	0	# auto
+𮰠	dh;tt	0	# auto
+𮰡	bo;tx	0	# auto
+𮰡	bo;xt	0	# auto
+𮰡	yu;tx	0	# auto
+𮰡	yu;xt	0	# auto
+𮰣	dd;ft	0	# auto
+𮰣	dd;tf	0	# auto
+𮰣	fh;ft	0	# auto
+𮰣	fh;tf	0	# auto
+𮰤	ba;td	0	# auto
+𮰤	ju;td	0	# auto
+𮰥	hr;th	0	# auto
+𮰦	zz;tz	0	# auto
+𮰧	yu;ty	0	# auto
+𮰪	dz;td	0	# auto
+𮰫	an;ta	0	# auto
+𮰬	ih;tu	0	# auto
+𮰬	uh;tu	0	# auto
+𮰮	ns;tn	0	# auto
+𮰰	hv;uc	0	# auto
+𮰲	vc;uv	0	# auto
+𮰶	fj;db	0	# auto
+𮰶	fj;bd	0	# auto
+𮰸	yi;ny	0	# auto
+𮰹	mn;nt	0	# auto
+𮰻	fg;nf	0	# auto
+𮰼	ww;nb	0	# auto
+𮰼	ww;bn	0	# auto
+𮰽	yt;nl	0	# auto
+𮰾	lj;nl	0	# auto
+𮰿	qp;nj	0	# auto
+𮱀	xk;nx	0	# auto
+𮱀	ua;nx	0	# auto
+𮱁	hx;nj	0	# auto
+𮱁	jb;nj	0	# auto
+𮱂	yu;ny	0	# auto
+𮱂	yu;yn	0	# auto
+𮱅	lz;nx	0	# auto
+𮱅	lz;pn	0	# auto
+𮱆	mb;nm	0	# auto
+𮱇	lm;nl	0	# auto
+𮱈	hv;nx	0	# auto
+𮱊	lo;nl	0	# auto
+𮱋	xn;ny	0	# auto
+𮱌	lj;nh	0	# auto
+𮱌	lj;hn	0	# auto
+𮱍	qk;nj	0	# auto
+𮱎	hz;nh	0	# auto
+𮱐	wj;nw	0	# auto
+𮱑	yj;ny	0	# auto
+𮱑	yj;yn	0	# auto
+𮱒	nn;nn	0	# auto
+𮱓	li;nl	0	# auto
+𮱓	ii;nl	0	# auto
+𮱔	mj;nl	0	# auto
+𮱕	yk;ny	0	# auto
+𮱚	lu;nl	0	# auto
+𮱜	gv;dl	0	# auto
+𮱜	gv;zm	0	# auto
+𮱞	is;by	0	# auto
+𮱠	jr;hj	0	# auto
+𮱠	jy;hj	0	# auto
+𮱡	uc;xz	0	# auto
+𮱢	ua;xu	0	# auto
+𮱣	tv;wg	0	# auto
+𮱥	rf;uf	0	# auto
+𮱥	yb;uf	0	# auto
+𮱦	fg;uf	0	# auto
+𮱧	dd;ud	0	# auto
+𮱨	hj;ue	0	# auto
+𮱨	an;ue	0	# auto
+𮱩	yy;uj	0	# auto
+𮱪	kx;ud	0	# auto
+𮱫	bb;ub	0	# auto
+𮱬	yt;uq	0	# auto
+𮱭	lk;ul	0	# auto
+𮱯	dj;ud	0	# auto
+𮱱	fg;uf	0	# auto
+𮱲	ji;uq	0	# auto
+𮱲	qi;uq	0	# auto
+𮱵	qn;gq	0	# auto
+𮱸	bi;gw	0	# auto
+𮱹	uj;pc	0	# auto
+𮱹	uj;cp	0	# auto
+𮱻	jk;xu	0	# auto
+𮱼	pw;xj	0	# auto
+𮱿	xm;xj	0	# auto
+𮲀	ju;xb	0	# auto
+𮲁	qm;xj	0	# auto
+𮲂	fg;xf	0	# auto
+𮲃	le;xl	0	# auto
+𮲃	yt;xl	0	# auto
+𮲄	ts;xd	0	# auto
+𮲄	ts;dx	0	# auto
+𮲅	uy;xv	0	# auto
+𮲅	uf;xv	0	# auto
+𮲆	bu;xf	0	# auto
+𮲆	bu;fx	0	# auto
+𮲇	go;xg	0	# auto
+𮲈	lh;xl	0	# auto
+𮲉	mw;xm	0	# auto
+𮲊	ci;xy	0	# auto
+𮲊	yr;xy	0	# auto
+𮲋	jy;xj	0	# auto
+𮲍	vi;gt	0	# auto
+𮲎	ig;wm	0	# auto
+𮲎	ug;wm	0	# auto
+𮲏	dg;fk	0	# auto
+𮲏	ji;fk	0	# auto
+𮲏	kv;fk	0	# auto
+𮲐	yi;vy	0	# auto
+𮲒	qk;qu	0	# auto
+𮲒	qk;uw	0	# auto
+𮲓	iy;yw	0	# auto
+𮲓	iy;wy	0	# auto
+𮲓	uu;yw	0	# auto
+𮲓	uu;wy	0	# auto
+𮲔	vu;qw	0	# auto
+𮲔	vu;wq	0	# auto
+𮲔	ai;qw	0	# auto
+𮲔	ai;wq	0	# auto
+𮲔	gu;qw	0	# auto
+𮲔	gu;wq	0	# auto
+𮲕	mu;wm	0	# auto
+𮲕	mu;mw	0	# auto
+𮲙	jk;fj	0	# auto
+𮲙	jb;fj	0	# auto
+𮲛	xi;oy	0	# auto
+𮲝	yc;oy	0	# auto
+𮲞	bf;ob	0	# auto
+𮲟	xu;oy	0	# auto
+𮲡	yi;og	0	# auto
+𮲢	ni;yo	0	# auto
+𮲢	ni;oy	0	# auto
+𮲥	tk;ot	0	# auto
+𮲥	ig;ot	0	# auto
+𮲦	sz;os	0	# auto
+𮲧	fg;of	0	# auto
+𮲨	bb;ob	0	# auto
+𮲫	bf;ox	0	# auto
+𮲫	xm;ox	0	# auto
+𮲫	xi;ox	0	# auto
+𮲬	td;mt	0	# auto
+𮲬	li;mt	0	# auto
+𮲭	cs;mc	0	# auto
+𮲮	ul;mu	0	# auto
+𮲯	si;my	0	# auto
+𮲰	bi;mb	0	# auto
+𮲱	sh;ib	0	# auto
+𮲲	qk;mq	0	# auto
+𮲴	vi;mv	0	# auto
+𮲶	jm;mj	0	# auto
+𮲸	yh;my	0	# auto
+𮲹	ta;my	0	# auto
+𮲺	he;mj	0	# auto
+𮲺	xp;mj	0	# auto
+𮲺	ge;mj	0	# auto
+𮲿	vg;vv	0	# auto
+𮳃	ia;dy	0	# auto
+𮳅	wa;dy	0	# auto
+𮳆	he;dh	0	# auto
+𮳉	mu;dj	0	# auto
+𮳊	yi;dy	0	# auto
+𮳍	ko;dg	0	# auto
+𮳏	xm;dx	0	# auto
+𮳐	if;di	0	# auto
+𮳑	jp;db	0	# auto
+𮳔	fw;dy	0	# auto
+𮳖	yj;dx	0	# auto
+𮳗	uu;du	0	# auto
+𮳚	wo;hy	0	# auto
+𮳛	fw;hf	0	# auto
+𮳜	yi;hx	0	# auto
+𮳝	fw;hk	0	# auto
+𮳠	fg;hf	0	# auto
+𮳢	vu;ha	0	# auto
+𮳣	lm;hd	0	# auto
+𮳤	gz;hj	0	# auto
+𮳥	lc;hl	0	# auto
+𮳦	yj;hh	0	# auto
+𮳧	qn;hq	0	# auto
+𮳨	di;hg	0	# auto
+𮳬	lm;hl	0	# auto
+𮳮	jp;hj	0	# auto
+𮳱	ff;hg	0	# auto
+𮳱	hv;hg	0	# auto
+𮳳	cs;hz	0	# auto
+𮳳	zs;hz	0	# auto
+𮳳	il;hz	0	# auto
+𮳴	ye;hh	0	# auto
+𮳵	jx;hj	0	# auto
+𮳵	gu;hj	0	# auto
+𮳷	bu;hx	0	# auto
+𮳸	hs;hy	0	# auto
+𮳺	fj;nm	0	# auto
+𮳺	mu;nm	0	# auto
+𮳻	li;nl	0	# auto
+𮴀	wj;ww	0	# auto
+𮴂	yi;wy	0	# auto
+𮴃	de;wy	0	# auto
+𮴃	di;wy	0	# auto
+𮴅	ly;wl	0	# auto
+𮴆	pw;wf	0	# auto
+𮴇	fg;wf	0	# auto
+𮴉	vi;wv	0	# auto
+𮴊	qu;wi	0	# auto
+𮴋	ui;wu	0	# auto
+𮴌	lj;wl	0	# auto
+𮴏	yi;wy	0	# auto
+𮴐	il;wi	0	# auto
+𮴐	yi;wi	0	# auto
+𮴔	ye;wh	0	# auto
+𮴗	yc;wy	0	# auto
+𮴘	da;wd	0	# auto
+𮴙	zz;wz	0	# auto
+𮴚	kg;wj	0	# auto
+𮴚	jm;wj	0	# auto
+𮴛	he;wh	0	# auto
+𮴜	kf;wz	0	# auto
+𮴜	yb;wz	0	# auto
+𮴞	ww;ww	0	# auto
+𮴟	lk;wl	0	# auto
+𮴡	zd;ww	0	# auto
+𮴡	ku;ww	0	# auto
+𮴡	ug;ww	0	# auto
+𮴣	uz;wu	0	# auto
+𮴤	ig;wi	0	# auto
+𮴦	fu;wf	0	# auto
+𮴦	fz;wf	0	# auto
+𮴧	ui;wu	0	# auto
+𮴧	si;wu	0	# auto
+𮴧	yi;wu	0	# auto
+𮴨	cs;wz	0	# auto
+𮴩	xi;wx	0	# auto
+𮴫	wg;ww	0	# auto
+𮴯	yh;wu	0	# auto
+𮴯	ih;wu	0	# auto
+𮴶	yk;wy	0	# auto
+𮴷	ww;ww	0	# auto
+𮴸	cj;wc	0	# auto
+𮴹	lj;wl	0	# auto
+𮴼	yj;wn	0	# auto
+𮴼	yj;nw	0	# auto
+𮴾	ww;tw	0	# auto
+𮴿	tm;tn	0	# auto
+𮵁	bi;th	0	# auto
+𮵅	wo;oy	0	# auto
+𮵅	nd;oy	0	# auto
+𮵅	xi;oy	0	# auto
+𮵆	ww;ow	0	# auto
+𮵉	id;uj	0	# auto
+𮵋	yj;uu	0	# auto
+𮵎	lw;ut	0	# auto
+𮵏	yi;uz	0	# auto
+𮵐	qn;uv	0	# auto
+𮵐	dn;uv	0	# auto
+𮵑	nc;ux	0	# auto
+𮵒	yu;uy	0	# auto
+𮵒	yu;yu	0	# auto
+𮵓	yj;uy	0	# auto
+𮵕	bk;um	0	# auto
+𮵕	mc;um	0	# auto
+𮵕	mz;um	0	# auto
+𮵕	bs;um	0	# auto
+𮵖	yu;uy	0	# auto
+𮵙	yt;ul	0	# auto
+𮵛	xq;uz	0	# auto
+𮵠	yi;hw	0	# auto
+𮵣	vf;hs	0	# auto
+𮵣	vf;qq	0	# auto
+𮵤	uf;hu	0	# auto
+𮵤	vf;hu	0	# auto
+𮵤	rf;hu	0	# auto
+𮵥	if;ly	0	# auto
+𮵨	bb;lw	0	# auto
+𮵫	ln;vl	0	# auto
+𮵬	sr;vw	0	# auto
+𮵬	cs;vw	0	# auto
+𮵭	fg;vf	0	# auto
+𮵮	dn;vn	0	# auto
+𮵱	ld;vl	0	# auto
+𮵳	yk;vy	0	# auto
+𮵴	vi;vv	0	# auto
+𮵴	qi;vv	0	# auto
+𮵷	bi;vj	0	# auto
+𮵷	jb;vj	0	# auto
+𮵺	qi;hm	0	# auto
+𮵺	qi;mw	0	# auto
+𮵻	bk;mb	0	# auto
+𮵽	dz;mv	0	# auto
+𮵾	jb;su	0	# auto
+𮵾	jb;is	0	# auto
+𮵿	ia;si	0	# auto
+𮶀	en;sy	0	# auto
+𮶁	gr;sc	0	# auto
+𮶁	ly;sc	0	# auto
+𮶂	fg;sf	0	# auto
+𮶃	tc;st	0	# auto
+𮶅	rs;sr	0	# auto
+𮶆	vz;sc	0	# auto
+𮶇	qu;bc	0	# auto
+𮶈	jq;jy	0	# auto
+𮶈	jq;yj	0	# auto
+𮶋	is;yi	0	# auto
+𮶌	qn;yx	0	# auto
+𮶌	qn;xy	0	# auto
+𮶍	is;iy	0	# auto
+𮶍	is;yi	0	# auto
+𮶏	mb;ey	0	# auto
+𮶏	xr;ey	0	# auto
+𮶐	zi;ey	0	# auto
+𮶑	fg;ey	0	# auto
+𮶑	wh;ey	0	# auto
+𮶒	xi;eg	0	# auto
+𮶔	ww;ow	0	# auto
+𮶕	xi;ou	0	# auto
+𮶖	xx;zw	0	# auto
+𮶗	gj;vg	0	# auto
+𮶘	yy;vy	0	# auto
+𮶙	jm;vj	0	# auto
+𮶚	vi;vo	0	# auto
+𮶛	qi;cq	0	# auto
+𮶜	lj;cs	0	# auto
+𮶜	vd;cs	0	# auto
+𮶝	ai;cy	0	# auto
+𮶝	zi;cy	0	# auto
+𮶝	ee;cy	0	# auto
+𮶝	id;cy	0	# auto
+𮶞	fw;cf	0	# auto
+𮶟	lj;cl	0	# auto
+𮶠	bu;cb	0	# auto
+𮶡	ye;cy	0	# auto
+𮶡	xp;cy	0	# auto
+𮶢	il;ci	0	# auto
+𮶤	yy;cy	0	# auto
+𮶦	mw;cm	0	# auto
+𮶩	si;cy	0	# auto
+𮶪	ju;cy	0	# auto
+𮶫	jm;cv	0	# auto
+𮶬	jm;cq	0	# auto
+𮶭	rv;cu	0	# auto
+𮶮	bw;cb	0	# auto
+𮶯	xm;cx	0	# auto
+𮶳	ww;cw	0	# auto
+𮶷	mb;cm	0	# auto
+𮶷	mj;cm	0	# auto
+𮶸	jb;cj	0	# auto
+𮶺	rv;ho	0	# auto
+𮶻	fw;if	0	# auto
+𮶻	fw;fi	0	# auto
+𮶼	ui;iu	0	# auto
+𮶽	fj;iy	0	# auto
+𮶽	qq;iy	0	# auto
+𮶾	xn;ix	0	# auto
+𮶿	yi;yn	0	# auto
+𮷃	yi;yy	0	# auto
+𮷄	jn;pj	0	# auto
+𮷄	jn;jb	0	# auto
+𮷄	jt;pj	0	# auto
+𮷄	jt;jb	0	# auto
+𮷅	ds;yd	0	# auto
+𮷅	jm;yd	0	# auto
+𮷇	le;yl	0	# auto
+𮷈	ji;yq	0	# auto
+𮷈	qi;yq	0	# auto
+𮷉	yh;yy	0	# auto
+𮷊	bo;yf	0	# auto
+𮷍	vu;bn	0	# auto
+𮷏	yy;yy	0	# auto
+𮷖	gv;ij	0	# auto
+𮷗	td;it	0	# auto
+𮷗	dd;it	0	# auto
+𮷚	zh;iv	0	# auto
+𮷚	zh;vi	0	# auto
+𮷛	hs;ii	0	# auto
+𮷝	tc;iy	0	# auto
+𮷞	tk;zf	0	# auto
+𮷟	he;zh	0	# auto
+𮷠	jk;zu	0	# auto
+𮷡	ti;zq	0	# auto
+𮷢	jb;zj	0	# auto
+𮷣	yr;zy	0	# auto
+𮷣	ww;zy	0	# auto
+𮷤	xx;zd	0	# auto
+𮷥	tk;zx	0	# auto
+𮷧	ui;zu	0	# auto
+𮷧	ko;zu	0	# auto
+𮷨	li;le	0	# auto
+𮷩	lr;oe	0	# auto
+𮷩	yt;oe	0	# auto
+𮷪	jm;qe	0	# auto
+𮷬	xi;xe	0	# auto
+𮷯	xi;ej	0	# auto
+𮷯	xi;je	0	# auto
+𮷰	bc;jd	0	# auto
+𮷲	cs;jb	0	# auto
+𮷳	xm;xj	0	# auto
+𮷳	xm;jx	0	# auto
+𮷴	de;jx	0	# auto
+𮷵	ji;jj	0	# auto
+𮷶	yi;jy	0	# auto
+𮷷	ji;jf	0	# auto
+𮷸	yr;jy	0	# auto
+𮷺	qb;jw	0	# auto
+𮷻	lq;jf	0	# auto
+𮷽	uu;jy	0	# auto
+𮸀	lm;jd	0
+𮸀	jm;jd	0
+𮸂	rj;jy	0	# auto
+𮸃	pi;jy	0	# auto
+𮸄	rs;jr	0	# auto
+𮸄	yt;jr	0	# auto
+𮸆	qk;jq	0	# auto
+𮸈	jy;jj	0	# auto
+𮸊	ij;jl	0	# auto
+𮸋	yu;jy	0	# auto
+𮸌	ui;jx	0	# auto
+𮸏	jr;jw	0	# auto
+𮸏	jm;jw	0	# auto
+𮸏	cr;jw	0	# auto
+𮸐	fh;jf	0	# auto
+𮸔	bo;ji	0	# auto
+𮸕	fu;jt	0	# auto
+𮸖	jm;jm	0	# auto
+𮸗	xm;jx	0	# auto
+𮸙	qb;jq	0	# auto
+𮸛	kd;jq	0	# auto
+𮸜	kd;jd	0	# auto
+𮸞	qi;jj	0	# auto
+𮸟	uh;ji	0	# auto
+𮸠	xm;jk	0	# auto
+𮸢	kd;jk	0	# auto
+𮸤	ao;it	0	# auto
+𮸥	xp;mj	0	# auto
+𮸥	ya;mj	0	# auto
+𮸦	fu;mk	0	# auto
+𮸧	qt;mu	0	# auto
+𮸨	qk;eq	0	# auto
+𮸩	xk;ex	0	# auto
+𮸩	xi;ex	0	# auto
+𮸫	fj;yf	0	# auto
+𮸬	yy;yy	0	# auto
+𮸮	xp;gj	0	# auto
+𮸲	ls;yy	0	# auto
+𮸳	uc;yu	0	# auto
+𮸶	xm;yy	0	# auto
+𮸷	yy;yy	0	# auto
+𮸹	gu;gy	0	# auto
+𮸹	gu;yg	0	# auto
+𮸺	pb;pp	0	# auto
+𮸻	yh;fy	0	# auto
+𮸼	bn;fy	0	# auto
+𮸼	bn;yf	0	# auto
+𮸽	fw;ff	0	# auto
+𮹀	pb;xb	0	# auto
+𮹁	jy;my	0	# auto
+𮹂	fw;mf	0	# auto
+𮹄	dy;mt	0	# auto
+𮹄	ty;mt	0	# auto
+𮹄	vy;mt	0	# auto
+𮹅	mo;mm	0	# auto
+𮹆	yi;my	0	# auto
+𮹋	vz;mv	0	# auto
+𮹌	wf;mm	0	# auto
+𮹑	si;gt	0	# auto
+𮹓	hz;yw	0	# auto
+𮹓	hz;wy	0	# auto
+𮹕	yr;dn	0	# auto
+𮹕	yr;nd	0	# auto
+𮹕	dd;dn	0	# auto
+𮹕	dd;nd	0	# auto
+𮹗	lk;nl	0	# auto
+𮹗	lk;un	0	# auto
+𮹘	yk;nb	0	# auto
+𮹘	yk;hn	0	# auto
+𮹙	he;nc	0	# auto
+𮹙	he;cn	0	# auto
+𮹜	yj;ny	0	# auto
+𮹜	yj;yn	0	# auto
+𮹝	da;ll	0	# auto
 
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉

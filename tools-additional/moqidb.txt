@@ -30378,7 +30378,7 @@
 䩊	mv
 䯈	gy
 䳃	nv
-丸	ld
+丸	jd
 倇	rv
 刓	yd
 剜	bd

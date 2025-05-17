@@ -24,6 +24,16 @@ deploy:
         assert: eq(cand[1].text, "級") and eq(cand[1].comment, "⚡️")
       - send: jisjo
         assert: eq(cand[1].text, "紀")
+      - send: ubbs
+        assert: eq(cand[1].text, "瘦")
+      - send: dmbd
+        assert: eq(cand[1].text, "癲")
+      - send: vidt
+        assert: eq(cand[1].text, "治")
+      - send: lnyl
+        assert: eq(cand[1].text, "霖")
+      - send: hodd
+        assert: eq(cand[1].text, "火")
 
   emoji:
     options:
@@ -72,9 +82,18 @@ deploy:
       moran/enable_word_filter: true
     tests:
       - send: lmjx
-        assert: eq(cand[1].text, "鏈接")
+        assert: eq(cand[1].text, "鏈接") and eq(cand[1].comment, "")
       - send: lmjxz
-        assert: eq(cand[1].text, "連接")
+        assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "zf")
+  word_filter_match_indicator:
+    patch:
+      moran/enable_word_filter: true
+      moran/word_filter_match_indicator: "🎯"
+    tests:
+      - send: lmjx
+        assert: eq(cand[1].text, "鏈接") and eq(cand[1].comment, "")
+      - send: lmjxz
+        assert: eq(cand[1].text, "連接") and eq(cand[1].comment, "🎯")
 
   pin:
     options:
