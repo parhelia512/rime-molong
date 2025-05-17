@@ -1267,7 +1267,7 @@ def rewrite_row(row, traditional, simplified, delim, pinyin_fn, shape_dict, mult
     # row == ['三觭龍', 'san ji long'] or ['三觭龍', 'san ji long', '1']
     zh_chars = row[0]
     # eg. '安娜·卡列尼娜' -> '安娜卡列尼娜'
-    zh_chars = re.sub("[;·，。；：“”‘’《》（）！？、…—–]", "", zh_chars)
+    zh_chars = re.sub("[-;·，。；：“”‘’《》（）！？、…—–]", "", zh_chars)
     if traditional and not simplified:
         zh_chars = opencc_s2t.convert(zh_chars)
     if simplified and not traditional:
