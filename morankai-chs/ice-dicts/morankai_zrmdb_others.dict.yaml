@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-03-06"
+version: "2025-05-10"
 sort: by_weight
 ...
 ##### 容错词
@@ -53,6 +53,8 @@ sort: by_weight
 坐骑	zo;tc ji;mq
 铁骑	tx;ju qi;mq
 铁骑	tx;ju ji;mq
+铁骑突出刀枪鸣	tx;ju qi;mq tu;xq iu;ck dk;gp qd;mc my;kn
+铁骑突出刀枪鸣	tx;ju ji;mq tu;xq iu;ck dk;gp qd;mc my;kn
 一骑绝尘	yi;aa qi;mq jt;ss if;tx
 一骑绝尘	yi;aa ji;mq jt;ss if;tx
 一骑当千	yi;aa qi;mq dh;xx qm;pa
@@ -141,6 +143,8 @@ sort: by_weight
 虚与委蛇	xu;hy yu;aa wz;hn ue;it
 木讷	mu;ad ne;yn
 木讷	mu;ad na;yn
+龟裂	jp;dd lx;yl
+龟裂	gv;dd lx;yl
 独乐乐	du;qi yt;pd le;pd
 独乐乐	du;qi le;pd le;pd
 众乐乐	vs;rc yt;pd le;pd
@@ -271,6 +275,8 @@ sort: by_weight
 应该	yn;ga gl;yh
 粘贴	vj;mv tx;bv
 粘贴	nm;mv tx;bv
+粘一粘	vj;mv yi;aa vj;mv
+粘一粘	nm;mv yi;aa nm;mv
 高句丽	gk;wk gb;gk li;ad
 高句丽	gk;wk ju;gk li;ad
 角斗士	jt;dy db;du ui;aa
@@ -291,6 +297,8 @@ sort: by_weight
 手如柔荑	ub;pa ru;nk rb;mm yi;cy
 温庭筠	wf;dm ty;gt yp;vj
 温庭筠	wf;dm ty;gt jp;vj
+朱祐樘	vu;pw yb;uy ig;mt
+朱祐樘	vu;pw yb;uy th;mt
 关卡	gr;qd qw;bx
 关卡	gr;qd ka;bx	1000
 三昧真火	sj;aa mz;ow vf;uj ho;dd
@@ -309,12 +317,22 @@ sort: by_weight
 哺乳	pu;kf ru;gf
 脑卒中	nk;ox cu;wu vs;aa
 脑卒中	nk;ox zu;wu vs;aa
+阈值	yu;mh vi;rv
+阈值	fa;mh vi;rv
 潟湖	xi;dh hu;dh
 潟湖	xx;dh hu;dh
 果脯	go;ad fu;of
 果脯	go;ad pu;of
 肉脯	rb;ad fu;of
 肉脯	rb;ad pu;of
+脯氨酸	fu;of an;qa sr;yj
+脯氨酸	pu;of an;qa sr;yj
+酪氨酸	lk;yg an;qa sr;yj
+酪氨酸	lo;yg an;qa sr;yj
+没食子	mo;du ui;rl zi;aa
+没食子	mz;du ui;rl zi;aa
+裳凤蝶	ih;yk fg;jy dx;im
+裳凤蝶	uh;yk fg;jy dx;im
 白𬶨豚	bl;pa ji;yj tp;ou
 白𬶨豚	bl;pa qi;yj tp;ou
 桡骨	rk;my gu;go
@@ -337,8 +355,26 @@ sort: by_weight
 安瓿	an;bn pb;wk
 安瓿瓶	an;bn bu;wk py;wb
 安瓿瓶	an;bn pb;wk py;wb
+解剖	jx;jn pb;dk
+解剖	jx;jn pk;dk
+剖分	pb;dk ff;bd
+剖分	pk;dk ff;bd
+剖腹产	pb;dk fu;of ij;dp
+剖腹产	pk;dk fu;of ij;dp
+剖宫产	pb;dk gs;bl ij;dp
+剖宫产	pk;dk gs;bl ij;dp
 金匮	jn;ra gv;kg
 金匮	jn;ra kv;kg
+清平乐	qy;dq py;aa yt;pd
+清平乐	qy;dq py;aa le;pd
+踏莎行	ta;zt so;cu xy;xd
+踏莎行	ta;zt ua;cu xy;xd
+莎草	so;cu ck;cz
+莎草	ua;cu ck;cz
+杉木	ua;mp mu;ad
+杉木	uj;mp mu;ad
+道在屎溺	dk;zu zl;ta ui;um nc;dr
+道在屎溺	dk;zu zl;ta ui;um ni;dr
 ### 错字
 曾经	cg;ob jy;sg
 曾今	cg;ob jn;ra

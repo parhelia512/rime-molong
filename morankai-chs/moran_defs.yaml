@@ -62,31 +62,14 @@ fly:
 # 小寫可匹配大寫編碼（用於英語混輸）
 casefold:
   __append:
-    - derive/A/a/
-    - derive/B/b/
-    - derive/C/c/
-    - derive/D/d/
-    - derive/E/e/
-    - derive/F/f/
-    - derive/G/g/
-    - derive/H/h/
-    - derive/I/i/
-    - derive/J/j/
-    - derive/K/k/
-    - derive/L/l/
-    - derive/M/m/
-    - derive/N/n/
-    - derive/O/o/
-    - derive/P/p/
-    - derive/Q/q/
-    - derive/R/r/
-    - derive/S/s/
-    - derive/T/t/
-    - derive/U/u/
-    - derive/V/v/
-    - derive/W/w/
-    - derive/X/x/
-    - derive/Y/y/
-    - derive/Z/z/
+    - derive/([A-Z])/\L$1\E/
 
-
+# 英語化部分非字母編碼（用於英語混輸）
+englishify_nonletter:
+  __append:
+    # 數字，轉換爲對應的讀音縮寫
+    # 如 21 轉換爲 euy
+    - derive/10/u/                  # u, yl
+    - derive/1([1-9])/u$1/          # uy, ue, us, ...
+    - derive/([2-9])([0-9])/$1u$2/  # euy, eue, eus, ...
+    - xlit/0123456789/lyesswlqbj/
