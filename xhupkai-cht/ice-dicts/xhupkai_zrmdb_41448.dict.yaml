@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-05-10"
+version: "2025-05-25"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -2813,13 +2813,13 @@ sort: by_weight
 䂁	ij;oi
 䊲	ij;si
 䐮	ij;oi
-䑎	ij;oq
+䑎	ij;og
 䜛	ij;ym
 䠨	ij;zv
 䡪	ij;iu
 䡲	ij;id
 䣑	ij;el
-䤘	ij;yq
+䤘	ij;yg
 䤫	ij;jc
 䥀	ij;ji
 䧯	ij;ei
@@ -2952,13 +2952,13 @@ sort: by_weight
 𤯥	ij;ru
 𤴿	ij;br
 𤸦	ij;bn
-𤼋	ij;bq
+𤼋	ij;bg
 𥊓	ij;oi
 𥧑	ij;xv
 𥭔	ij;vd
 𦆀	ij;sx
 𦝟	ij;ol
-𦢙	ij;oq
+𦢙	ij;og
 𦸰	ij;ci
 𧈪	ij;ic
 𧐲	ij;ij
@@ -2973,7 +2973,7 @@ sort: by_weight
 𧾡	ij;zi
 𨄉	ij;zu
 𨇝	ij;zy
-𨇦	ij;zj
+𨇦	ij;zg
 𨊝	ij;uv
 𨔢	ij;zi
 𨩪	ij;ji
@@ -2989,7 +2989,7 @@ sort: by_weight
 𩍲	ij;gy
 𩖌	ij;yi
 𩝚	ij;ui
-𩟶	ij;uq
+𩟶	ij;ug
 𩥮	ij;mi
 𩬑	ij;iv
 𩮏	ij;ix
@@ -2999,7 +2999,7 @@ sort: by_weight
 𪏋	ij;hy
 𪏦	ij;hu
 𪓄	ij;hi
-𪖎	ij;uq
+𪖎	ij;ug
 𪗂	ij;bi
 𪙞	ij;ii
 𪚃	ij;ii
@@ -4698,7 +4698,7 @@ sort: by_weight
 叢	cs;yq
 從	cs;xv
 匆	cs;gp
-囪	cs;kd
+囪	cs;pd
 婃	cs;nz
 孮	cs;zz
 従	cs;xv
@@ -7590,7 +7590,7 @@ sort: by_weight
 杋	fj;mf
 柉	fj;mf
 桳	fj;mu
-梵	fj;fl
+梵	fj;lf
 棥	fj;mm
 樊	fj;dm
 橎	fj;mf
@@ -13331,7 +13331,7 @@ sort: by_weight
 㓺	jm;dq
 㔋	jm;dj
 㔓	jm;lq
-㡨	jm;jq
+㡨	jm;jg
 㣤	jm;xj
 㦗	jm;xj
 㦰	jm;gc
@@ -13435,7 +13435,7 @@ sort: by_weight
 檻	jm;mj
 橏	jm;mu
 櫼	jm;mg
-殲	jm;dx
+殲	jm;dg
 殱	jm;dg
 毽	jm;mj
 洊	jm;dc
@@ -13579,7 +13579,7 @@ sort: by_weight
 𠼤	jm;kj
 𠽱	jm;kj
 𠿏	jm;kj
-𡄑	jm;kq
+𡄑	jm;kg
 𡄓	jm;kj
 𡅶	jm;kj
 𡑯	jm;tj
@@ -13617,7 +13617,7 @@ sort: by_weight
 𥀹	jm;pj
 𥊇	jm;oi
 𥌈	jm;oj
-𥍀	jm;oq
+𥍀	jm;og
 𥍹	jm;mj
 𥜲	jm;uj
 𥡝	jm;bb
@@ -13675,10 +13675,10 @@ sort: by_weight
 𨷓	jm;mj
 𩅼	jm;yj
 𩆯	jm;yl
-𩆷	jm;yq
+𩆷	jm;yg
 𩇏	jm;yx
 𩉍	jm;mj
-𩉔	jm;mq
+𩉔	jm;mg
 𩋋	jm;gj
 𩌯	jm;gw
 𩍎	jm;gh
@@ -14326,7 +14326,7 @@ sort: by_weight
 𧜅	jp;yh
 𧞝	jp;yj
 𧞩	jp;yg
-𧞬	jp;yq
+𧞬	jp;yg
 𧣋	jp;jj
 𧪘	jp;yi
 𧫑	jp;yj
@@ -14344,7 +14344,7 @@ sort: by_weight
 𩔄	jp;uy
 𩘅	jp;fj
 𩟦	jp;ug
-𩟶	jp;uq
+𩟶	jp;ug
 𩡺	jp;mj
 𩢴	jp;mj
 𩩰	jp;gj
@@ -21859,7 +21859,7 @@ sort: by_weight
 𨈗	nf;uk
 㲌	ng;mn
 㴰	ng;dn
-䏻	ng;yq
+䏻	ng;sq
 䘅	ng;nk
 能	ng;sb
 螚	ng;in
@@ -24540,7 +24540,7 @@ sort: by_weight
 㝿	qm;wp
 㟻	qm;uv
 㡊	qm;jd
-㡨	qm;jq
+㡨	qm;jg
 㥞	qm;xs
 㦮	qm;ja
 㧄	qm;fk
@@ -24569,7 +24569,7 @@ sort: by_weight
 䙺	qm;jh
 䞿	qm;zs
 䢪	qm;zq
-䤘	qm;yq
+䤘	qm;yg
 䥅	qm;ju
 䦲	qm;mv
 䨿	qm;ft
@@ -24768,7 +24768,7 @@ sort: by_weight
 𦂒	qm;sq
 𦅋	qm;sx
 𦖎	qm;ek
-𦢙	qm;oq
+𦢙	qm;og
 𦴑	qm;cg
 𦼓	qm;cy
 𧃑	qm;cj
@@ -27437,7 +27437,7 @@ sort: by_weight
 𧴭	uj;bp
 𧷶	uj;bg
 𨁆	uj;zy
-𨏪	uj;iq
+𨏪	uj;ig
 𨝩	uj;iy
 𨝵	uj;le
 𨹈	uj;eh
@@ -33419,8 +33419,8 @@ sort: by_weight
 㿅	xm;bx
 䀏	xm;og
 䁂	xm;oq
-䃱	xm;uq
-䃸	xm;ux
+䃱	xm;ug
+䃸	xm;ug
 䄯	xm;hj
 䇒	xm;lj
 䉯	xm;vx
@@ -33669,7 +33669,7 @@ sort: by_weight
 𢕭	xm;xg
 𢖋	xm;xb
 𢖎	xm;;
-𢖝	xm;xq
+𢖝	xm;xg
 𢚀	xm;xy
 𢛆	xm;xx
 𢥌	xm;xx
@@ -33686,7 +33686,7 @@ sort: by_weight
 𣟲	xm;mx
 𣢟	xm;qg
 𣮾	xm;mu
-𣰷	xm;mq
+𣰷	xm;mg
 𤁦	xm;dx
 𤉌	xm;hl
 𤑃	xm;vj
@@ -33713,7 +33713,7 @@ sort: by_weight
 𦑘	xm;yx
 𦒜	xm;yd
 𦠹	xm;vv
-𦢙	xm;oq
+𦢙	xm;og
 𦥖	xm;jl
 𦧐	xm;uj
 𦩢	xm;vx

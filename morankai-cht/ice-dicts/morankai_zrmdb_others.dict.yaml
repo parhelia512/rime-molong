@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-05-10"
+version: "2025-05-20"
 sort: by_weight
 ...
 ##### 容错词
@@ -285,6 +285,10 @@ sort: by_weight
 縮砂密	so;ss ua;uu mi;ub
 迫擊炮	pl;zb ji;fu pk;hb
 迫擊炮	po;zb ji;fu pk;hb
+封禪	fg;cg uj;ud
+封禪	fg;cg ij;ud
+芫荽	yj;cy sv;ct
+芫荽	yr;cy sv;ct
 榲桲	wf;mm po;mb
 榲桲	wf;mm bo;mb
 荸薺	bi;cb qi;cq
@@ -325,6 +329,8 @@ sort: by_weight
 果脯	go;ad pu;of
 肉脯	rb;ad fu;of
 肉脯	rb;ad pu;of
+餄餎	he;uh le;ug
+餄餎	ho;uh lo;ug
 脯氨酸	fu;of an;qa sr;yj
 脯氨酸	pu;of an;qa sr;yj
 酪氨酸	lk;yg an;qa sr;yj
@@ -375,6 +381,8 @@ sort: by_weight
 杉木	uj;mp mu;ad
 道在屎溺	dk;zu zl;ta ui;um nc;dr
 道在屎溺	dk;zu zl;ta ui;um ni;dr
+甑糕	zg;wc gk;mg
+甑糕	jy;wc gk;mg
 ### 错字
 曾經	cg;ob jy;sg
 曾今	cg;ob jn;ra
