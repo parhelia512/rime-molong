@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-05-20"
+version: "2025-06-10"
 sort: by_weight
 ...
 ##### 容错词
@@ -125,6 +125,8 @@ sort: by_weight
 南无阿弥陀佛	na;ug mo;ay aa;ek mi;gx to;eb fo;rf
 南无阿弥陀佛	nj;ug wu;ay ee;ek mi;gx to;eb fo;rf
 南无阿弥陀佛	nj;ug wu;ay aa;ek mi;gx to;eb fo;rf
+刹帝利	ia;xd di;wj li;hd
+刹帝利	ua;xd di;wj li;hd
 给予	ji;sk yu;sl
 给予	gw;sk yu;sl
 槟榔	bk;mb lh;me
