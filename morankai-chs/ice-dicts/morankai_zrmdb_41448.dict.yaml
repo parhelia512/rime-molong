@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-07-01"
+version: "2025-08-01"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -208,7 +208,7 @@ sort: by_weight
 揞	an;fy
 晻	an;od
 暗	an;oy
-案	an;bm
+案	an;ma
 桉	an;ma
 氨	an;qa
 洝	an;da
@@ -1858,7 +1858,7 @@ sort: by_weight
 琕	by;wb
 病	by;bb
 眪	by;ob
-禀	by;du
+禀	by;wu
 秉	by;ha
 窉	by;xb
 竝	by;ll
@@ -3840,7 +3840,7 @@ sort: by_weight
 䖝	is;pi
 䡴	is;it
 䳯	is;nv
-充	is;dy
+充	is;wy
 冲	is;dv
 嘃	is;ky
 埫	is;tu
@@ -6472,6 +6472,7 @@ sort: by_weight
 鯟	ds;yd
 鸫	ds;nd
 鶫	ds;nj
+鿴	ds;yd
 𠄉	ds;rv
 𢔅	ds;xd
 𢛔	ds;xd
@@ -9635,7 +9636,7 @@ sort: by_weight
 𣲾	gy;dk
 𥑋	gy;uk
 𥑰	gy;uz
-𦫳	gy;gu
+𦫳	gy;ca
 𦮃	gy;ca
 𧊅	gy;il
 𧱾	gy;bq
@@ -11647,6 +11648,7 @@ sort: by_weight
 𩵏	hw;yb
 𫚝	hw;yg
 𪗽	hw;iu
+𫰡	hw;nh
 㜳	hy;nh
 㠢	hy;wy
 䃶	hy;uh
@@ -12082,7 +12084,7 @@ sort: by_weight
 檓	hv;mh
 櫘	hv;mh
 㱮	hv;dg
-毁	hv;jy
+毁	hv;ug
 毇	hv;um
 泋	hv;dh
 洃	hv;dh
@@ -12592,7 +12594,7 @@ sort: by_weight
 兾	ji;bg
 冀	ji;bg
 几	ji;py
-击	ji;eu
+击	ji;fk
 刉	ji;dq
 刏	ji;dq
 剂	ji;dq
@@ -14175,7 +14177,7 @@ sort: by_weight
 𠓢	jx;ru
 𠙤	jx;jj
 𠬮	jx;uy
-𠯙	jx;kj
+𠯙	jx;ky
 𠲵	jx;kj
 𠷟	jx;kj
 𡉷	jx;tb
@@ -15005,7 +15007,7 @@ sort: by_weight
 钜	ju;jj
 閰	ju;mj
 陱	ju;ej
-雎	ju;qv
+雎	ju;vq
 鞠	ju;gj
 鞫	ju;gy
 飓	ju;fj
@@ -19285,7 +19287,7 @@ sort: by_weight
 𪑄	lu;hp
 𪒏	lu;hl
 𪖌	lu;ul
-㝈	lr;lz
+㝈	lr;zs
 㡩	lr;jl
 㰸	lr;qj
 㱍	lr;ql
@@ -19949,6 +19951,7 @@ sort: by_weight
 𩷶	mh;ym
 𪁪	mh;nm
 𪚢	mh;lf
+𱇮	mh;ym
 㒵	mk;bb
 㒻	mk;mj
 㚹	mk;nm
@@ -21030,7 +21033,7 @@ sort: by_weight
 抹	mo;fm
 摩	mo;mu
 摸	mo;fm
-摹	mo;cu
+摹	mo;um
 擵	mo;fm
 攠	mo;ff
 无	mo;ag
@@ -21384,7 +21387,7 @@ sort: by_weight
 雫	na;yx
 靹	na;gn
 魶	na;yn
-𠕄	na;;
+𠕄	na;ay
 𠱲	na;ky
 𠴾	na;ki
 𡤙	na;nn
@@ -24075,7 +24078,7 @@ sort: by_weight
 盵	qi;oq
 矵	qi;ud
 砌	qi;uq
-碁	qi;qu
+碁	qi;uq
 碛	qi;uz
 碶	qi;uq
 磜	qi;uj
@@ -27857,7 +27860,7 @@ sort: by_weight
 䭄	ui;uu
 䰄	ui;is
 䲽	ui;nu
-䴓	ui;nz
+䴓	ui;nb
 䶡	ui;iz
 䶵	ui;ys
 世	ui;ca
@@ -29312,7 +29315,7 @@ sort: by_weight
 㛖	so;nj
 㪽	so;ax
 㮦	so;ms
-㱔	so;cx
+㱔	so;xc
 䂹	so;uv
 䅴	so;hs
 䈗	so;vj
@@ -29418,6 +29421,7 @@ sort: by_weight
 𪍔	so;mg
 𪍟	so;ms
 𪍨	so;mi
+𱇳	so;yw
 𠉂	ta;rd
 㗳	ta;kd
 㛥	ta;nt
@@ -33953,7 +33957,7 @@ sort: by_weight
 㩪	xx;fx
 㰔	xx;mx
 㰡	xx;qj
-㱔	xx;cx
+㱔	xx;xc
 㳦	xx;dj
 㳿	xx;dm
 㴬	xx;du
@@ -35623,7 +35627,7 @@ sort: by_weight
 巚	yj;uq
 延	yj;zv
 弇	yj;ch
-彦	yj;dp
+彦	yj;ip
 恹	yj;xy
 愝	yj;xn
 懕	yj;xq
@@ -37394,7 +37398,7 @@ sort: by_weight
 垽	yn;tj
 堙	yn;tt
 堷	yn;ty
-夤	yn;xb
+夤	yn;xy
 姻	yn;ny
 婣	yn;na
 婬	yn;nr
@@ -37740,7 +37744,7 @@ sort: by_weight
 鴬	yy;dn
 鶑	yy;hn
 鶧	yy;ny
-鷪	yy;mn
+鷪	yy;nb
 鹰	yy;gn
 鸎	yy;bn
 鹦	yy;ny
@@ -37839,7 +37843,7 @@ sort: by_weight
 埇	ys;ty
 塎	ys;tr
 墉	ys;ty
-壅	ys;dt
+壅	ys;ty
 嫞	ys;ny
 嵱	ys;ur
 庸	ys;ga
@@ -39124,7 +39128,7 @@ sort: by_weight
 䡝	yp;iw
 䢵	yp;ey
 䤞	yp;jy
-䦾	yp;dy
+䦾	yp;vy
 䨶	yp;yd
 䩵	yp;gj
 䪳	yp;yy
@@ -39245,7 +39249,7 @@ sort: by_weight
 𪘩	yp;ij
 㳨	za;dy
 䕹	za;cz
-䞙	za;zz
+䞙	za;zb
 䦈	za;iz
 䨿	za;ft
 䪞	za;jt
@@ -39277,7 +39281,7 @@ sort: by_weight
 韴	za;yb
 魳	za;yb
 𠛱	za;;
-𠯗	za;kz
+𠯗	za;kb
 𠱥	za;kh
 𠶿	za;kn
 𠷿	za;kz
@@ -42062,6 +42066,7 @@ sort: by_weight
 诼	vo;yd
 謶	vo;yu
 趠	vo;zv
+躅	vo;zi
 酌	vo;yu
 鋜	vo;jz
 䦃	vo;jv
@@ -42238,7 +42243,7 @@ sort: by_weight
 𫚤	zi;yz
 鶅	zi;nt
 鼒	zi;cd
-齍	zi;dm
+齍	zi;qm
 齐	zi;wa
 龇	zi;ic
 𠀢	zi;ac

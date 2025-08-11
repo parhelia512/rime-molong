@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-07-01"
+version: "2025-08-01"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -6472,6 +6472,7 @@ sort: by_weight
 鯟	ds;yd
 鸫	ds;dn
 鶫	ds;jn
+鿴	ds;;
 𠄉	ds;vv
 𢔅	ds;rd
 𢛔	ds;xd
@@ -11647,6 +11648,7 @@ sort: by_weight
 𩵏	hx;yb
 𫚝	hx;;
 𪗽	hx;vu
+𫰡	hx;;
 㜳	hk;nx
 㠢	hk;uy
 䃶	hk;ux
@@ -19949,6 +19951,7 @@ sort: by_weight
 𩷶	mh;yw
 𪁪	mh;ln
 𪚢	mh;lf
+𱇮	mh;;
 㒵	mc;bb
 㒻	mc;oj
 㚹	mc;ne
@@ -29418,6 +29421,7 @@ sort: by_weight
 𪍔	so;lg
 𪍟	so;lx
 𪍨	so;lg
+𱇳	so;;
 𠉂	ta;;
 㗳	ta;kk
 㛥	ta;no
@@ -42062,6 +42066,7 @@ sort: by_weight
 诼	vo;yu
 謶	vo;yh
 趠	vo;tu
+躅	vo;zi
 酌	vo;yu
 鋜	vo;jz
 䦃	vo;jo

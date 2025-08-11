@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-07-01"
+version: "2025-08-01"
 sort: by_weight
 ...
 ### 按需启用
@@ -130,7 +130,7 @@ sort: by_weight
 按	an;fa	3826950
 安	an;bn	980103
 暗	an;oy	891081
-案	an;bm	361285
+案	an;ma	361285
 岸	an;ug	129872
 俺	an;rd	64855
 黯	an;hy	42786
@@ -504,7 +504,7 @@ sort: by_weight
 病	by;bb	505956
 柄	by;mb	76845
 饼	by;ub	40371
-禀	by;du	34572
+禀	by;wu	34572
 秉	by;ha	19831
 丙	by;an	11170
 炳	by;hb	9133
@@ -891,7 +891,7 @@ sort: by_weight
 瓻	ii;wx	1
 痓	ii;bv	0
 冲	is;dv	862983
-充	is;dy	409223
+充	is;wy	409223
 重	is;pa	114049
 虫	is;ad	110359
 崇	is;uz	107803
@@ -2541,7 +2541,7 @@ sort: by_weight
 慧	hv;xh	171937
 辉	hv;gj	165245
 恢	hv;xh	164984
-毁	hv;jy	150469
+毁	hv;ug	150469
 悔	hv;xm	146037
 惠	hv;xh	105489
 汇	hv;dk	101717
@@ -2629,7 +2629,7 @@ sort: by_weight
 机	ji;mj	1672100
 记	ji;yj	1094800
 季	ji;hz	1028550
-击	ji;eu	1010628
+击	ji;fk	1010628
 急	ji;xi	1009907
 鸡	ji;ny	1004249
 挤	ji;fq	1003500
@@ -3163,7 +3163,7 @@ sort: by_weight
 掬	ju;fj	6329
 遽	ju;zj	3222
 倨	ju;rj	2628
-雎	ju;qv	2014
+雎	ju;vq	2014
 钜	ju;jj	1496
 踽	ju;zy	1379
 裾	ju;yj	1369
@@ -4393,7 +4393,7 @@ sort: by_weight
 茉	mo;cm	16199
 嬷	mo;nm	9757
 蘑	mo;cm	7944
-摹	mo;cu	4677
+摹	mo;um	4677
 馍	mo;um	4217
 谟	mo;ym	3201
 嫫	mo;nm	2089
@@ -5080,9 +5080,9 @@ sort: by_weight
 杄	qm;mq	20
 鹐	qm;nj	10
 岍	qm;uk	8
+伣	qm;rj	1
 圲	qm;tq	1
 犍	qm;nj	1
-伣	qm;rj	0
 墘	qm;tq	0
 磏	qm;uj	0
 𬘬	qm;sq	0
@@ -5750,7 +5750,7 @@ sort: by_weight
 贳	ui;bu	24
 铈	ui;ju	9
 𫚕	ui;yu	6
-䴓	ui;nz	5
+䴓	ui;nb	5
 鲺	ui;yi	4
 鼫	ui;uu	3
 邿	ui;es	2
@@ -6835,12 +6835,12 @@ sort: by_weight
 缐	xm;sq	14
 孅	xm;ng	6
 伭	xm;rx	2
+𬸣	xm;bn	2
 禒	xm;ut	1
+𪾢	xm;oj	1
+𫍯	xm;yx	1
+𬀪	xm;oj	1
 㬎	xm;oh	0
-𪾢	xm;oj	0
-𫍯	xm;yx	0
-𬀪	xm;oj	0
-𬸣	xm;bn	0
 想	xd;xx	6140550
 向	xd;pk	2570964
 相	xd;mo	2037658
@@ -7243,7 +7243,7 @@ sort: by_weight
 宴	yj;bn	69541
 嫣	yj;ny	53722
 妍	yj;nk	45256
-彦	yj;dp	44325
+彦	yj;ip	44325
 雁	yj;iv	43201
 阎	yj;mj	39776
 盐	yj;mb	37729
@@ -7564,7 +7564,7 @@ sort: by_weight
 洇	yn;dy	888
 龈	yn;ig	875
 鄞	yn;ej	673
-夤	yn;xb	596
+夤	yn;xy	596
 窨	yn;xy	396
 霪	yn;yy	349
 狺	yn;qy	229
@@ -7631,7 +7631,8 @@ sort: by_weight
 蓥	yy;cj	35
 溁	yy;dr	11
 媖	yy;ny	3
-䓨	yy;fb	0
+䓨	yy;fb	1
+景	yy;oj	1
 用	ys;kf	3170468
 永	ys;dd	399313
 拥	ys;fy	294913
@@ -7654,7 +7655,7 @@ sort: by_weight
 镛	ys;jy	701
 颙	ys;yy	632
 痈	ys;by	373
-壅	ys;dt	367
+壅	ys;ty	367
 饔	ys;uv	67
 鳙	ys;yy	26
 澭	ys;dv	24

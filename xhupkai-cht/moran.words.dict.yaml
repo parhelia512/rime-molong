@@ -956,7 +956,7 @@ columns:
 全情投入	1
 全無是處	1
 全盤西化	1
-全碼	10000
+全碼	50
 全票通過	1
 全色片	1
 全讓	1
@@ -2309,7 +2309,7 @@ columns:
 尿墊	1
 尿褲子	1
 局外之人	1
-局麻	1
+局麻	50
 屁事沒有	1
 屁大點事	1
 屁民	1
@@ -9074,6 +9074,73 @@ columns:
 函子	100
 老燈	10
 老登	11
+萌妹子	1000
+直謂	10
+非直謂	10
+司美格魯肽	10
+千焦	500
+河魨	100
+刺魨	100
+磨磨唧唧	100
+智譜	200
+智譜清言	10
+清言	10
+進廠之道	1
+救贖之道	1
+就在其中	1
+雷靂	100
+雷靂口	100
+協變	10
+逆變	10
+共變	10
+反變	10
+喌音	10
+瘋批	10
+低清	50
+地偶	10
+地下偶像	10
+奪旗賽	100
+奪旗	345
+三趾鷸	10
+濱鷸	10
+牛鷸	10
+牛眼鷸	10
+紅背鷸	10
+紅尾	1
+水鴝	10
+芳綸	100
+擼鐵	100
+防呆	100
+防呆設計	100
+男凝	100
+男性凝視	100
+單測	10
+零零後	10
+一零後	10
+二零後	10
+三零後	10
+四零後	10
+五零後	10
+六零後	10
+七零後	10
+八零後	10
+九零後	10
+冰可樂	10
+冰咖啡	10
+冰雪碧	10
+冰果粒橙	10
+冰芬達	10
+冰濃縮	10
+萌音	10
+萌聲	10
+萌聲線	10
+達美樂	100
+廢案	1000
+完犢子	100
+十三香	10
+專注達	10
+㖆㖆	10
+控分	100
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -10165,20 +10232,27 @@ MIDI鍵盤	1	midi jm;jj pj;mb
 總譜
 
 # 中西混合詞
+哆啦A夢	100	do;kd la;kl A mg;cx
 哆啦A夢	100	do;kd la;kl aa mg;cx
 哆啦A夢	100	do;kd la;kl ei mg;cx
-卡拉OK	100	ka;bx la;fl ok
+U盤	100	U pj;mb
 U盤	100	yb pj;mb
+T恤	100	T xu;xx
 T恤	100	ti xu;xx
 up主	100	up vu;dw
+QQ羣	100	QQ qp;yj
 QQ羣	100	qq qp;yj
 高ping	100	gk;wk ping
 高ping	100	gk;dk ping
 高ping	100	gk;wk py
 高ping	100	gk;dk py
 打call	10	da;fd kk
+K歌	10	K ge;qg
 K歌	10	kz ge;qg
+卡拉OK	10	ka;ux la;fl OK
+卡拉OK	100	ka;bx la;fl ok
 卡拉OK	10	ka;ux la;fl ou kz
+OK	10	OK
 OK	10	ou kz
 
 # 整句可用的無理碼
@@ -10186,3 +10260,34 @@ OK	10	ou kz
 幾何	1	jo;yd he;rk
 幾十	1	jo;yd ui;aa
 十幾	1	ui;aa jo;yd
+未	1	we;ex
+並未	3193	by;qy we;ex
+從未	3193	cs;xv we;ex
+還未	2327	hl;zh we;ex
+均未	858	jp;ty we;ex
+仍未	1359	rg;rn we;ex
+雖未	737	sv;vs we;ex
+尚未	4460	uh;xk we;ex
+未按	788	we;ex an;fa
+未必	3584	we;ex bi;dd
+未便	407	we;ex bm;rg
+未曾	1409	we;ex cg;ob
+未定	960	we;ex dy;bp
+未付	508	we;ex fu;rc
+未婚	1452	we;ex hp;nh
+未嘗	876	we;ex ih;xv
+未見	1372	we;ex jm;oe
+未接	610	we;ex jx;fq
+未經	3160	we;ex jy;sg
+未可	544	we;ex ke;dk
+未開	1	we;ex kl;mk
+未了	674	we;ex lc;aa
+未來	16677	we;ex ll;ad
+未滿	877	we;ex mj;dr
+未免	1227	we;ex mm;de
+未能	3272	we;ex ng;sb
+未遂	892	we;ex sv;zu
+未知	2309	we;ex vi;uk
+未向	1	we;ex xd;pk
+未詳	479	we;ex xd;yy
+暫未	969	zj;ov we;ex
