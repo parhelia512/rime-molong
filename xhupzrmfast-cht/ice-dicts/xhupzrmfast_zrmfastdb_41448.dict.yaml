@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-08-01"
+version: "2025-08-10"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -2044,6 +2044,7 @@ sort: by_weight
 般	bo;vj
 舶	bo;vb
 艊	bo;;
+艴	bo;fd
 苩	bo;;
 菠	bo;cd
 萡	bo;;

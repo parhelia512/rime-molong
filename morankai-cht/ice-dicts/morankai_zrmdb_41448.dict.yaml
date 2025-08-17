@@ -14,7 +14,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-08-01"
+version: "2025-08-10"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -525,7 +525,7 @@ sort: by_weight
 𢇷	ba;gb
 𢠭	ba;xj
 𢺞	ba;fb
-𢻷	ba;wb
+𢻷	ba;pb
 𣬶	ba;mb
 𣬷	ba;bm
 𤜕	ba;tx
@@ -867,7 +867,7 @@ sort: by_weight
 𡉩	bk;tq
 𡧖	bk;bb
 𡶄	bk;ub
-𢼌	bk;wb
+𢼌	bk;pb
 𣋳	bk;ob
 𣭀	bk;mb
 𤔣	bk;vs
@@ -992,7 +992,7 @@ sort: by_weight
 𢂏	bz;uu
 𢃍	bz;jb
 𢴾	bz;fb
-𢻵	bz;wu
+𢻵	bz;pu
 𣎵	bz;ir
 𣖾	bz;my
 𣝁	bz;mb
@@ -1595,7 +1595,7 @@ sort: by_weight
 𢬵	bm;fq
 𢭥	bm;uj
 𢴂	bm;fb
-𢻶	bm;wj
+𢻶	bm;pj
 𣈠	bm;og
 𣝜	bm;xb
 𣩀	bm;db
@@ -1693,7 +1693,7 @@ sort: by_weight
 𠬪	bc;yv
 𢅚	bc;jp
 𢒯	bc;pk
-𢿏	bc;wp
+𢿏	bc;pp
 𣄠	bc;fb
 𤂆	bc;fh
 𤆀	bc;db
@@ -2044,6 +2044,7 @@ sort: by_weight
 般	bo;vu
 舶	bo;vb
 艊	bo;vb
+艴	bo;fs
 苩	bo;cb
 菠	bo;cb
 萡	bo;cb
@@ -2247,7 +2248,7 @@ sort: by_weight
 𡡐	bu;np
 𢁻	bu;jb
 𢇴	bu;gb
-𢼹	bu;wf
+𢼹	bu;pf
 𣱶	bu;db
 𤚵	bu;nk
 𤣰	bu;wt
@@ -2414,7 +2415,7 @@ sort: by_weight
 𡡖	cj;nc
 𢦸	cj;gl
 𢧮	cj;gj
-𢾃	cj;wt
+𢾃	cj;pk
 𣦼	cj;dy
 𣶡	cj;dd
 𣻬	cj;dm
@@ -2556,7 +2557,7 @@ sort: by_weight
 蓛	ce;cw
 𡍫	ce;tz
 𢷾	ce;fq
-𢿸	ce;cw
+𢿸	ce;pc
 𣌧	ce;co
 𥠉	ce;hz
 𥬰	ce;ve
@@ -2939,7 +2940,7 @@ sort: by_weight
 𢱟	ij;fi
 𢷹	ij;fi
 𢺟	ij;fi
-𢽝	ij;wv
+𢽝	ij;pv
 𣃘	ij;fg
 𣔵	ij;mi
 𣔻	ij;mt
@@ -3516,10 +3517,10 @@ sort: by_weight
 𢜼	ig;xi
 𢟊	ig;xi
 𢻓	ig;vx
-𢾊	ig;wt
-𢿦	ig;wi
-𢿧	ig;wt
-𣀏	ig;wi
+𢾊	ig;pt
+𢿦	ig;pi
+𢿧	ig;pt
+𣀏	ig;pg
 𣥺	ig;vk
 𣥻	ig;vl
 𤆁	ig;qq
@@ -4027,7 +4028,7 @@ sort: by_weight
 𡕪	ib;jw
 𢣊	ib;xo
 𢭆	ib;fx
-𣀓	ib;wu
+𣀓	ib;pu
 𣕾	ib;lb
 𣪐	ib;ju
 𣫐	ib;uu
@@ -4296,7 +4297,7 @@ sort: by_weight
 𠛖	ir;ad
 𠯀	ir;ki
 𠾮	ir;ku
-𣀔	ir;ws
+𣀔	ir;ps
 𣛹	ir;mi
 𣧒	ir;dk
 𤜼	ir;qy
@@ -4478,7 +4479,7 @@ sort: by_weight
 𠸸	ip;kv
 𡉐	ip;tg
 𡗥	ip;dt
-𢾎	ip;wi
+𢾎	ip;pi
 𣌚	ip;dj
 𣌠	ip;ii
 𣘣	ip;mi
@@ -4538,9 +4539,9 @@ sort: by_weight
 齪	io;iz
 𠽶	io;kc
 𡁇	io;ki
-𢽸	io;wb
+𢽸	io;wy
 𢿭	io;hv
-𣀔	io;ws
+𣀔	io;ps
 𣤌	io;qv
 𣬋	io;bs
 𤿫	io;pd
@@ -5216,7 +5217,7 @@ sort: by_weight
 𢘇	da;xd
 𢛁	da;xv
 𢝉	da;xd
-𢽇	da;wk
+𢽇	da;wd
 𣌭	da;ho
 𣣴	da;qs
 𣥾	da;vt
@@ -5470,7 +5471,7 @@ sort: by_weight
 𢎪	dj;gj
 𢑝	dj;xb
 𢘇	dj;xd
-𢻼	dj;wy
+𢻼	dj;pg
 𣅟	dj;oy
 𣋊	dj;od
 𣛱	dj;md
@@ -5660,7 +5661,7 @@ sort: by_weight
 𠐵	dk;rd
 𠴼	dk;kd
 𡄒	dk;kl
-𣀓	dk;wu
+𣀓	dk;pu
 𣁍	dk;vw
 𣫜	dk;kv
 𣱼	dk;dd
@@ -5753,7 +5754,7 @@ sort: by_weight
 隥	dg;ed
 𡦔	dg;dy
 𢯭	dg;fd
-𢿤	dg;wd
+𢿤	dg;pd
 𣩟	dg;dd
 𤮘	dg;wd
 𤺌	dg;bd
@@ -6729,8 +6730,8 @@ sort: by_weight
 𢉜	du;gv
 𢝂	du;xd
 𢷺	du;fm
-𢽚	du;wi
-𢾀	du;wv
+𢽚	du;pd
+𢾀	du;pv
 𢾅	du;wd
 𣧃	du;dv
 𣨲	du;dd
@@ -7099,8 +7100,8 @@ sort: by_weight
 𡺇	do;ud
 𢜬	do;xd
 𢳽	do;fu
-𢼠	do;wb
-𢿎	do;wg
+𢼠	do;wg
+𢿎	do;pg
 𣑧	do;tm
 𣧷	do;dd
 𣵺	do;dt
@@ -7305,7 +7306,7 @@ sort: by_weight
 𢃲	ee;jg
 𢨡	ee;gh
 𢼚	ee;hw
-𢼛	ee;wg
+𢼛	ee;pg
 𣄰	ee;wk
 𣘨	ee;me
 𣢛	ee;qy
@@ -8499,7 +8500,7 @@ sort: by_weight
 𢰆	fu;ff
 𢻀	fu;ve
 𢻮	fu;wj
-𣀣	fu;wb
+𣀣	fu;pj
 𣀾	fu;hp
 𣄎	fu;ff
 𣆵	fu;oj
@@ -9089,7 +9090,7 @@ sort: by_weight
 𢧧	ge;uj
 𢩓	ge;hx
 𢯹	ge;fg
-𢼛	ge;wg
+𢼛	ge;pg
 𣭝	ge;mh
 𤇞	ge;hj
 𤕒	ge;fk
@@ -10172,7 +10173,7 @@ sort: by_weight
 𢧰	go;gy
 𢸗	go;fg
 𢹖	go;fg
-𢼛	go;wg
+𢼛	go;pg
 𣁯	go;dy
 𣂄	go;dg
 𣽅	go;dg
@@ -11125,7 +11126,7 @@ sort: by_weight
 𢝻	hs;xg
 𢦅	hs;xg
 𢬀	hs;fk
-𢼦	hs;wg
+𢼦	hs;pg
 𣽝	hs;jf
 𤂲	hs;dh
 𤃫	hs;dh
@@ -11484,7 +11485,7 @@ sort: by_weight
 𢨥	hu;ha
 𢨦	hu;hu
 𢪏	hu;fo
-𢽨	hu;wh
+𢽨	hu;ph
 𣄟	hu;fy
 𣎚	hu;oh
 𣑂	hu;mk
@@ -11676,7 +11677,7 @@ sort: by_weight
 𡺛	hw;ub
 𢄶	hw;jh
 𢦚	hw;gj
-𢼤	hw;wu
+𢼤	hw;pu
 𤁪	hw;dk
 𤙕	hw;ni
 𤼒	hw;bs
@@ -13984,7 +13985,7 @@ sort: by_weight
 𢶡	jc;ju
 𢺽	jc;xv
 𢻟	jc;bv
-𢼫	jc;ww
+𢼫	jc;wi
 𣁹	jc;dy
 𣏑	jc;mj
 𣝞	jc;ui
@@ -14506,7 +14507,7 @@ sort: by_weight
 𢬬	jn;ij
 𢬶	jn;fj
 𢱷	jn;fj
-𢽖	jn;jw
+𢽖	jn;py
 𣓏	jn;ml
 𣝌	jn;mj
 𤄼	jn;dh
@@ -15666,7 +15667,7 @@ sort: by_weight
 𠣕	jp;gv
 𠨢	jp;wj
 𢉦	jp;gj
-𢻸	jp;wy
+𢻸	jp;py
 𤮪	jp;wc
 𥇘	jp;oj
 𥚂	jp;uj
@@ -15744,7 +15745,7 @@ sort: by_weight
 𢋝	kl;gm
 𢔡	kl;xj
 𢢚	kl;xx
-𢾆	kl;wj
+𢾆	kl;pj
 𤉫	kl;ht
 𤐩	kl;hg
 𤡲	kl;qk
@@ -16039,7 +16040,7 @@ sort: by_weight
 𢩐	ke;hu
 𢩘	ke;hg
 𢼐	ke;pf
-𢾩	ke;wg
+𢾩	ke;ph
 𣧤	ke;dk
 𣩄	ke;dg
 𣩱	ke;dg
@@ -16169,7 +16170,7 @@ sort: by_weight
 𢃐	ks;jk
 𢪬	ks;fk
 𢷙	ks;fk
-𢽦	ks;wk
+𢽦	ks;pk
 𣏺	ks;mk
 𤗇	ks;pk
 𤤲	ks;hj
@@ -16292,7 +16293,7 @@ sort: by_weight
 𡶏	ku;ui
 𡼿	ku;uk
 𢏆	ku;gg
-𢼁	ku;wu
+𢼁	ku;wy
 𣗺	ku;xg
 𥈷	ku;uo
 𥌄	ku;bo
@@ -16491,7 +16492,7 @@ sort: by_weight
 𡶢	kd;ux
 𡾇	kd;ug
 𢼑	kd;wj
-𢼳	kd;kw
+𢼳	kd;wk
 𣍦	kd;ox
 𣒸	kd;mw
 𣴥	kd;dk
@@ -16627,7 +16628,7 @@ sort: by_weight
 𡯵	kv;ww
 𢌳	kv;cd
 𢜽	kv;xg
-𢼀	kv;wr
+𢼀	kv;pr
 𣄲	kv;ww
 𣥮	kv;vg
 𣧼	kv;dw
@@ -17138,7 +17139,7 @@ sort: by_weight
 𠺘	lh;kl
 𠻴	lh;kl
 𢳑	lh;fl
-𢽂	lh;wl
+𢽂	lh;pl
 𣊧	lh;mm
 𣻡	lh;dl
 𥇑	lh;ol
@@ -17394,8 +17395,8 @@ sort: by_weight
 𡿛	lz;um
 𢴱	lz;fl
 𢹮	lz;fl
-𣀀	lz;wl
-𣀜	lz;wl
+𣀀	lz;pl
+𣀜	lz;pl
 𣚎	lz;ml
 𣠠	lz;ml
 𣡧	lz;ml
@@ -17816,9 +17817,9 @@ sort: by_weight
 𢮃	li;ul
 𢸀	li;fl
 𢻠	li;vg
-𣀂	li;wl
-𣀥	li;wl
-𣀷	li;wl
+𣀂	li;pl
+𣀥	li;pl
+𣀷	li;pl
 𣁟	li;wi
 𣌅	li;ml
 𣌜	li;xl
@@ -18117,7 +18118,7 @@ sort: by_weight
 𡟤	lm;no
 𢅏	lm;jl
 𢉧	lm;gm
-𣀃	lm;wl
+𣀃	lm;pl
 𣝈	lm;mj
 𣞰	lm;js
 𣟺	lm;ml
@@ -18322,7 +18323,7 @@ sort: by_weight
 𢸘	lc;fl
 𢻢	lc;lv
 𢼙	lc;xw
-𢿞	lc;wl
+𢿞	lc;pl
 𣁰	lc;dj
 𣎸	lc;ml
 𣟆	lc;ml
@@ -19330,7 +19331,7 @@ sort: by_weight
 𢯅	lu;fl
 𢲸	lu;fl
 𢵮	lu;fy
-𢻵	lu;wu
+𢻵	lu;pu
 𢾬	lu;ph
 𣞓	lu;ml
 𣥐	lu;vc
@@ -19443,7 +19444,7 @@ sort: by_weight
 𡰠	lr;wl
 𢌕	lr;gg
 𢺈	lr;fl
-𢿢	lr;wl
+𢿢	lr;py
 𣨀	lr;bs
 𤔔	lr;vy
 𤲶	lr;nn
@@ -19717,7 +19718,7 @@ sort: by_weight
 𢟳	lv;xl
 𢣻	lv;xl
 𢯰	lv;fl
-𣀞	lv;wl
+𣀞	lv;pl
 𣥐	lv;vc
 𣭇	lv;mm
 𤁵	lv;dl
@@ -19953,7 +19954,7 @@ sort: by_weight
 𡢚	mj;nm
 𡻩	mj;um
 𢦈	mj;xm
-𢿜	mj;mw
+𢿜	mj;wm
 𣁜	mj;mw
 𤅎	mj;dm
 𤜘	mj;nm
@@ -20163,7 +20164,7 @@ sort: by_weight
 𢝌	mk;xm
 𢨯	mk;hh
 𢯾	mk;fm
-𢽢	mk;wm
+𢽢	mk;po
 𣊃	mk;ow
 𣔺	mk;mm
 𣨇	mk;dy
@@ -21025,7 +21026,7 @@ sort: by_weight
 鴖	mn;nm
 黽	mn;kg
 𢼖	mn;pe
-𢽹	mn;hw
+𢽹	mn;wh
 𣱈	mn;mb
 𣱉	mn;ym
 𣹒	mn;dt
@@ -22562,7 +22563,7 @@ sort: by_weight
 𡿊	no;un
 𢜪	no;xr
 𢰜	no;fp
-𢾲	no;wr
+𢾲	no;pr
 𣃽	no;fd
 𣆚	no;od
 𤘟	no;nr
@@ -22962,7 +22963,7 @@ sort: by_weight
 𡯈	pk;wr
 𡾌	pk;ub
 𢾳	pk;wc
-𢿏	pk;wp
+𢿏	pk;pp
 𣕅	pk;mb
 𣚇	pk;mb
 𣟏	pk;mk
@@ -23179,8 +23180,8 @@ sort: by_weight
 𡼜	pg;up
 𢏳	pg;gb
 𢪋	pg;ff
-𢼩	pg;wb
-𢽩	pg;wp
+𢼩	pg;pb
+𢽩	pg;pp
 𣟀	pg;mp
 𣨞	pg;df
 𤖳	pg;pp
@@ -23391,8 +23392,8 @@ sort: by_weight
 𢰘	pi;fc
 𢱧	pi;fp
 𢻹	pi;wb
-𢾇	pi;wf
-𢾱	pi;wp
+𢾇	pi;pt
+𢾱	pi;pb
 𣓋	pi;mb
 𣔬	pi;mc
 𣖰	pi;mp
@@ -23964,7 +23965,7 @@ sort: by_weight
 𡜵	pu;nf
 𡰿	pu;uw
 𢈲	pu;gh
-𢼹	pu;wf
+𢼹	pu;pf
 𣋏	pu;on
 𤆝	pu;hw
 𤗵	pu;pp
@@ -24352,8 +24353,8 @@ sort: by_weight
 𢻋	qi;vl
 𢻚	qi;vs
 𢻪	qi;vq
-𢾦	qi;wi
-𢾪	qi;ws
+𢾦	qi;pi
+𢾪	qi;ps
 𣉓	qi;ot
 𣏶	qi;mu
 𣔘	qi;gm
@@ -24523,7 +24524,7 @@ sort: by_weight
 𡘧	qw;db
 𡤫	qw;nk
 𢮌	qw;fj
-𢼣	qw;wj
+𢼣	qw;pj
 𣁴	qw;dh
 𣘟	qw;mj
 𣣟	qw;qk
@@ -25035,7 +25036,7 @@ sort: by_weight
 𢮉	qc;fv
 𢶡	qc;ju
 𢻤	qc;vq
-𢿣	qc;wy
+𢿣	qc;py
 𣂁	qc;dt
 𣂇	qc;df
 𣂥	qc;jv
@@ -25821,7 +25822,7 @@ sort: by_weight
 𢎖	qu;yq
 𢦌	qu;ga
 𢴮	qu;fx
-𢼰	qu;wq
+𢼰	qu;pq
 𣖪	qu;mm
 𣭳	qu;mq
 𣮈	qu;mq
@@ -26135,7 +26136,7 @@ sort: by_weight
 麇	qp;lh
 𡈀	qp;ky
 𢛕	qp;xj
-𣀄	qp;wj
+𣀄	qp;pg
 𤛭	qp;yy
 𤸷	qp;bj
 𦃢	qp;ij
@@ -26864,7 +26865,7 @@ sort: by_weight
 𢕬	sa;xs
 𢶍	sa;fz
 𢻨	sa;zv
-𣀯	sa;wm
+𣀯	sa;pe
 𣘤	sa;mj
 𣜂	sa;mz
 𣬬	sa;mj
@@ -26949,8 +26950,8 @@ sort: by_weight
 𡙘	sj;dc
 𢁘	sj;jp
 𢕕	sj;xc
-𣀧	sj;wl
-𣀫	sj;gw
+𣀧	sj;pv
+𣀫	sj;pg
 𣬛	sj;ge
 𣮠	sj;cm
 𥊀	sj;oc
@@ -27407,7 +27408,7 @@ sort: by_weight
 𢕻	uj;xv
 𢩢	uj;hi
 𢫔	uj;fx
-𢿈	uj;wc
+𢿈	uj;pc
 𣆴	uj;oy
 𣓒	uj;mu
 𣖉	uj;ms
@@ -27558,8 +27559,8 @@ sort: by_weight
 𠷃	uk;ks
 𡡏	uk;nu
 𢦽	uk;wv
-𢼼	uk;wx
-𢾐	uk;ws
+𢼼	uk;px
+𢾐	uk;py
 𤉎	uk;hu
 𤱠	uk;tv
 𥙬	uk;ux
@@ -28221,7 +28222,7 @@ sort: by_weight
 𢨝	ui;gc
 𢺿	ui;vu
 𢻘	ui;vg
-𢻫	ui;wy
+𢻫	ui;py
 𢼉	ui;wt
 𢼊	ui;wt
 𣁒	ui;wr
@@ -28531,7 +28532,7 @@ sort: by_weight
 𢞣	uu;xu
 𢠫	uu;xu
 𢧇	uu;gw
-𣀻	uu;wu
+𣀻	uu;pu
 𣉛	uu;oj
 𣏗	uu;my
 𣤯	uu;qm
@@ -28768,7 +28769,7 @@ sort: by_weight
 鑠	uo;jl
 𠲾	uo;kx
 𠲿	uo;ku
-𣀝	uo;wl
+𣀝	uo;pl
 𣝇	uo;mm
 𣷥	uo;do
 𣸛	uo;dx
@@ -30053,7 +30054,7 @@ sort: by_weight
 𡿓	th;ud
 𢠵	th;xi
 𢴳	th;ut
-𢻿	th;wo
+𢻿	th;op
 𣎲	th;od
 𣙟	th;mi
 𤚫	th;nt
@@ -30744,7 +30745,7 @@ sort: by_weight
 𡈼	ty;pt
 𡔛	ty;ud
 𢬫	ty;id
-𢽄	ty;wt
+𢽄	ty;pt
 𣂴	ty;jt
 𣄿	ty;od
 𣉡	ty;ht
@@ -31781,7 +31782,7 @@ sort: by_weight
 𢁶	wh;jy
 𢓯	wh;xk
 𢛛	wh;xw
-𢼟	wh;wf
+𢼟	wh;pw
 𣢫	wh;qf
 𣥊	wh;vw
 𣶈	wh;dw
@@ -32076,7 +32077,7 @@ sort: by_weight
 𢲴	wz;uw
 𢸦	wz;fy
 𢼸	wz;uw
-𢾁	wz;ww
+𢾁	wz;pw
 𣄧	wz;fy
 𣄺	wz;ww
 𣈎	wz;ou
@@ -32270,7 +32271,7 @@ sort: by_weight
 𠐢	wf;rw
 𠯳	wf;wk
 𡁋	wf;ky
-𢾿	wf;gw
+𢾿	wf;pg
 𣜺	wf;mb
 𣶌	wf;iw
 𤛁	wf;nw
@@ -35362,7 +35363,7 @@ sort: by_weight
 鷽	xt;jn
 𢪎	xt;fh
 𢯳	xt;fl
-𢼺	xt;wv
+𢼺	xt;pv
 𣎛	xt;oj
 𣧌	xt;dg
 𣧡	xt;dy
@@ -36023,7 +36024,7 @@ sort: by_weight
 𢤍	yj;gx
 𢯼	yj;fy
 𢸴	yj;fy
-𢾑	yj;wy
+𢾑	yj;py
 𣃧	yj;fo
 𣃳	yj;fn
 𣃾	yj;fy
@@ -36268,7 +36269,7 @@ sort: by_weight
 𢏙	yh;gy
 𢟣	yh;xy
 𢵇	yh;fy
-𢽕	yh;wj
+𢽕	yh;jp
 𣃝	yh;fy
 𣉚	yh;oz
 𣐫	yh;ml
@@ -38332,7 +38333,7 @@ sort: by_weight
 𢖟	yb;xy
 𢟅	yb;xx
 𢪥	yb;uw
-𢿚	yb;wx
+𢿚	yb;pu
 𣁨	yb;yw
 𣅄	yb;oz
 𣅺	yb;oy
@@ -39287,7 +39288,7 @@ sort: by_weight
 𢁞	yt;jp
 𢦰	yt;gv
 𢯵	yt;fg
-𢾔	yt;xg
+𢾔	yt;og
 𣌗	yt;oj
 𣎱	yt;ou
 𣐋	yt;my
@@ -39514,7 +39515,7 @@ sort: by_weight
 𡁕	za;ku
 𢶍	za;fz
 𢹼	za;fz
-𢽜	za;wn
+𢽜	za;pn
 𣗁	za;uv
 𣤶	za;qc
 𣤷	za;qu
@@ -40269,7 +40270,7 @@ sort: by_weight
 𢤚	vj;xg
 𢧗	vj;vj
 𢵈	vj;fu
-𣀁	vj;wv
+𣀁	vj;pv
 𣛷	vj;mv
 𣢤	vj;qv
 𣮿	vj;mm
@@ -40921,7 +40922,7 @@ sort: by_weight
 𢓞	vg;xi
 𢮐	vg;fu
 𢹑	vg;fv
-𢾧	vg;wv
+𢾧	vg;pv
 𤪡	vg;yj
 𤸲	vg;bv
 𤿆	vg;pd
@@ -41340,9 +41341,9 @@ sort: by_weight
 𢴨	vi;fi
 𢷸	vi;fv
 𢻙	vi;vx
-𢽃	vi;wu
+𢽃	vi;pw
 𢽗	vi;wu
-𢾫	vi;wi
+𢾫	vi;pi
 𣔐	vi;mb
 𣖌	vi;mv
 𣖭	vi;mt
@@ -41705,8 +41706,8 @@ sort: by_weight
 𢓟	vb;xv
 𢫧	vb;fv
 𢷗	vb;fj
-𢼲	vb;wv
-𢽧	vb;wv
+𢼲	vb;pv
+𢽧	vb;pv
 𣆔	vb;ov
 𣥯	vb;vy
 𣻱	vb;dv
@@ -41944,7 +41945,7 @@ sort: by_weight
 𢥃	vu;xv
 𢩄	vu;hv
 𢲿	vu;uv
-𣀻	vu;wu
+𣀻	vu;pu
 𣔯	vu;my
 𣤁	vu;qy
 𣥼	vu;vl
@@ -42333,7 +42334,7 @@ sort: by_weight
 𢧈	vo;gi
 𢳇	vo;fz
 𢺡	vo;fu
-𢽚	vo;wi
+𢽚	vo;pd
 𣃈	vo;jv
 𣃑	vo;jv
 𣄻	vo;oy
@@ -42649,7 +42650,7 @@ sort: by_weight
 𠵻	zs;kz
 𡕰	zs;kw
 𡞧	zs;nz
-𣀒	zs;wj
+𣀒	zs;pj
 𣯨	zs;mc
 𤡆	zs;qc
 𥍺	zs;mz
@@ -42825,7 +42826,7 @@ sort: by_weight
 鑚	zr;jz
 鑽	zr;jz
 𡉺	zr;tu
-𣀶	zr;wz
+𣀶	zr;pz
 𣪁	zr;dz
 𦆈	zr;sj
 𦙉	zr;oj

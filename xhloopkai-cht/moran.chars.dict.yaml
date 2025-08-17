@@ -48873,34 +48873,29 @@ use_preset_vocabulary: false
 𢻨	sl;tv	0
 𢻨	sl;vj	0
 𢻪	qi;vq	0
-𢻫	ui;wy	0
+𢻫	ui;py	0
 𢻮	jq;wj	0
 𢻮	fi;wj	0
-𢻵	bq;wu	0
+𢻵	bq;pu	0
 𢻵	bq;up	0
 𢻵	bq;pk	0
-𢻵	ly;wu	0
+𢻵	ly;pu	0
 𢻵	ly;up	0
 𢻵	ly;pk	0
-𢻶	bm;wj	0
-𢻶	bm;jp	0
 𢻶	bm;pj	0
-𢻷	ba;wb	0
+𢻶	bm;jp	0
 𢻷	ba;pb	0
 𢻷	ba;bp	0
-𢻸	jy;wy	0
-𢻸	jy;yp	0
 𢻸	jy;py	0
+𢻸	jy;yp	0
 𢻹	pi;wb	0
 𢻹	pi;bw	0
-𢻼	dl;wy	0
-𢻼	dl;pb	0
-𢻿	tj;wo	0
+𢻼	dl;pg	0
+𢻿	tj;op	0
 𢻿	tj;po	0
-𢼀	kn;wr	0
-𢼀	kn;rp	0
 𢼀	kn;pr	0
-𢼁	ku;wu	0
+𢼀	kn;rp	0
+𢼁	ku;wy	0
 𢼃	kc;wg	0
 𢼉	ui;wt	0
 𢼊	ui;wt	0
@@ -48908,7 +48903,6 @@ use_preset_vocabulary: false
 𢼊	tp;wt	0
 𢼊	tp;tw	0
 𢼋	ji;uw	0
-𢼌	bx;wb	0
 𢼌	bx;pb	0
 𢼌	bx;bp	0
 𢼐	kt;pf	0
@@ -48918,244 +48912,210 @@ use_preset_vocabulary: false
 𢼖	mm;up	0
 𢼙	lm;xw	0
 𢼚	ew;hw	0
-𢼛	gr;wg	0
-𢼛	gp;wg	0
-𢼛	ew;wg	0
-𢼟	wk;wf	0
-𢼟	wk;wk	0
+𢼛	gr;pg	0
+𢼛	gp;pg	0
+𢼛	ew;pg	0
 𢼟	wk;pw	0
 𢼟	wk;cp	0
-𢼠	dp;wb	0
-𢼣	qz;wj	0
-𢼣	qz;jp	0
+𢼠	dp;wg	0
+𢼠	dp;we	0
 𢼣	qz;pj	0
-𢼤	hc;wu	0
+𢼣	qz;jp	0
 𢼤	hc;pu	0
 𢼤	hc;up	0
-𢼦	hf;wg	0
-𢼦	hf;gp	0
 𢼦	hf;pg	0
-𢼩	pg;wb	0
+𢼦	hf;gp	0
 𢼩	pg;pb	0
 𢼩	pg;bp	0
-𢼫	jb;ww	0
+𢼫	jb;wi	0
+𢼫	jb;wy	0
 𢼫	jb;iw	0
-𢼰	qv;wq	0
 𢼰	qv;pq	0
 𢼰	qv;qp	0
 𢼱	zu;kp	0
 𢼱	zu;pr	0
-𢼲	vm;wv	0
-𢼲	vm;vp	0
 𢼲	vm;pv	0
+𢼲	vm;vp	0
+𢼳	kl;wk	0
 𢼳	kl;kw	0
 𢼵	ua;wh	0
 𢼵	ua;hw	0
 𢼷	ju;wy	0
 𢼸	ww;uw	0
 𢼸	we;uw	0
-𢼹	pu;wf	0
 𢼹	pu;pf	0
 𢼹	pu;fp	0
-𢼹	bo;wf	0
 𢼹	bo;pf	0
 𢼹	bo;fp	0
-𢼺	xy;wv	0
-𢼺	xy;vp	0
 𢼺	xy;pv	0
-𢼼	uc;wx	0
-𢼼	uc;xp	0
+𢼺	xy;vp	0
 𢼼	uc;px	0
-𢽂	lj;wl	0
+𢼼	uc;xp	0
 𢽂	lj;pl	0
-𢽃	vp;wu	0
 𢽃	vp;pw	0
 𢽃	vp;cp	0
-𢽄	ta;wt	0
-𢽄	ta;tp	0
 𢽄	ta;pt	0
-𢽇	dl;wk	0
+𢽄	ta;tp	0
+𢽇	dl;wd	0
 𢽇	dl;kw	0
-𢽕	yj;wj	0
 𢽕	yj;jp	0
 𢽕	yj;pj	0
-𢽖	jv;jw	0
 𢽖	jv;py	0
 𢽗	vp;wu	0
-𢽚	vp;wi	0
-𢽚	du;wi	0
-𢽜	zs;wn	0
+𢽚	vp;pd	0
+𢽚	vp;pi	0
+𢽚	du;pd	0
+𢽚	du;pi	0
 𢽜	zs;pn	0
 𢽜	zs;np	0
-𢽝	ik;wv	0
-𢽝	ik;vp	0
 𢽝	ik;pv	0
-𢽢	mx;wm	0
-𢽦	ks;wk	0
-𢽦	ks;kp	0
+𢽝	ik;vp	0
+𢽢	mx;po	0
+𢽢	mx;pm	0
 𢽦	ks;pk	0
-𢽧	vz;wv	0
-𢽧	vz;vp	0
+𢽦	ks;kp	0
 𢽧	vz;pv	0
-𢽨	hu;wh	0
-𢽨	hu;hp	0
+𢽧	vz;vp	0
 𢽨	hu;ph	0
-𢽩	pg;wp	0
+𢽨	hu;hp	0
 𢽩	pg;pp	0
 𢽭	jp;bp	0
 𢽭	jp;pb	0
-𢽸	ii;wb	0
+𢽸	ii;wy	0
 𢽸	ii;uw	0
-𢽹	mm;hw	0
-𢽾	xb;xw	0
-𢾀	do;wv	0
-𢾀	do;vp	0
+𢽹	mm;wh	0
+𢽾	xb;px	0
 𢾀	do;pv	0
-𢾁	we;ww	0
-𢾃	ck;wt	0
+𢾀	do;vp	0
+𢾁	we;pw	0
+𢾃	ck;pk	0
 𢾃	ck;pr	0
 𢾃	ck;bp	0
 𢾄	yb;wy	0
 𢾄	yb;yw	0
 𢾅	dy;wd	0
-𢾆	kd;wj	0
-𢾇	pu;wf	0
-𢾊	ih;wt	0
-𢾊	ih;tp	0
+𢾆	kd;pj	0
+𢾇	pu;pt	0
+𢾇	pu;pf	0
 𢾊	ih;pt	0
-𢾎	ii;wi	0
-𢾐	ub;ws	0
-𢾑	yl;wy	0
-𢾑	yl;yp	0
+𢾊	ih;tp	0
+𢾎	ii;pi	0
+𢾐	ub;py	0
 𢾑	yl;py	0
+𢾑	yl;yp	0
 𢾒	kj;bp	0
 𢾒	kj;pk	0
-𢾔	yt;xg	0
-𢾔	yt;pg	0
 𢾔	yt;og	0
-𢾦	qo;wi	0
-𢾧	vg;wv	0
-𢾧	vg;vp	0
+𢾔	yt;gp	0
+𢾔	yt;pg	0
+𢾦	qo;pi	0
 𢾧	vg;pv	0
-𢾩	kw;wg	0
-𢾩	kw;hp	0
+𢾧	vg;ph	0
+𢾧	vg;vp	0
 𢾩	kw;ph	0
-𢾪	qo;ws	0
-𢾫	vp;wi	0
+𢾩	kw;pm	0
+𢾩	kw;hp	0
+𢾪	qo;ps	0
 𢾫	vp;pi	0
 𢾫	vp;ip	0
 𢾬	ly;ph	0
 𢾬	ly;ip	0
-𢾱	pi;wp	0
 𢾱	pi;pb	0
 𢾱	pi;xp	0
-𢾲	ni;wr	0
+𢾲	ni;pr	0
 𢾳	pb;wc	0
 𢾳	pb;cw	0
 𢾺	fr;wf	0
 𢾺	fr;fw	0
-𢾿	wg;gw	0
-𢾿	wg;gp	0
 𢾿	wg;pg	0
+𢾿	wg;gp	0
 𢿂	mh;wg	0
-𢿈	ul;wc	0
 𢿈	ul;pc	0
 𢿈	ul;cp	0
 𢿌	xa;po	0
 𢿌	xa;pp	0
 𢿌	xe;po	0
 𢿌	xe;pp	0
-𢿎	di;wg	0
+𢿎	di;pg	0
+𢿎	di;pu	0
 𢿎	di;bp	0
-𢿎	di;py	0
-𢿏	bb;wp	0
 𢿏	bb;pp	0
-𢿏	pc;wp	0
 𢿏	pc;pp	0
-𢿚	yz;wx	0
 𢿚	yz;pu	0
 𢿚	yz;yp	0
-𢿜	mh;mw	0
-𢿞	lz;wl	0
+𢿜	mh;wm	0
+𢿞	lz;pl	0
+𢿞	lz;px	0
 𢿡	xq;pb	0
 𢿡	xq;bp	0
-𢿢	le;wl	0
-𢿣	qn;wy	0
-𢿣	qn;yp	0
+𢿢	le;py	0
+𢿢	le;pl	0
 𢿣	qn;py	0
-𢿤	df;wd	0
-𢿤	df;dp	0
+𢿣	qn;pw	0
+𢿣	qn;yp	0
 𢿤	df;pd	0
-𢿦	ih;wi	0
-𢿧	ih;wt	0
+𢿤	df;dp	0
+𢿦	ih;pi	0
+𢿦	ih;py	0
+𢿧	ih;pt	0
+𢿧	ih;pm	0
 𢿭	ii;hv	0
-𢿸	cw;cw	0
 𢿸	cw;pc	0
 𢿸	cw;cp	0
-𣀀	le;wl	0
-𣀀	le;lp	0
 𣀀	le;pl	0
-𣀁	vl;wv	0
-𣀁	vl;vp	0
+𣀀	le;lp	0
 𣀁	vl;pv	0
-𣀂	lp;wl	0
+𣀁	vl;vp	0
+𣀂	lp;pl	0
 𣀂	lp;qp	0
 𣀂	lp;pd	0
-𣀃	lz;wl	0
-𣀃	lz;lp	0
 𣀃	lz;pl	0
-𣀄	qu;wj	0
+𣀃	lz;lp	0
+𣀄	qu;pg	0
+𣀄	qu;pm	0
 𣀍	ig;pu	0
 𣀍	ig;up	0
-𣀏	ih;wi	0
+𣀏	ih;pg	0
+𣀏	ih;pi	0
 𣀐	gu;wz	0
+𣀐	gu;wx	0
 𣀐	gu;zw	0
-𣀒	za;wj	0
-𣀒	za;jp	0
 𣀒	za;pj	0
-𣀓	ix;wu	0
-𣀓	db;wu	0
-𣀔	ie;ws	0
-𣀔	ie;sp	0
+𣀒	za;jp	0
+𣀓	ix;pu	0
+𣀓	db;pu	0
 𣀔	ie;ps	0
-𣀔	ii;ws	0
-𣀔	ii;sp	0
+𣀔	ie;sp	0
 𣀔	ii;ps	0
-𣀜	lq;wl	0
-𣀝	ui;wl	0
-𣀝	ui;lp	0
+𣀔	ii;sp	0
+𣀜	lq;pl	0
+𣀜	lq;pt	0
 𣀝	ui;pl	0
-𣀞	lc;wl	0
-𣀞	lc;lp	0
+𣀝	ui;lp	0
 𣀞	lc;pl	0
-𣀣	fi;wb	0
+𣀞	lc;lp	0
+𣀣	fi;pj	0
 𣀣	fi;pb	0
 𣀣	fi;bp	0
-𣀥	lu;wl	0
-𣀥	lu;lp	0
 𣀥	lu;pl	0
-𣀧	sh;wl	0
-𣀧	sh;lp	0
+𣀥	lu;pv	0
+𣀥	lu;lp	0
 𣀧	sh;pv	0
-𣀫	sj;gw	0
+𣀧	sh;lp	0
 𣀫	sj;pg	0
 𣀫	sj;mp	0
-𣀯	sl;wm	0
+𣀯	sl;pe	0
 𣀳	no;wn	0
+𣀳	no;we	0
 𣀳	no;nw	0
-𣀶	zr;wz	0
-𣀶	zr;zp	0
 𣀶	zr;pz	0
-𣀷	lp;wl	0
-𣀷	lp;lp	0
+𣀶	zr;zp	0
 𣀷	lp;pl	0
-𣀷	lo;wl	0
-𣀷	lo;lp	0
+𣀷	lp;lp	0
 𣀷	lo;pl	0
-𣀻	uo;wu	0
+𣀷	lo;lp	0
 𣀻	uo;pu	0
 𣀻	uo;up	0
-𣀻	vo;wu	0
 𣀻	vo;pu	0
 𣀻	vo;up	0
 𣀾	fi;hp	0
@@ -70057,7 +70017,8 @@ use_preset_vocabulary: false
 𪺟	vk;pz	0
 𪠰	vc;vy	0
 硾	ib;ui	0
-𢽴	vp;iw	0
+𢽴	vp;wd	0
+𢽴	vp;wi	0
 𢽴	vp;aw	0
 𦅾	vp;js	0
 𦅾	vp;sj	0
@@ -70969,7 +70930,7 @@ use_preset_vocabulary: false
 𢱕	da;fd	0
 𢵌	dc;fd	0
 𢵧	jn;fj	0
-𢽾	xy;xw	0
+𢽾	xy;px	0
 𣌭	hc;ho	0
 𣌭	hc;oh	0
 𣚺	xk;wm	0
@@ -75714,6 +75675,7 @@ use_preset_vocabulary: false
 堿	jM;tx	3
 堿	kJ;tx	3
 塀	pY;tp	320
+塀	bY;tp	320
 塁	lZ;tt	382
 塂	jD;tx	0
 塂	xD;tx	0
@@ -115576,128 +115538,149 @@ use_preset_vocabulary: false
 𢻤	qC;vq	0	# auto
 𢻨	sA;zv	0	# auto
 𢻪	qI;vq	0	# auto
-𢻫	uI;wy	0	# auto
+𢻫	uI;py	0
 𢻮	fU;wj	0	# auto
 𢻮	jX;wj	0	# auto
-𢻵	bZ;wu	0	# auto
-𢻵	lU;wu	0	# auto
-𢻶	bM;wj	0	# auto
-𢻷	bA;wb	0	# auto
-𢻸	jP;wy	0	# auto
-𢻹	pI;wb	0	# auto
-𢻼	dJ;wy	0	# auto
-𢻿	tH;wo	0	# auto
-𢼀	kV;wr	0	# auto
-𢼁	kU;wu	0	# auto
-𢼃	kB;wg	0	# auto
-𢼉	uI;wt	0	# auto
-𢼊	tO;wt	0	# auto
-𢼊	uI;wt	0	# auto
-𢼌	bK;wb	0	# auto
-𢼑	kD;wj	0	# auto
-𢼙	lC;xw	0	# auto
-𢼚	eE;hw	0	# auto
-𢼛	eE;wg	0	# auto
-𢼛	gE;wg	0	# auto
-𢼛	gO;wg	0	# auto
-𢼟	wH;wf	0	# auto
-𢼟	wH;wk	0	# auto
-𢼠	dO;wb	0	# auto
-𢼣	qW;wj	0	# auto
-𢼤	hW;wu	0	# auto
-𢼦	hS;wg	0	# auto
-𢼩	pG;wb	0	# auto
-𢼫	jC;ww	0	# auto
-𢼰	qU;wq	0	# auto
-𢼲	vB;wv	0	# auto
-𢼳	kD;kw	0	# auto
-𢼵	uA;wh	0	# auto
-𢼷	jI;wy	0	# auto
-𢼹	bU;wf	0	# auto
-𢼹	pU;wf	0	# auto
-𢼺	xT;wv	0	# auto
-𢼼	uK;wx	0	# auto
-𢽂	lH;wl	0	# auto
-𢽃	vI;wu	0	# auto
-𢽄	tY;wt	0	# auto
-𢽇	dA;wk	0	# auto
-𢽕	yH;wj	0	# auto
-𢽖	jN;jw	0	# auto
-𢽗	vI;wu	0	# auto
-𢽚	dU;wi	0	# auto
-𢽚	vO;wi	0	# auto
-𢽜	zA;wn	0	# auto
-𢽝	iJ;wv	0	# auto
-𢽢	mK;wm	0	# auto
-𢽦	kS;wk	0	# auto
-𢽧	vB;wv	0	# auto
-𢽨	hU;wh	0	# auto
-𢽩	pG;wp	0	# auto
-𢽴	vO;iw	0	# auto
-𢽸	iO;wb	0	# auto
-𢽹	mN;hw	0	# auto
-𢽾	xC;xw	0	# auto
-𢽾	xT;xw	0	# auto
-𢾀	dU;wv	0	# auto
-𢾁	wZ;ww	0	# auto
-𢾃	cJ;wt	0	# auto
-𢾄	yU;wy	0	# auto
-𢾅	dU;wd	0	# auto
-𢾆	kL;wj	0	# auto
-𢾇	pI;wf	0	# auto
-𢾊	iG;wt	0	# auto
-𢾎	iP;wi	0	# auto
-𢾐	uK;ws	0	# auto
-𢾑	yJ;wy	0	# auto
-𢾔	yT;xg	0	# auto
-𢾦	qI;wi	0	# auto
-𢾧	vG;wv	0	# auto
-𢾩	kE;wg	0	# auto
-𢾪	qI;ws	0	# auto
-𢾫	vI;wi	0	# auto
-𢾱	pI;wp	0	# auto
-𢾲	nO;wr	0	# auto
-𢾳	pK;wc	0	# auto
-𢾺	fZ;wf	0	# auto
-𢾿	wF;gw	0	# auto
-𢿈	uJ;wc	0	# auto
-𢿎	dO;wg	0	# auto
-𢿏	bC;wp	0	# auto
-𢿏	pK;wp	0	# auto
-𢿚	yB;wx	0	# auto
-𢿜	mJ;mw	0	# auto
-𢿞	lC;wl	0	# auto
-𢿢	lR;wl	0	# auto
-𢿣	qC;wy	0	# auto
-𢿤	dG;wd	0	# auto
-𢿦	iG;wi	0	# auto
-𢿧	iG;wt	0	# auto
-𢿸	cE;cw	0	# auto
-𣀀	lZ;wl	0	# auto
-𣀁	vJ;wv	0	# auto
-𣀂	lI;wl	0	# auto
-𣀃	lM;wl	0	# auto
-𣀄	qP;wj	0	# auto
-𣀏	iG;wi	0	# auto
-𣀐	gU;wz	0	# auto
-𣀒	zS;wj	0	# auto
-𣀓	dK;wu	0	# auto
-𣀓	iB;wu	0	# auto
-𣀔	iO;ws	0	# auto
-𣀔	iR;ws	0	# auto
-𣀜	lZ;wl	0	# auto
-𣀝	uO;wl	0	# auto
-𣀞	lV;wl	0	# auto
-𣀣	fU;wb	0	# auto
-𣀥	lI;wl	0	# auto
-𣀧	sJ;wl	0	# auto
-𣀫	sJ;gw	0	# auto
-𣀯	sA;wm	0	# auto
-𣀳	nX;wn	0	# auto
-𣀶	zR;wz	0	# auto
-𣀷	lI;wl	0	# auto
-𣀻	uU;wu	0	# auto
-𣀻	vU;wu	0	# auto
+𢻵	bZ;pu	0
+𢻵	lU;pu	0
+𢻶	bM;pj	0
+𢻷	bA;pb	0
+𢻸	jP;py	0
+𢻹	pI;wb	0
+𢻼	dJ;pg	0
+𢻿	tH;op	0
+𢻿	tH;po	0
+𢼀	kV;pr	0
+𢼁	kU;wy	0
+𢼃	kB;wg	0
+𢼉	uI;wt	0
+𢼊	tO;wt	0
+𢼊	uI;wt	0
+𢼌	bK;pb	0
+𢼑	kD;wj	0
+𢼙	lC;xw	0
+𢼚	eE;hw	0
+𢼛	eE;pg	0
+𢼛	gE;pg	0
+𢼛	gO;pg	0
+𢼠	dO;wg	0
+𢼠	dO;we	0
+𢼣	qW;pj	0
+𢼤	hW;pu	0
+𢼦	hS;pg	0
+𢼩	pG;pb	0
+𢼫	jC;wi	0
+𢼫	jC;wy	0
+𢼰	qU;pq	0
+𢼲	vB;pv	0
+𢼳	kD;wk	0
+𢼳	kD;kw	0
+𢼵	uA;wh	0
+𢼷	jI;wy	0
+𢼹	bU;pf	0
+𢼹	pU;pf	0
+𢼺	xT;pv	0
+𢼼	uK;px	0
+𢽂	lH;pl	0
+𢽃	vI;pw	0
+𢽄	tY;pt	0
+𢽇	dA;wd	0
+𢽕	yH;jp	0
+𢽕	yH;pj	0
+𢽖	jN;py	0
+𢽗	vI;wu	0
+𢽚	dU;pd	0
+𢽚	dU;pi	0
+𢽚	vO;pd	0
+𢽚	vO;pi	0
+𢽜	zA;pn	0
+𢽝	iJ;pv	0
+𢽢	mK;po	0
+𢽢	mK;pm	0
+𢽦	kS;pk	0
+𢽧	vB;pv	0
+𢽨	hU;ph	0
+𢽩	pG;pp	0
+𢽴	vO;wd	0
+𢽴	vO;wi	0
+𢽸	iO;wy	0
+𢽹	mN;wh	0
+𢽾	xC;px	0
+𢽾	xT;px	0
+𢾀	dU;pv	0
+𢾁	wZ;pw	0
+𢾃	cJ;pk	0
+𢾄	yU;wy	0
+𢾅	dU;wd	0
+𢾆	kL;pj	0
+𢾇	pI;pt	0
+𢾇	pI;pf	0
+𢾊	iG;pt	0
+𢾎	iP;pi	0
+𢾐	uK;py	0
+𢾑	yJ;py	0
+𢾔	yT;og	0
+𢾔	yT;gp	0
+𢾦	qI;pi	0
+𢾧	vG;pv	0
+𢾧	vG;ph	0
+𢾩	kE;ph	0
+𢾩	kE;pm	0
+𢾪	qI;ps	0
+𢾫	vI;pi	0
+𢾲	nO;pr	0
+𢾳	pK;wc	0
+𢾺	fZ;wf	0
+𢾿	wF;pg	0
+𢿈	uJ;pc	0
+𢿏	bC;pp	0
+𢿏	pK;pp	0
+𢿚	yB;pu	0
+𢿜	mJ;wm	0
+𢿞	lC;pl	0
+𢿞	lC;px	0
+𢿢	lR;py	0
+𢿢	lR;pl	0
+𢿣	qC;py	0
+𢿣	qC;pw	0
+𢿤	dG;pd	0
+𢿦	iG;pi	0
+𢿦	iG;py	0
+𢿧	iG;pt	0
+𢿧	iG;pm	0
+𢿸	cE;pc	0
+𣀀	lZ;pl	0
+𣀁	vJ;pv	0
+𣀂	lI;pl	0
+𣀃	lM;pl	0
+𣀄	qP;pg	0
+𣀄	qP;pm	0
+𣀏	iG;pg	0
+𣀏	iG;pi	0
+𣀐	gU;wz	0
+𣀐	gU;wx	0
+𣀒	zS;pj	0
+𣀓	dK;pu	0
+𣀓	iB;pu	0
+𣀔	iO;ps	0
+𣀔	iR;ps	0
+𣀜	lZ;pl	0
+𣀜	lZ;pt	0
+𣀝	uO;pl	0
+𣀞	lV;pl	0
+𣀣	fU;pj	0
+𣀣	fU;pb	0
+𣀥	lI;pl	0
+𣀥	lI;pv	0
+𣀧	sJ;pv	0
+𣀫	sJ;pg	0
+𣀯	sA;pe	0
+𣀳	nX;wn	0
+𣀳	nX;we	0
+𣀶	zR;pz	0
+𣀷	lI;pl	0
+𣀻	uU;pu	0
+𣀻	vU;pu	0
 𣁉	bI;wb	0	# auto
 𣁗	tJ;tw	0	# auto
 𣁜	mJ;mw	0	# auto
@@ -138573,7 +138556,6 @@ use_preset_vocabulary: false
 𦻔	fZ;cf	0	# auto
 𪟏	uG;qd	0	# auto
 𢱋	dU;fd	0	# auto
-𢻼	dJ;pb	0	# auto
 𬹔	qM;uy	0	# auto
 𬹔	qM;au	0	# auto
 𡉞	hS;ts	0	# auto
@@ -138747,7 +138729,8 @@ use_preset_vocabulary: false
 𣤩	iI;dq	0	# auto
 𣤩	iI;qd	0	# auto
 𤮭	iJ;wt	0	# auto
-𣀴	bX;iy	0	# auto
+𣀴	bX;im	0
+𣀴	bX;ia	0
 𧌢	sV;si	0	# auto
 𧌢	sV;ir	0	# auto
 𡛻	yS;ny	0	# auto
@@ -138798,8 +138781,9 @@ use_preset_vocabulary: false
 𡞰	cI;nz	0	# auto
 𡯬	yK;yb	0	# auto
 𨉐	eE;uw	0	# auto
+𢿎	dO;pg	0
+𢿎	dO;pu	0
 𢿎	dO;bp	0	# auto
-𢿎	dO;py	0	# auto
 𬀿	kP;ol	0	# auto
 𬦹	tC;zt	0	# auto
 𩳔	yK;xg	0	# auto
