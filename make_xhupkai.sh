@@ -56,7 +56,7 @@ python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xh
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-cht/moran.tencent.dict.yaml > ../xhupkai-cht/moran.tencent.dict.yaml.bak
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-cht/moran.moe.dict.yaml > ../xhupkai-cht/moran.moe.dict.yaml.bak
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-cht/moran.computer.dict.yaml > ../xhupkai-cht/moran.computer.dict.yaml.bak
-python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-cht/moran.hanyu.dict.yaml > ../xhupkai-cht/moran.hanyu.dict.yaml.bak
+# python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-cht/moran.hanyu.dict.yaml > ../xhupkai-cht/moran.hanyu.dict.yaml.bak
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-cht/moran.words.dict.yaml > ../xhupkai-cht/moran.words.dict.yaml.bak
 python3 convert_sp.py -i ../xhupkai-cht/zrlf.dict.yaml -o ../xhupkai-cht/zrlf.dict.yaml.bak
 
@@ -93,7 +93,7 @@ mv ../xhupkai-cht/moran.base.dict.yaml{.bak,}
 mv ../xhupkai-cht/moran.tencent.dict.yaml{.bak,}
 mv ../xhupkai-cht/moran.moe.dict.yaml{.bak,}
 mv ../xhupkai-cht/moran.computer.dict.yaml{.bak,}
-mv ../xhupkai-cht/moran.hanyu.dict.yaml{.bak,}
+# mv ../xhupkai-cht/moran.hanyu.dict.yaml{.bak,}
 mv ../xhupkai-cht/moran.words.dict.yaml{.bak,}
 mv ../xhupkai-cht/moran_fixed.dict.yaml{.bak,}
 mv ../xhupkai-cht/moran_fixed_simp.dict.yaml{.bak,}
@@ -120,7 +120,7 @@ python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xh
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-chs/moran.tencent.dict.yaml > ../xhupkai-chs/moran.tencent.dict.yaml.bak
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-chs/moran.moe.dict.yaml > ../xhupkai-chs/moran.moe.dict.yaml.bak
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-chs/moran.computer.dict.yaml > ../xhupkai-chs/moran.computer.dict.yaml.bak
-python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-chs/moran.hanyu.dict.yaml > ../xhupkai-chs/moran.hanyu.dict.yaml.bak
+# python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-chs/moran.hanyu.dict.yaml > ../xhupkai-chs/moran.hanyu.dict.yaml.bak
 python3 ../rime-moran/tools/schemagen.py convert-sp --to=flypy --rime-dict=../xhupkai-chs/moran.words.dict.yaml > ../xhupkai-chs/moran.words.dict.yaml.bak
 python3 convert_sp.py -i ../xhupkai-chs/zrlf.dict.yaml -o ../xhupkai-chs/zrlf.dict.yaml.bak
 
@@ -157,7 +157,7 @@ mv ../xhupkai-chs/moran.base.dict.yaml{.bak,}
 mv ../xhupkai-chs/moran.tencent.dict.yaml{.bak,}
 mv ../xhupkai-chs/moran.moe.dict.yaml{.bak,}
 mv ../xhupkai-chs/moran.computer.dict.yaml{.bak,}
-mv ../xhupkai-chs/moran.hanyu.dict.yaml{.bak,}
+# mv ../xhupkai-chs/moran.hanyu.dict.yaml{.bak,}
 mv ../xhupkai-chs/moran.words.dict.yaml{.bak,}
 mv ../xhupkai-chs/moran_fixed.dict.yaml{.bak,}
 mv ../xhupkai-chs/moran_fixed_simp.dict.yaml{.bak,}
