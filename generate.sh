@@ -45,7 +45,7 @@ if [ "$#" -gt 1 ]; then
 	7z a zrloopmoqi-cht.7z zrloopmoqi-cht/
 
 	echo "Releasing $1..."
-	gh release create "$1" --generate-notes --title "$1 - $2" *.7z
+	GH_TOKEN="$3" gh release create "$1" --generate-notes --title "$1 - $2" *.7z
 	rm *.7z
 	# exit 1
 

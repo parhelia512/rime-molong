@@ -337,8 +337,8 @@
 乄	wU;gd	629
 久	jQ;pd	8974
 久	jQ;dd	8974
-乆	jQ;ap	563
-乆	jQ;vp	563
+乆	jQ;ar	563
+乆	jQ;vr	563
 乇	iI;pq	0
 乇	mK;pq	0
 乇	tO;pq	203
@@ -18906,6 +18906,7 @@
 篠	tC;vt	517
 篠	xC;vt	517
 篡	cR;vs	633
+篡	cR;sd	633
 篢	gS;vg	332
 篣	pH;vp	254
 篤	dU;vm	841
@@ -18977,6 +18978,7 @@
 簐	nM;vr	204
 簑	sO;vu	527
 簒	cR;vs	298
+簒	cR;vm	298
 簓	dC;vd	269
 簓	dC;vp	269
 簔	sO;vu	253
@@ -19906,7 +19908,9 @@
 纀	pU;sp	468
 纁	xP;sx	3
 纂	cR;vs	0
+纂	cR;sd	0
 纂	zR;vs	682
+纂	zR;sd	682
 纃	qI;sq	369
 纄	pG;sp	284
 纅	lI;sl	298
@@ -71892,7 +71896,8 @@
 𠃟	yE;cg	0	# auto
 𠃡	mO;yg	0	# auto
 𠃡	wJ;yg	0	# auto
-𠃢	sI;pa	0	# auto
+𠃢	sI;ke	0
+𠃢	sI;aa	0
 𠃤	hD;pe	0	# auto
 𠃧	fZ;ff	0	# auto
 𠃬	iB;jk	0	# auto
@@ -108683,7 +108688,8 @@
 𮐇	jD;ck	0	# auto
 𮐉	cU;ca	0	# auto
 𮐊	mM;cm	0	# auto
-𮐋	cR;mm	0	# auto
+𮐋	cR;cm	0
+𮐋	cR;mm	0
 𮐎	zI;co	0	# auto
 𮐎	zL;co	0	# auto
 𮐏	dX;cu	0	# auto
@@ -122118,6 +122124,8 @@
 枠	zA;mz	2
 笹	uI;vu	2
 槇	vF;mv	2
+𰷅	yI;bk	0
+𰷅	yI;by	0
 
 # CJK Ext I
 𤚴	fJ;nm	0

@@ -59654,7 +59654,7 @@ use_preset_vocabulary: false
 𠃟	ye	0	# auto
 𠃡	mo	0	# auto
 𠃡	wj	0	# auto
-𠃢	si	0	# auto
+𠃢	si	0
 𠃤	hl	0	# auto
 𠃧	fw	0	# auto
 𠃬	iz	0	# auto
@@ -89591,7 +89591,7 @@ use_preset_vocabulary: false
 𮐇	jl	0	# auto
 𮐉	cu	0	# auto
 𮐊	mm	0	# auto
-𮐋	cr	0	# auto
+𮐋	cr	0
 𮐎	zi	0	# auto
 𮐎	zd	0	# auto
 𮐏	dp	0	# auto
@@ -101262,6 +101262,7 @@ use_preset_vocabulary: false
 枠	za	0
 笹	ui	0
 槇	vf	0
+𰷅	yi	0
 𤚴	fj	0
 𮯰	ao	0
 𮯰	mf	0

@@ -5436,6 +5436,7 @@
 狭	xc;qj	12
 绰	ii;sv	12
 篡	ce;vs	12
+篡	ce;sd	12
 唾	ti;ki	12
 槌	ib;mv	12
 秉	ba;ha	12
@@ -5741,6 +5742,7 @@
 氩	yl;qy	9
 胫	jj;og	9
 纂	zy;vs	9
+纂	zy;sd	9
 蠹	dy;ai	9
 蠹	dy;iu	9
 祭	vs;uy	9
@@ -18115,8 +18117,8 @@
 乃	ap;pg	1
 乃	ap;gp	1
 乄	wo;gd	1
-乆	je;ap	1
-乆	je;vp	1
+乆	je;ar	1
+乆	je;vr	1
 乇	to;pq	1
 乇	vr;pq	1
 么	yc;ps	1
@@ -32781,6 +32783,7 @@
 簐	nx;vr	1
 簑	so;vu	1
 簒	ce;vs	1
+簒	ce;vm	1
 簓	dn;vd	1
 簓	dn;vp	1
 簔	so;vu	1

@@ -5456,6 +5456,7 @@ use_preset_vocabulary: false
 狭	xc;qj	12
 绰	ip;sv	12
 篡	cc;vs	12
+篡	cc;sd	12
 唾	tp;ki	12
 槌	iw;mv	12
 秉	bw;ha	12
@@ -5760,6 +5761,7 @@ use_preset_vocabulary: false
 氩	yi;qy	9
 胫	jw;og	9
 纂	zs;vs	9
+纂	zs;sd	9
 蠹	dh;ai	9
 蠹	dh;iu	9
 祭	vo;uy	9
@@ -18120,8 +18122,8 @@ use_preset_vocabulary: false
 乃	au;pg	1
 乃	au;gp	1
 乄	wm;gd	1
-乆	jz;ap	1
-乆	jz;vp	1
+乆	jz;ar	1
+乆	jz;vr	1
 乇	ts;pq	1
 乇	ve;pq	1
 么	yq;ps	1
@@ -32724,6 +32726,7 @@ use_preset_vocabulary: false
 簐	np;vr	1
 簑	ss;vu	1
 簒	cc;vs	1
+簒	cc;vm	1
 簓	dm;vd	1
 簓	dm;vp	1
 簔	ss;vu	1

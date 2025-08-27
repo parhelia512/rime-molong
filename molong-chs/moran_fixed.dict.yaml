@@ -57,9 +57,10 @@ import_tables:
 請	qw	8563750
 下	x	8550882	xx
 字	zt	8506615
+圖	tl	8457307
 出	i	8294943	ia
+她	tln	8270163
 時	ub	8207119
-她	tl	7870163
 要	yv	7865159
 放	fd	7730745
 看	kj	7709056
@@ -798,7 +799,6 @@ import_tables:
 區	qhk	460807
 班	bnd	459772
 麗	lta	457411
-圖	tlk	457307
 己	jga	456925
 歲	sf	456625
 禮	lgu	456545
@@ -2382,7 +2382,6 @@ import_tables:
 趁	ioz	124805
 一絲	yjsj	124736
 雷人	lrrs	124672
-一人	yjrs	124672
 認真	rove	124592
 天地	trdt	124592
 至少	vtux	124432
@@ -2779,7 +2778,6 @@ import_tables:
 三人	snrs	103680
 不行	bhxn	103648
 錯誤	cpwh	103616
-一會	yjhf	103600
 祥	xiu	103572
 心靈	xhln	103536
 生氣	ucqt	103536
@@ -3133,7 +3131,6 @@ import_tables:
 一面	ybma	89488
 時刻	ubki	89456
 輩子	bfzj	89440
-感動	gody	89440
 袍	piy	89409
 時期	ubqj	89328
 化爲	hgwr	89280
@@ -3394,7 +3391,6 @@ import_tables:
 掠	ldf	81961
 皇帝	hbdt	81952
 師父	ujfh	81952
-有些人	yxrs	81936
 渾身	hfue	81936
 詢	xfy	81882
 資格	zjge	81872
@@ -3984,7 +3980,7 @@ import_tables:
 跨	kg	67967
 不大	bhdi	67952
 債務	vowh	67920
-妥	tln	67901
+妥	tlnv	67901
 不該	bhgb	67856
 夏天	xxtr	67840
 揉	raf	67835
@@ -5599,6 +5595,7 @@ import_tables:
 異議	ytyt	44848
 精緻	jevt	44848
 不高	bhgq	44848
+意譯	ytyt	44847
 鶴	hin	44828
 閃過	uogp	44816
 感慨	goku	44800
@@ -6399,7 +6396,6 @@ import_tables:
 遭受	zqur	38368
 級別	jbbs	38368
 跑	piz	38364
-在線	zoxa	38336
 司馬	sjmm	38320
 狂暴	kbbv	38320
 基本上	jbud	38320
@@ -7397,7 +7393,6 @@ import_tables:
 有名	yzmn	32208
 全會	qohf	32208
 鈞	jgj	32200
-好人	hxrs	32192
 芬芳	fefu	32192
 忠誠	vkif	32192
 深淵	ueyd	32192
@@ -8604,7 +8599,6 @@ import_tables:
 翻身	fnue	26992
 換成	hcif	26992
 撐着	icvr	26992
-不帶	bhdo	26992
 蟬	iki	26987
 特性	tixw	26976
 失憶	ujyt	26976
@@ -8902,7 +8896,6 @@ import_tables:
 不太好	bthx	25952
 時區	ubqh	25952
 實物	ubwh	25952
-一向	ybxe	25952
 吱	vjk	25922
 乍	vip	25921
 團體	totg	25920
@@ -10771,7 +10764,6 @@ import_tables:
 猛烈	mylq	20928
 手槍	uzqy	20928
 路燈	lhdc	20928
-口味	kkwf	20928
 口味	kzwf	20928
 愣住	lfvh	20928
 埋葬	mdzd	20928
@@ -11436,7 +11428,6 @@ import_tables:
 主權	vmqo	19472
 嚇人	xxrs	19472
 一如既往	yrjw	19472
-引人	yxrs	19472
 讚賞	zjup	19472
 分寸	fecr	19472
 高端	gqdd	19472
@@ -12296,7 +12287,6 @@ import_tables:
 分行	fehw	17920
 之分	vjfe	17920
 對接	dfjk	17920
-能見	nfja	17920
 矯情	juqe	17920
 森然	serk	17920
 銷量	xmle	17920
@@ -12569,6 +12559,7 @@ import_tables:
 索取	slqs	17456
 事務所	uwsl	17456
 外圍	wowr	17456
+外網	wowp	17456
 相差	xyii	17456
 雲層	yfcf	17456
 恩愛	eeao	17456
@@ -13895,7 +13886,6 @@ import_tables:
 疙瘩	grdl	15632
 血光	xdgw	15632
 月初	ydia	15632
-不待	bhdo	15632
 提現	tbxa	15632
 無意識	wyub	15632
 踐踏	jati	15632
@@ -16633,7 +16623,7 @@ import_tables:
 牛仔	nmzu	12768
 體檢	tgjp	12768
 商戶	uuhh	12768
-做作	zpzs	12768
+做作	zpzp	12768
 造詣	zvyt	12768
 樂隊	yddf	12768
 臭味	irwf	12768
@@ -16831,6 +16821,7 @@ import_tables:
 馬蹄	mmtb	12640
 隨波逐流	sbvl	12640
 躥	cdz	12631
+回退	hwtf	12620
 蓓	bfc	12618
 環顧	hogh	12592
 嗤嗤	ijij	12592
@@ -18304,6 +18295,7 @@ import_tables:
 馭	yfm	11486
 喔	wpkw	11477
 退步	tfbh	11472
+慟哭	tyka	11472
 薄	bic	11463
 靶	bmg	11461
 工人階級	grjj	11456
@@ -19085,7 +19077,6 @@ import_tables:
 奮起	foqg	10960
 乏力	fult	10960
 方正	fuvf	10960
-會合	hfhe	10960
 渾然	hfrk	10960
 庫房	khfw	10960
 典範	dpfj	10960
@@ -21878,6 +21869,7 @@ import_tables:
 迢	tuzv	9447
 粘	nvmv	9443
 汩	gmd	9441
+感動	gody	9440
 閘	vumj	9438
 症	vcbv	9430
 令	lwr	9427
@@ -21909,7 +21901,7 @@ import_tables:
 戰後	vjhr	9408
 之母	vjmm	9408
 雄心	xkxh	9408
-坐起	zpqg	9408
+做起	zpqg	9408
 造物	zvwh	9408
 衛兵	wfbe	9408
 間斷	jadc	9408
@@ -21949,6 +21941,7 @@ import_tables:
 鄉愁	xyia	9408
 延誤	ykwa	9408
 自傲	ztav	9408
+坐起	zpqg	9407
 惴	vfxe	9403
 胯	kgok	9397
 嘎吱	glvj	9392
@@ -22344,6 +22337,8 @@ import_tables:
 詩書	ujua	9232
 公章	gkvu	9216
 過心	gpxh	9216
+過膝	gpxj	9216
+過膝襪	gxwi	9216
 回回	hwht	9216
 瞠目結舌	imju	9216
 盡心盡力	jxjl	9216
@@ -22836,7 +22831,8 @@ import_tables:
 窿	ljx	9002
 燻	xrh	9002
 尿	stuu	9000
-丼	jwjd	9000
+丼	jwdj	9000
+丼	dodj	9000
 環球	hoqm	8992
 朝下	iixx	8992
 重審	ijuo	8992
@@ -22997,7 +22993,6 @@ import_tables:
 三界	snjq	8928
 四日	strt	8928
 通明	tkmn	8928
-他年	tlnv	8928
 天佑	tryr	8928
 生產關係	uigx	8928
 社稷	uijt	8928
@@ -24660,6 +24655,7 @@ import_tables:
 十有八九	uybj	8336
 習習	xbxb	8336
 中游	vkya	8336
+在線	zoxa	8336
 棣	dtm	8329
 用着	yyvr	8320
 紅茶	hjiu	8320
@@ -25229,6 +25225,7 @@ import_tables:
 娓	wjn	8105
 俞	uhr	8103
 乓	puq	8098
+死線	sgxa	8096
 功臣	gkis	8096
 朝外	iiwo	8096
 垂落	iwlp	8096
@@ -25906,6 +25903,7 @@ import_tables:
 瓦片	wmpa	7920
 攢	zof	7917
 攢	cof	7917
+奇數	jjuh	7912
 扁	prh	7907
 鵲	qdn	7905
 磯	jjuj	7901
@@ -27907,7 +27905,7 @@ import_tables:
 論點	lrdp	7312
 主動脈	vdmo	7312
 主打	vmdm	7312
-亞歷山大	ylud	7312
+亞里士多德	ylud	7312
 菸斗	yndz	7312
 側重	civy	7312
 參議	cnyt	7312
@@ -27929,6 +27927,7 @@ import_tables:
 騙局	pajm	7312
 瞌	kro	7311
 加減乘除	jjii	7311
+亞歷山大	ylud	7311
 璉	lpwl	7307
 髻	jti	7307
 分層	fecf	7296
@@ -30471,7 +30470,7 @@ import_tables:
 名望	mnwd	6688
 梅毒	mrdl	6688
 命大	mwdi	6688
-牌位	pdwf	6688
+排位	pdwf	6688
 批鬥	pjdr	6688
 苔蘚	tdxp	6688
 移動通信	ydtx	6688
@@ -33386,7 +33385,6 @@ import_tables:
 救兵	jobe	6096
 布達拉宮	bdlg	6096
 該當	gbdu	6096
-堅忍不拔	jrbb	6096
 一手包辦	yubb	6096
 便衣	bayj	6096
 奧地利	adlt	6096
@@ -33820,6 +33818,7 @@ import_tables:
 休眠	xzmv	6000
 野貓	ylmq	6000
 言笑	ykxl	6000
+嚴選	ykxs	6000
 義工	ytgk	6000
 源遠流長	yyli	6000
 自給自足	zjzz	6000
@@ -34124,7 +34123,6 @@ import_tables:
 矮胖	aupd	5968
 癌細胞	axbq	5968
 掛礙	ggao	5968
-感念	gona	5968
 共謀	gyma	5968
 樂見	lija	5968
 馬頭	mmta	5968
@@ -34224,7 +34222,7 @@ import_tables:
 受精	urje	5936
 大書	diua	5936
 大項	dixe	5936
-冬夏	dkxx	5936
+跌下	dkxx	5936
 毒蟲	dlij	5936
 單親	dnqh	5936
 膽鹼	dojp	5936
@@ -34262,7 +34260,7 @@ import_tables:
 面熟	maul	5936
 投手	tauz	5936
 紙面	vgma	5936
-跌下	dkxx	5935
+冬夏	dkxx	5935
 共通	gytk	5920
 紅袍	hjpi	5920
 虹橋	hjqu	5920
@@ -34568,7 +34566,6 @@ import_tables:
 土雞瓦狗	tjwg	5872
 同享	tjxu	5872
 通規	tkgt	5872
-通渠	tkqm	5872
 貼貼	tktk	5872
 土質	tmvt	5872
 天朝	trii	5872
@@ -38246,6 +38243,7 @@ import_tables:
 三線	snxa	5392
 侏儒	varl	5392
 有些	ezxk	5382
+羊排	ywpd	5377
 胥	xhop	5376
 箇舊	gijo	5376
 高雄	gqxk	5376
@@ -38335,6 +38333,7 @@ import_tables:
 意指	ytvg	5376
 揚名	ywmn	5376
 硬性	ywxw	5376
+研學	ywxi	5376
 子規	zggt	5376
 在業	zoyi	5376
 總司令	zslw	5376
@@ -39646,6 +39645,7 @@ import_tables:
 合抱	hebv	5215
 跛	biz	5214
 岐	qbuv	5207
+點題	dptb	5201
 風燈	fcdc	5200
 恭謹	gkjx	5200
 公墓	gkmh	5200
@@ -43530,7 +43530,7 @@ import_tables:
 靚號	lehv	4912
 靚妹	lemf	4912
 螺殼	llke	4912
-螺考	llkx	4912
+裸考	llkx	4912
 立像	ltxe	4912
 磨工	megk	4912
 麥乳精	mrje	4912
@@ -43970,7 +43970,6 @@ import_tables:
 出展	iavo	4912
 賤內	janf	4912
 艦隻	javj	4912
-健旺	jawd	4912
 諫阻	jazm	4912
 積欠	jjqa	4912
 舊案	joaj	4912
@@ -44205,7 +44204,6 @@ import_tables:
 偏勞	prli	4896
 爬灰	puht	4896
 爬坡	pupp	4896
-嫖宿	push	4896
 炮車	pvir	4896
 聘期	pvqj	4896
 炮艇	pvtw	4896
@@ -46427,7 +46425,6 @@ import_tables:
 協程	xsif	4848
 繫縛	xtfh	4848
 學生證	xuvf	4848
-信匯	xvhf	4848
 香榧	xyfj	4848
 玉環	yfho	4848
 育雛	yfil	4848
@@ -47390,6 +47387,7 @@ import_tables:
 租價	zajx	4848
 租讓	zard	4848
 仔豬	zgva	4848
+天際線	tjxa	4847
 有人	ezrs	4839
 杳	yxm	4833
 變淡	badj	4833
@@ -47537,7 +47535,7 @@ import_tables:
 貉絨	hirj	4832
 黑竹	hivl	4832
 黑仔	hizu	4832
-黑頸鶴	hjhi	4832
+紅黑	hjhi	4832
 紅區	hjqh	4832
 紅曲	hjqs	4832
 紅着	hjvr	4832
@@ -47735,7 +47733,6 @@ import_tables:
 長襪	iwwi	4832
 窗帷	iwwr	4832
 腸液	iwyi	4832
-炒肝	ixgn	4832
 抽考	ixkx	4832
 抽氣	ixqt	4832
 炒熱	ixri	4832
@@ -48110,7 +48107,6 @@ import_tables:
 木樨	mhxj	4832
 木香	mhxy	4832
 毛蚶	mihn	4832
-毛渠	miqm	4832
 毛條	mitu	4832
 毛窩	miwp	4832
 美蘭	mjlk	4832
@@ -50030,7 +50026,6 @@ import_tables:
 亂墳崗	lfgp	4832
 輪唱	lfid	4832
 綠盟	lfmf	4832
-輪牧	lfmh	4832
 棱臺	lftd	4832
 輪生	lfuc	4832
 綠陰	lfyh	4832
@@ -50915,7 +50910,7 @@ import_tables:
 撂地	lldt	4832
 拉賬	llvd	4832
 連蒙帶騙	lmdp	4832
-滷蝦	lmxd	4832
+流血	lmxd	4832
 利川	ltid	4832
 兩抵	ludg	4832
 連枷	lvjd	4832
@@ -51889,6 +51884,7 @@ import_tables:
 診病	vobw	4832
 掌鞭	vpbr	4832
 抓差	vsib	4832
+轉場	vsip	4832
 治保	vtbx	4832
 閘皮	vupb	4832
 照直	vvvb	4832
@@ -52151,7 +52147,6 @@ import_tables:
 蘇瓦	sawm	4832
 死麪	sgma	4832
 私念	sjna	4832
-四呼	stha	4832
 禿瘡	taiw	4832
 凸鏡	tajw	4832
 頭路	talh	4832
@@ -52255,6 +52250,7 @@ import_tables:
 租子	zazj	4832
 再按	zoaj	4832
 雜件	zuja	4832
+黑頸鶴	hjhi	4831
 聿	yfaa	4831
 五項	wmxe	4830
 帖	tqj	4828
@@ -53194,6 +53190,7 @@ import_tables:
 癩	lobl	4733
 偃	yorn	4730
 蝸	wpi	4726
+辯經	baje	4721
 禮包	lgbq	4721
 簸	bgvp	4721
 掛住	ggvh	4720
@@ -54210,7 +54207,7 @@ import_tables:
 險峯	xpfc	4608
 俄軍	eejg	4608
 對光	dfgw	4608
-對空	dfky	4608
+對空	dfkk	4608
 陸戰隊	lvdf	4608
 崇德	ijde	4608
 後端	hrdd	4608
@@ -54438,7 +54435,7 @@ import_tables:
 查考	iukx	4592
 軍情	jgqn	4592
 軍需	jgxh	4592
-均需	jgxh	4592
+軍心	jgxh	4592
 均以	jgyg	4592
 近幾年來	jjnl	4592
 傑克遜	jkxr	4592
@@ -55453,7 +55450,6 @@ import_tables:
 小算盤	xspk	4496
 下盤	xxpk	4496
 箱體	xytg	4496
-以資	ygzj	4496
 窯子	yizj	4496
 眼見爲實	yjwu	4496
 野牛	ylnm	4496
@@ -56030,7 +56026,6 @@ import_tables:
 恪盡職守	kjvu	4432
 款物	kswh	4432
 勒緊	lijx	4432
-留連	lmlv	4432
 留影	lmyw	4432
 流年似水	lnsu	4432
 鬣狗	lqgz	4432
@@ -56834,7 +56829,7 @@ import_tables:
 亮燈	ledc	4368
 斷點	dcdp	4368
 百發百中	bfbv	4368
-鳳城	ffif	4368
+奉承	ffif	4368
 非分之想	ffvx	4368
 潤肺	rrff	4368
 適逢	utff	4368
@@ -60483,7 +60478,6 @@ import_tables:
 新街	xhjk	4112
 學館	xigs	4112
 希勒	xjli	4112
-希羅	xjll	4112
 希曼	xjmj	4112
 西米	xjmg	4112
 希姆	xjmm	4112
@@ -63402,7 +63396,6 @@ import_tables:
 眼拙	yovs	3952
 嚴查	ykiu	3952
 延壽	ykur	3952
-韻致	yrvt	3952
 羊腿	ywtv	3952
 陽陽	ywyw	3952
 醫學界	yxjq	3952
@@ -64212,7 +64205,6 @@ import_tables:
 未時	wfub	3152
 相反相成	xfxi	3152
 尋醫	xfyj	3152
-賢慧	xvhf	3152
 相煩	xyfk	3152
 休會	xzhf	3152
 預借	yfjq	3152
@@ -64842,7 +64834,6 @@ import_tables:
 畏罪潛逃	wzqt	3120
 先公後私	xghs	3120
 新雅	xhym	3120
-下腳料	xjll	3120
 心裏有鬼	xlyg	3120
 休眠期	xmqj	3120
 心明眼亮	xmyl	3120
@@ -65118,6 +65109,7 @@ import_tables:
 獨具慧眼	djhy	3120
 貸記卡	djkm	3120
 登機牌	djpd	3120
+低配	djpd	3120
 打擊樂	djyd	3120
 低腰	djyq	3120
 奪愛	dlao	3120
@@ -65322,7 +65314,6 @@ import_tables:
 腦白金	nbjh	3120
 呢絨	nbrj	3120
 皮艇	pbtw	3120
-奇技	qbjt	3120
 前不着村	qbvc	3120
 期頤	qjyb	3120
 七七事變	qqub	3120
@@ -65845,7 +65836,7 @@ import_tables:
 土耳其人	teqr	3088
 他和	tlhe	3088
 申斥	ueit	3088
-十二萬分	uewf	3088
+身位	uewf	3088
 聲聲入耳	uure	3088
 摺頁	veyi	3088
 微星	wixe	3088
@@ -66882,6 +66873,7 @@ import_tables:
 克難攻堅	kngj	2928
 苦難深重	knuv	2928
 可親可敬	kqkj	2928
+可圈可點	kqkd	2928
 哭天抹淚	ktml	2928
 可維護性	kwhx	2928
 科學館	kxgs	2928
@@ -67412,7 +67404,7 @@ import_tables:
 戰敗國	vbgl	2928
 照章辦事	vvbu	2928
 吳邦國	wbgl	2928
-萬寶路	wblh	2928
+歪路	wblh	2928
 王老吉	wljb	2928
 爲期不遠	wqby	2928
 畏葸不前	wxbq	2928
@@ -67968,7 +67960,6 @@ import_tables:
 立方厘米	lflm	2912
 來犯之敵	lfvd	2912
 亂砍濫伐	lklf	2912
-留連忘返	llwf	2912
 流言飛語	lyfy	2912
 命犯桃花	mfth	2912
 綿延起伏	myqf	2912
@@ -68874,7 +68865,6 @@ import_tables:
 且不	qcbh	2864
 並不知道	bbvd	2864
 會做	hfzp	2864
-就只能	jvnf	2864
 的那樣	dnyd	2864
 見到了	jdlr	2864
 人的一生	rdyu	2864
@@ -69015,7 +69005,6 @@ import_tables:
 會使	hfug	2736
 向你	xeng	2736
 蹲在	dgzo	2736
-的未來	dwld	2736
 這種東西	vvdx	2736
 是比較	ubjl	2736
 有價值	yjvb	2736
@@ -69034,7 +69023,6 @@ import_tables:
 我被	wibf	2720
 會商	hfuu	2720
 想跟	xuge	2720
-的觀點	dgdp	2720
 你知道嗎	nvdm	2720
 必須堅持	bxji	2720
 不像是	bxut	2720
@@ -69058,7 +69046,6 @@ import_tables:
 都必須	dbxh	2704
 三爺	snye	2704
 在哪兒	znek	2704
-的心理	dxlg	2704
 還很	hdho	2704
 知道嗎	vdml	2704
 另一邊	lybr	2704
@@ -69170,7 +69157,6 @@ import_tables:
 恁	nox	2610
 鋥	zfj	2610
 夾	gld	2608
-顴	qoyv	2608
 這孩子	vhzg	2608
 我站	wivj	2608
 一個孩子	yghz	2608
@@ -69329,7 +69315,7 @@ import_tables:
 時間裏	ujlg	2496
 誘惑力	yhlt	2496
 一整	yjvy	2496
-一些人	yxrs	2496
+咬人	yxrs	2496
 不斷提高	bdtg	2496
 荷西	hexj	2496
 有希望	yxwd	2496
@@ -69383,7 +69369,7 @@ import_tables:
 椎	vtm	2454
 瀲	lad	2453
 普攻	pmgk	2448
-也是個	yugi	2448
+飄過	pmgp	2448
 的背後	dbhr	2448
 代表着	dbvr	2448
 訴訟法	ssfm	2448
@@ -69534,7 +69520,6 @@ import_tables:
 我喜歡你	wxhn	2320
 在那個	zngi	2320
 再怎麼	zzmr	2320
-一到	ybdv	2320
 伏在	flzo	2320
 一亮	yjle	2320
 快遞公司	kdgs	2320
@@ -69567,6 +69552,7 @@ import_tables:
 賁	btbh	2300
 紉	ros	2294
 奐	hcdd	2292
+滾輪	golf	2291
 溉	godj	2289
 幾句話	jjhg	2288
 開源項目	kyxm	2288
@@ -69763,6 +69749,7 @@ import_tables:
 噲	kfkh	2126
 獐	vuq	2123
 蕉	quc	2121
+下腳料	xjll	2120
 訌	hyy	2114
 喙	hfk	2114
 還是沒有	humy	2112
@@ -70081,6 +70068,7 @@ import_tables:
 也就	eljo	1890
 改革創新	ggix	1888
 好心情	hxqn	1888
+好球	hxqm	1888
 任你	rong	1888
 提起公訴	tqgs	1888
 世界各國	ujgg	1888
@@ -70512,7 +70500,7 @@ import_tables:
 第一種	dyvn	1664
 漫無目的	mwmd	1664
 實際行動	ujhd	1664
-制度化	vdhg	1664
+幀動畫	vdhg	1664
 想打	xudm	1664
 將此	jycg	1664
 扔給	rcgj	1664
@@ -70561,7 +70549,6 @@ import_tables:
 等地	dydt	1648
 第一句話	dyjh	1648
 接電話	jdhg	1648
-社會穩定	uhwd	1648
 血海	xdhu	1648
 現代社會	xduh	1648
 一千多	yqds	1648
@@ -70968,7 +70955,6 @@ import_tables:
 多米	dsmg	1552
 錢多	qvds	1552
 生活態度	uhtd	1552
-這段話	vdhg	1552
 許多年	xdnv	1552
 下到	xxdv	1552
 一疊	yjds	1552
@@ -71576,7 +71562,7 @@ import_tables:
 轉過身去	vguq	1392
 中華文明	vhwm	1392
 正確認識	vqru	1392
-問題解決	wtjj	1392
+味同嚼蠟	wtjl	1392
 想爲	xuwr	1392
 嚴格遵守	ygzu	1392
 要管	yvgs	1392
@@ -71725,7 +71711,7 @@ import_tables:
 三聲	snuc	1376
 隱藏在	yczo	1376
 不設	bhui	1376
-爆了	bvlr	1376
+爆雷	bvlr	1376
 必須有	bxyz	1376
 不用了	bylr	1376
 不一樣了	byyl	1376
@@ -72686,7 +72672,7 @@ import_tables:
 我應該	wygb	1248
 想不起	xbqg	1248
 也不肯	ybko	1248
-也不至於	ybvy	1248
+一步之遙	ybvy	1248
 一比	yjbg	1248
 安靜了	ajlr	1248
 念起	naqg	1248
@@ -72696,7 +72682,6 @@ import_tables:
 應急預案	yjya	1248
 也愛	ylao	1248
 一絲	ejsj	1247
-一人	ejrs	1246
 妲	dun	1246
 渢	fcd	1244
 棫	yfmh	1238
@@ -72854,6 +72839,7 @@ import_tables:
 亟	jbaa	1220
 酃	lnek	1218
 搖頭	eita	1217
+儲能	imnf	1216
 構成了	gilr	1216
 個毛	gimi	1216
 個球	giqm	1216
@@ -72869,7 +72855,6 @@ import_tables:
 產生於	iuym	1216
 就靠	jokv	1216
 近千	jvqr	1216
-教育培訓	jypx	1216
 僵住	jyvh	1216
 鹿晗	lhhk	1216
 樂呵	lihr	1216
@@ -73434,7 +73419,6 @@ import_tables:
 下午茶	xwiu	1168
 下跳	xxtl	1168
 已完	ygwk	1168
-一個晚上	ygwu	1168
 一攤	yjtn	1168
 依我	yjwi	1168
 咬了咬牙	ylyy	1168
@@ -73607,6 +73591,7 @@ import_tables:
 沒聽見	mtja	1168
 騙他	patl	1168
 同案	tjaj	1168
+乙烷	ygwk	1167
 湟	hbd	1167
 瑭	tww	1166
 踅	xiz	1165
@@ -76563,7 +76548,6 @@ import_tables:
 早啊	zxal	1040
 嬙	qin	1037
 蠣	ltil	1037
-一會	ejhf	1036
 爿	pka	1035
 輅	lhig	1030
 優秀	exxo	1030
@@ -77205,7 +77189,6 @@ import_tables:
 門頭	msta	1024
 柔光	ragw	1024
 柔體	ratg	1024
-蘇轍	save	1024
 天遊	trya	1024
 書聲	uauc	1024
 數出	umia	1024
@@ -77282,7 +77265,6 @@ import_tables:
 回個	hwgi	1008
 好狗	hxgz	1008
 和諧相處	hxxi	1008
-回學校	hxxl	1008
 合作共贏	hzgy	1008
 春節期間	ijqj	1008
 芻狗	ilgz	1008
@@ -77494,7 +77476,6 @@ import_tables:
 驗機	yjjj	1008
 雁門	yjms	1008
 燕尾	yjwj	1008
-一個原因	ygyy	1008
 一股子	ygzj	1008
 也很少	yhux	1008
 一哥	yjgr	1008
@@ -78465,7 +78446,6 @@ import_tables:
 滿格	moge	992
 奈我何	nwhe	992
 噴人	pers	992
-請原諒	qyle	992
 融創	rjie	992
 三折	snve	992
 蛇類	uelf	992
@@ -79063,7 +79043,6 @@ import_tables:
 懵然	myrk	976
 沒有因爲	myyw	976
 美則美矣	mzmy	976
-某隻	mzvg	976
 內環境	nhjw	976
 娘炮	nipv	976
 那組	nizm	976
@@ -79232,6 +79211,7 @@ import_tables:
 指套	vgtv	976
 這個聲音	vguy	976
 築牆	vhqi	976
+鎮魂曲	vhqs	976
 這列	vilq	976
 支管	vjgs	976
 支走	vjzz	976
@@ -80019,6 +79999,7 @@ import_tables:
 爐石	llub	976
 留疤	lmbl	976
 藍皮	lkpb	976
+藍屏	lkpn	976
 劣幣	lqbt	976
 兩包	lubq	976
 迷情	mbqn	976
@@ -80614,7 +80595,6 @@ import_tables:
 太濫	tolj	960
 太遜	toxr	960
 躺屍	tpuj	960
-投入使用	truy	960
 拖尾	tswj	960
 推塔	tttm	960
 趟水	tuuv	960
@@ -83141,7 +83121,6 @@ import_tables:
 理好	lghx	944
 禮車	lgir	944
 醴陵	lgln	944
-理了	lglr	944
 李老	lglx	944
 禮泉	lgqo	944
 理她	lgtl	944
@@ -83274,7 +83253,6 @@ import_tables:
 例檢	ltjp	944
 利樂	ltli	944
 立木	ltmh	944
-立絨	ltrj	944
 力弱	ltrp	944
 隸體	lttg	944
 利通	lttk	944
@@ -85229,6 +85207,7 @@ import_tables:
 挽尊	wozg	944
 完井	wkjw	944
 窩裏	wplg	944
+物品欄	wplk	944
 玩賴	wklo	944
 網慢	wpmj	944
 網盲	wpmw	944
@@ -86611,7 +86590,7 @@ import_tables:
 尾段	wjdc	944
 文登	wsdc	944
 小燈	xldc	944
-越慘	ydco	944
+粵菜	ydco	944
 誘蟲燈	yidc	944
 有段	yzdc	944
 鑽採	zdcu	944
@@ -87186,6 +87165,7 @@ import_tables:
 返券	foqc	944
 返臺	fotd	944
 反着	fovr	944
+反詐	fovi	944
 反洗	foxg	944
 反演	foyo	944
 訪俄	fpee	944
@@ -87298,8 +87278,6 @@ import_tables:
 會改	hfgu	944
 會搞	hfgx	944
 橫溝	hfgx	944
-會還	hfhd	944
-會和	hfhe	944
 花非花	hfhs	944
 會城	hfif	944
 惠城	hfif	944
@@ -87852,7 +87830,6 @@ import_tables:
 偷去	txqf	944
 稅官	ufgd	944
 睡牀	ufib	944
-聖教	ufjl	944
 剩了	uflr	944
 勝了	uflr	944
 水浮蓮	uflv	944
@@ -88722,7 +88699,7 @@ import_tables:
 大宛	diyd	944
 滴鼻	djbb	944
 滴點	djdp	944
-多菌靈	djln	944
+低齡	djln	944
 低領	djlw	944
 地瘠民貧	djmp	944
 低聚物	djwh	944
@@ -90128,7 +90105,7 @@ import_tables:
 咋來	zmld	944
 再跌	zodk	944
 再讀	zodl	944
-在打	zodm	944
+再打	zodm	944
 再短	zods	944
 在當	zodu	944
 再動	zody	944
@@ -90239,6 +90216,7 @@ import_tables:
 湊乎	crha	944
 寸金	crjh	944
 寸許	crxs	944
+入鄉隨俗	rxss	944
 岑鞏	csgn	944
 次奧	ctav	944
 次官	ctgd	944
@@ -90826,8 +90804,6 @@ import_tables:
 寶萊塢	blwh	944
 表位	blwf	944
 扒瞎	blxd	944
-表芯	blxh	944
-巴彥	blyj	944
 表壓	blyl	944
 把愛	bmao	944
 標靶	bmbm	944
@@ -92441,7 +92417,6 @@ import_tables:
 顯現出來	xxil	928
 小學教師	xxju	928
 相沖	xyik	928
-相一致	xyvt	928
 下一頁	xyyi	928
 現在只能	xzvn	928
 應該是個	ygug	928
@@ -94096,6 +94071,7 @@ import_tables:
 猶豫	eayf	853
 蠹	dha	852
 矓	ljol	850
+撞上	veud	850
 禰	mbu	850
 較小	jlxl	849
 田野	tvyl	849
@@ -94604,7 +94580,7 @@ import_tables:
 黑雞	hijj	848
 黑褲	hikh	848
 黑狼	hilw	848
-黑嗎	himl	848
+毫秒	himl	848
 黑喵	himm	848
 黑帽	himv	848
 黑切	hiqk	848
@@ -95803,7 +95779,6 @@ import_tables:
 利歐	ltox	848
 立平	ltpn	848
 立派	ltpo	848
-麗榮	ltrj	848
 利特	ltti	848
 麗婷	lttn	848
 力拓	lttp	848
@@ -96812,7 +96787,6 @@ import_tables:
 七武海	qwhu	848
 慶軍	qwjg	848
 請叫	qwjl	848
-請完假	qwjn	848
 請款	qwks	848
 慶隆	qwlj	848
 慶鈴	qwln	848
@@ -97495,14 +97469,11 @@ import_tables:
 傻魚	umym	848
 刪剪	unjp	848
 山鋁	unls	848
-山美	unmj	848
 珊妮	unnj	848
 山特	unti	848
 少女套	untv	848
 山治	unvt	848
 刪我	unwi	848
-山一	unyj	848
-山友	unyz	848
 陝甘	uogn	848
 腎好	uohx	848
 審車	uoir	848
@@ -97625,7 +97596,7 @@ import_tables:
 室主	utvm	848
 世偉	utwj	848
 視網	utwp	848
-試完	utwk	848
+試玩	utwk	848
 師徒系統	utxt	848
 市盈	utyn	848
 世友	utyz	848
@@ -97693,7 +97664,7 @@ import_tables:
 雙戰	uwvj	848
 雙莊	uwvw	848
 雙效	uwxl	848
-雙嶼	uwys	848
+雙語	uwys	848
 少幹	uxgj	848
 少過	uxgp	848
 說瞎話	uxhg	848
@@ -98293,7 +98264,6 @@ import_tables:
 婉瑩	woyn	848
 外爺	woyr	848
 問曰	woyu	848
-問友	woyz	848
 丸紅	wkhj	848
 網機	wpjj	848
 網間	wpjr	848
@@ -98793,7 +98763,6 @@ import_tables:
 湘女	xyns	848
 相師	xyuj	848
 鄉中	xyvk	848
-玄巖之塔	xyvt	848
 箱型	xyxn	848
 香秀	xyxo	848
 香雪	xyxo	848
@@ -99162,7 +99131,6 @@ import_tables:
 雨瞳	ystj	848
 宇通	ystk	848
 遠通	ystk	848
-雨婷	ystn	848
 雨田	ystv	848
 雨師	ysuj	848
 雨說	ysus	848
@@ -100339,12 +100307,6 @@ import_tables:
 義祠	ytcb	848
 要猜	yvcb	848
 再猜	zocb	848
-換啊	hcal	848
-姐啊	jcal	848
-坑啊	kcal	848
-算啊	scal	848
-生啊	ucal	848
-寫啊	xcal	848
 腰粗	yqca	848
 又粗	yrca	848
 別廢話	bfhg	848
@@ -100808,7 +100770,6 @@ import_tables:
 反補	fobm	848
 反賭	fodm	848
 返到	fodv	848
-份工	fogk	848
 反成	foif	848
 返檢	fojp	848
 返來	fold	848
@@ -101297,7 +101258,7 @@ import_tables:
 妹呀	mfyl	848
 秒怪	mlgf	848
 廟內	mlnf	848
-明去	mnqf	848
+迷你裙	mnqf	848
 謀其政	mqvf	848
 沒犯	mrfj	848
 沒福	mrfl	848
@@ -101852,8 +101813,6 @@ import_tables:
 想醉	xuzf	848
 鹹飯	xvfj	848
 賢妃	xvfi	848
-信發	xvfl	848
-信誠	xvif	848
 虛無法杖	xwfv	848
 下會	xxhf	848
 下成	xxif	848
@@ -102264,10 +102223,8 @@ import_tables:
 經警	jejw	848
 經量	jele	848
 精魄	jepg	848
-晶品	jepx	848
 經七	jeqj	848
 經前	jeqv	848
-晶銳	jerf	848
 囧人	jers	848
 經天	jetr	848
 醬湯	jetu	848
@@ -103769,6 +103726,7 @@ import_tables:
 俊東	jrdk	848
 家潤多	jrds	848
 截單	jsdn	848
+節電	jsda	848
 節地	jsdt	848
 記到	jtdv	848
 精神動力	judl	848
@@ -104039,7 +103997,6 @@ import_tables:
 卻需	qdxh	848
 千堆雪	qdxo	848
 起度	qgdh	848
-起上	qgud	848
 區地	qhdt	848
 七度	qjdh	848
 七代	qjdo	848
@@ -104912,6 +104869,7 @@ import_tables:
 幾串	jgic	848
 聚划算	jhsc	848
 叫錯	jlcp	848
+江郎才盡	jlcj	848
 祭禮殘章	jlcv	848
 叫姐	jljc	848
 交倉	jmcu	848
@@ -105255,7 +105213,7 @@ import_tables:
 魚卷	ymjc	848
 雅琳	ymlc	848
 雅琴	ymqc	848
-魚生	ymuc	848
+餘生	ymuc	848
 永亨	ynhc	848
 顏厝	ykcp	848
 研院	ykyc	848
@@ -107293,7 +107251,6 @@ import_tables:
 縣高	xagq	848
 線差	xaii	848
 現喫	xaij	848
-線廠	xaip	848
 現車	xair	848
 線啦	xall	848
 餡料	xall	848
@@ -107421,6 +107378,7 @@ import_tables:
 不願意	byet	835
 會員	hfeo	833
 輩輩	bfbf	832
+毛渠	miqm	832
 退費	tfff	832
 德福	defl	832
 找到答案	vdda	832
@@ -107778,8 +107736,6 @@ import_tables:
 一閃而逝	yueu	832
 嘖嘖嘖	zzze	832
 大公雞	dgjj	832
-當成一種	diyv	832
-大家都會	djdh	832
 大檢查	djiu	832
 大哭一場	dkyi	832
 獨大	dldi	832
@@ -107831,8 +107787,6 @@ import_tables:
 雙關	uwgd	832
 上一代	uydo	832
 張大嘴巴	vdzb	832
-重要手段	vyud	832
-許多國家	xdgj	832
 俠盜獵車	xdli	832
 新東西	xdxj	832
 相矛盾	xmdr	832
@@ -108415,7 +108369,6 @@ import_tables:
 許多年前	xdnq	816
 宣威	xdwi	816
 新花樣	xhyd	816
-需要知道	xyvd	816
 一大串	ydic	816
 一定沒有	ydmy	816
 有的人說	ydru	816
@@ -108555,7 +108508,7 @@ import_tables:
 玎	dew	802
 侉	kgr	801
 安安分分	aaff	800
-楓富愛	ffao	800
+廢案	ffaj	800
 地方法院	dffy	800
 道德綁架	ddbj	800
 東部地區	dbdq	800
@@ -109517,7 +109470,6 @@ import_tables:
 也不能夠	ybng	800
 有坂深雪	ybux	800
 遠不止	ybvg	800
-要不這樣	ybvy	800
 以便於	ybym	800
 一不做	ybzp	800
 雲南白藥	ynby	800
@@ -110120,9 +110072,7 @@ import_tables:
 差等	iidy	784
 就到這裏	jdvl	784
 決定作用	jdzy	784
-間接地	jjdt	784
 集體活動	jthd	784
-幾天來	jtld	784
 聚衆鬥毆	jvdo	784
 可替代性	ktdx	784
 莫得	mgdr	784
@@ -111598,7 +111548,6 @@ import_tables:
 相呼應	xhye	768
 相吻合	xwhe	768
 雁卿	yjqe	768
-英偉	yewj	768
 約翰梅爾	yhme	768
 伊妹兒	ymeq	768
 易秒英	ymye	768
@@ -111829,7 +111778,6 @@ import_tables:
 支配地位	vpdw	768
 真槍實彈	vqud	768
 中學時代	vxud	768
-這樣說道	vyud	768
 宅在家	vzjd	768
 戊道子	wdzg	768
 無間道	wjdv	768
@@ -111887,6 +111835,8 @@ import_tables:
 曾佩媛	cpyc	768
 曾仁鬱	cryf	768
 刺股	ctgm	768
+催更	ctgc	768
+催更	ctgf	768
 此時此地	cucd	768
 藏身之處	cuvi	768
 纔是一種	cuyv	768
@@ -113150,6 +113100,7 @@ import_tables:
 大爆發	dbfl	736
 很多辦法	hdbf	736
 大不大	dbdi	736
+大不了	dbll	736
 遼東半島	ldbd	736
 說短不短	udbd	736
 冠詞	gccb	736
@@ -113991,7 +113942,6 @@ import_tables:
 萬萬歲	wwsf	736
 妄想症	wxvf	736
 洗髮露	xflh	736
-西方社會	xfuh	736
 消費主義	xfvy	736
 小概率	xglf	736
 新功能	xgnf	736
@@ -114011,6 +113961,7 @@ import_tables:
 揚帆遠航	yfyh	736
 岳父岳母	yfym	736
 有車有房	yiyf	736
+宜嗔宜喜	yiyx	736
 英美法系	ymfx	736
 雲閃付	yufh	736
 有時能	yunf	736
@@ -115611,6 +115562,7 @@ import_tables:
 滿血復活	mxfh	720
 螞蟻金服	myjf	720
 奶粉錢	nfqv	720
+內嵌	nfqa	720
 哪個方面	ngfm	720
 難以發現	nyfx	720
 佩服佩服	pfpf	720
@@ -115918,7 +115870,6 @@ import_tables:
 直屬單位	vudw	720
 珍稀動物	vxdw	720
 專業團隊	vytd	720
-職業上	vyud	720
 萬達廣場	wdgi	720
 五道口	wdkz	720
 望斷天涯	wdty	720
@@ -116018,7 +115969,7 @@ import_tables:
 爭妍	vcyk	720
 未曾謀面	wcmm	720
 我操你媽	wcnm	720
-徐才厚	xchr	720
+寫好	xchr	720
 心存疑慮	xcyl	720
 形參	xncn	720
 一次過	ycgp	720
@@ -117716,7 +117667,6 @@ import_tables:
 請多指教	qdvj	704
 秋刀魚	qdym	704
 起個大早	qgdz	704
-強光手電	qgud	704
 千古一帝	qgyd	704
 取回來	qhld	704
 全單	qodn	704
@@ -118139,10 +118089,8 @@ import_tables:
 兇險無比	xxwb	704
 眼保健操	ybjc	704
 要不起	ybqg	704
-越不容易	ybry	704
 一百週年	ybvn	704
 也不完全	ybwq	704
-又不需要	ybxy	704
 有悲有喜	ybyx	704
 一兵一卒	ybyz	704
 熒光筆	ygbg	704
@@ -118245,7 +118193,7 @@ import_tables:
 巔峯對決	dfdj	688
 多方打聽	dfdt	688
 觸底反彈	idfd	688
-松島楓	sdfc	688
+對錯	dfcp	688
 羊癲瘋	ydfc	688
 第二定律	dedl	688
 打耳洞	dedy	688
@@ -118306,6 +118254,7 @@ import_tables:
 國際米蘭	gjml	688
 感覺那個	gjng	688
 光潔如新	gjrx	688
+工具人	gjrs	688
 國家主義	gjvy	688
 歸咎爲	gjwr	688
 乾淨衛生	gjwu	688
@@ -118457,8 +118406,6 @@ import_tables:
 烘鞋器	hxqt	688
 海鮮市場	hxui	688
 藿香正氣	hxvq	688
-橫下心來	hxxl	688
-還信用卡	hxyk	688
 化學藥物	hxyw	688
 化學作用	hxzy	688
 好友關係	hygx	688
@@ -118665,12 +118612,8 @@ import_tables:
 救心丸	jxwk	688
 幾億個	jygi	688
 節約光榮	jygr	688
-交易截圖	jyjt	688
-交易快照	jykv	688
 剪羊毛	jymi	688
 靜音模式	jymu	688
-就業培訓	jypx	688
-急用錢	jyqv	688
 金曜日	jyrt	688
 金銀銅鐵	jytt	688
 經營商	jyuu	688
@@ -120277,7 +120220,7 @@ import_tables:
 平民憤	pmfo	688
 屏幕上方	pmuf	688
 屏幕下方	pmxf	688
-拍拍胸脯	ppxf	688
+拍拍胸脯	ppxp	688
 普通法系	ptfx	688
 普通羣	ptqf	688
 破曉時分	pxuf	688
@@ -121107,6 +121050,7 @@ import_tables:
 國中生	gvuc	688
 搞衛生	gwuc	688
 好彩頭	hcta	688
+幻痛	hcty	688
 獲此殊榮	hcur	688
 何錯之有	hcvy	688
 何以至此	hyvc	688
@@ -121662,7 +121606,6 @@ import_tables:
 硬不起來	ybql	688
 以表歉意	ybqy	688
 又比如說	ybru	688
-一不注意	ybvy	688
 一般一般	ybyb	688
 要不要緊	ybyj	688
 意不意外	ybyw	688
@@ -122884,6 +122827,9 @@ import_tables:
 異議	ytet	448
 矸	gnu	447
 詎	jfy	447
+意譯	etet	447
+意譯	etyt	447
+意譯	ytet	447
 璺	woj	446
 第一時間	deuj	446
 枋	fumf	446
@@ -123817,7 +123763,7 @@ import_tables:
 鍶	sjjs	262
 癭	ywby	262
 砬	luu	262
-鼉	tlkd	262
+鼉	tlk	262
 嶽	edu	262
 磴	dfud	262
 一併	ejbw	262
@@ -123829,6 +123775,7 @@ import_tables:
 餘額	emee	261
 太陽能	tenf	261
 動用	dyey	261
+顴	qoyv	260
 癤	jkbe	260
 迓	yizy	260
 咬牙切齒	eeqi	260
@@ -123841,7 +123788,6 @@ import_tables:
 咬牙切齒	yeqi	260
 柞	vimv	259
 有意思	eesj	259
-一向	ebxe	259
 實有	ubez	259
 熗	qeh	259
 有意思	eysj	259
@@ -124484,7 +124430,6 @@ import_tables:
 一葉	ejei	194
 一葉	ejyi	194
 一如既往	erjw	194
-引人	exrs	194
 公益	gket	194
 這樣一來	veyl	194
 莊嚴	vwek	194
@@ -125502,6 +125447,7 @@ import_tables:
 退役	tfet	138
 浴	efd	138
 譽	efyx	138
+引以爲戒	yywj	138
 隱隱約約	eeye	138
 隱隱約約	eeyy	138
 隱隱約約	yeey	138
@@ -125543,6 +125489,7 @@ import_tables:
 月明	edmn	137
 爨	cch	137
 複印	fhev	137
+已然	ygrk	137
 因其	ehqj	137
 研究所	ejsl	137
 印刷	evus	137
@@ -125599,6 +125546,7 @@ import_tables:
 遺漏	eblr	135
 戴耳機	dejj	135
 螻蟻	laeg	135
+矢量	ugle	135
 野蠻	elmk	135
 淹死	ensg	135
 原生	eouc	135
@@ -126748,6 +126696,7 @@ import_tables:
 百億	buet	98
 不怎麼樣	bzme	98
 恐怖主義	kbve	98
+開着	kbvr	98
 昂揚	awew	98
 一飲而盡	eeej	97
 雀躍	qded	97
@@ -127889,6 +127838,9 @@ import_tables:
 砟	vmuv	76
 牂	zup	76
 四分之一	sfve	76
+宜嗔宜喜	eiex	76
+宜嗔宜喜	yiex	76
+宜嗔宜喜	eiyx	76
 豔陽	ejew	76
 豔陽	ejyw	76
 殷切	ehqq	76
@@ -130398,9 +130350,9 @@ import_tables:
 意淫	etyc	53
 益友	etyz	53
 揚名	ewmn	53
-夷爲平地	ewpd	53
 洋裝	ewvw	53
 硬性	ewxw	53
+研學	ewxi	53
 引言	exek	53
 引言	exyk	53
 原原本本	eybb	53
@@ -133747,6 +133699,7 @@ import_tables:
 弔唁	dlej	44
 獨遊	dlea	44
 低眉順眼	dmue	44
+打溼	dmuj	44
 第三產業	dsie	44
 大勢已去	dueq	44
 大有裨益	dybe	44
@@ -135266,7 +135219,6 @@ import_tables:
 鹽類	eklf	39
 延壽	ekur	39
 元器件	eqja	39
-韻致	ervt	39
 雅俗共賞	esgu	39
 有所準備	esvb	39
 譯註	etvh	39
@@ -137002,7 +136954,6 @@ import_tables:
 糖原	tweo	35
 聖約翰	uehj	35
 試驗品	uepx	35
-是一位	uewf	35
 山雨欲來	ueyl	35
 手工藝品	ugep	35
 山高路遠	ugle	35
@@ -138080,6 +138031,7 @@ import_tables:
 子醜寅卯	ziem	33
 再一	zoej	33
 作爲一個	zweg	33
+夷爲平地	ewpd	33
 墶	dltd	33
 禘	dtud	33
 大黃魚	dhem	33
@@ -140793,11 +140745,9 @@ import_tables:
 一進	ejjv	24
 一整	ejvy	24
 一顆心	ekxh	24
-也是個	eugi	24
 要靠	evkv	24
 要能	evnf	24
 一直是	evut	24
-一些人	exrs	24
 有希望	exwd	24
 公平正義	gpve	24
 建議您	jenc	24
@@ -140811,7 +140761,6 @@ import_tables:
 做一些	zexk	24
 不言	bhek	24
 楗	jamj	24
-一到	ebdv	23
 鈺	efj	23
 我一定會	wedh	23
 本以爲	bewr	23
@@ -141812,9 +141761,9 @@ import_tables:
 再來一次	zlec	12
 也不肯	ebko	12
 也不怕	ebpi	12
-也不至於	ebve	12
+一步之遙	ebve	12
 一把抓住	ebvv	12
-也不至於	ebvy	12
+一步之遙	ebvy	12
 也不一定	ebyd	12
 行業標準	hebv	12
 這樣吧	vebl	12
@@ -141975,7 +141924,6 @@ import_tables:
 產生於	iuem	12
 常與	iwes	12
 產業園	iyeo	12
-教育培訓	jepx	12
 堺雅人	jers	12
 教育事業	jeue	12
 教育事業	jeuy	12
@@ -142105,7 +142053,7 @@ import_tables:
 閉着眼	bveo	12
 不注意	bvet	12
 就不會有	jbhe	12
-也不至於	ybve	12
+一步之遙	ybve	12
 一定要有	edee	11
 對月	dfed	11
 第一反應	defe	11
@@ -142267,7 +142215,6 @@ import_tables:
 已逝	egut	11
 已收	egux	11
 已完	egwk	11
-一個晚上	egwu	11
 已與	egys	11
 有好多	ehds	11
 憂患意識	eheu	11
@@ -142619,7 +142566,6 @@ import_tables:
 真正原因	vvee	10
 有營養	yeep	10
 嬰幼	yeer	10
-一個原因	ygee	10
 亦應	ytee	10
 越走越遠	yzee	10
 總有一個	zeeg	10
@@ -142754,8 +142700,6 @@ import_tables:
 驗孕	ejyr	10
 一個半	egbj	10
 已畢	egbt	10
-一個原因	egee	10
-一個原因	egey	10
 一個過程	eggi	10
 已改	eggu	10
 應該會	eghf	10
@@ -142774,8 +142718,6 @@ import_tables:
 有關事項	egux	10
 應該知道	egvd	10
 已轉	egvs	10
-一個原因	egye	10
-一個原因	egyy	10
 一股子	egzj	10
 音爆	ehbv	10
 也很少	ehux	10
@@ -143147,8 +143089,6 @@ import_tables:
 也因爲	yewr	10
 又因爲	yewr	10
 有營養	yeyp	10
-一個原因	ygey	10
-一個原因	ygye	10
 眼睛一亮	yjel	10
 又驚又怒	yjen	10
 意見建議	yjje	10
@@ -143313,7 +143253,6 @@ import_tables:
 樣地	eddt	9
 差一點點	iedd	9
 省油的燈	uedd	9
-越慘	edco	9
 一大筆	edbg	9
 漾濞	edbt	9
 一定不要	edby	9
@@ -145188,7 +145127,6 @@ import_tables:
 屁用	ptey	9
 前一個	qegi	9
 親眼看見	qekj	9
-請原諒	qele	9
 親迎	qhen	9
 七音	qjeh	9
 七曜	qjev	9
@@ -145278,7 +145216,6 @@ import_tables:
 停雨	tnes	9
 團友	toez	9
 添衣	trej	9
-投入使用	true	9
 拖影	tsew	9
 脫穎	tsew	9
 條煙	tuen	9
@@ -145422,7 +145359,6 @@ import_tables:
 學與教	xejm	9
 血與淚	xelf	9
 小宇宙	xevr	9
-相一致	xevt	9
 下一頁	xeyi	9
 喜用	xgey	9
 相關人員	xgre	9
@@ -145655,7 +145591,6 @@ import_tables:
 不出意外	biew	9
 北越	bjed	9
 本科畢業	bkbe	9
-巴彥	blej	9
 本來已經	blej	9
 表壓	blel	9
 白鹿原	bleo	9
@@ -147252,7 +147187,7 @@ import_tables:
 雅俗	emsl	8
 雅圖	emtl	8
 雅婷	emtn	8
-魚生	emuc	8
+餘生	emuc	8
 啞舍	emul	8
 於之	emvj	8
 餘之	emvj	8
@@ -147377,6 +147312,7 @@ import_tables:
 顏莊	ekvw	8
 養血	epxd	8
 言謝	ekxq	8
+嚴選	ekxs	8
 養下	epxx	8
 研院	ekyc	8
 炎月	ekyd	8
@@ -147556,7 +147492,6 @@ import_tables:
 雨瞳	estj	8
 宇通	estk	8
 遠通	estk	8
-雨婷	estn	8
 雨田	estv	8
 雨生	esuc	8
 有所收穫	esuh	8
@@ -148767,8 +148702,6 @@ import_tables:
 什麼影響	umex	8
 什麼職業	umve	8
 什麼玩意	umwe	8
-山一	unej	8
-山友	unez	8
 腎陰	uoeh	8
 腎陽	uoew	8
 刷朋友圈	upeq	8
@@ -148785,7 +148718,7 @@ import_tables:
 時之預言	uvey	8
 始終有	uvez	8
 時之預言	uvye	8
-雙嶼	uwes	8
+雙語	uwes	8
 稍微有些	uwex	8
 生物醫藥	uwey	8
 生物醫藥	uwye	8
@@ -148819,7 +148752,6 @@ import_tables:
 莊嚴肅穆	vesm	8
 職業素養	vesy	8
 朱泳騰	vetf	8
-重要手段	veud	8
 支援收割	veug	8
 這樣說來	veul	8
 這一剎那	veun	8
@@ -148934,8 +148866,6 @@ import_tables:
 問也	woel	8
 婉瑩	woen	8
 外爺	woer	8
-問曰	woeu	8
-問友	woez	8
 網優	wpex	8
 完全一致	wqev	8
 完全統一	wqte	8
@@ -148965,8 +148895,6 @@ import_tables:
 下一年	xenv	8
 笑靨如花	xerh	8
 下一任	xero	8
-需要知道	xevd	8
-玄巖之塔	xevt	8
 下一張	xevu	8
 西野翔	xexi	8
 笑意盈盈	xeye	8
@@ -149233,7 +149161,6 @@ import_tables:
 大冶	diel	8
 大盈	dien	8
 大藥	diev	8
-當成一種	diev	8
 大穎	diew	8
 大優	diex	8
 低氧	djep	8
@@ -149823,7 +149750,6 @@ import_tables:
 沿用至今	eevj	7
 有緣無分	eewf	7
 陰陽五行	eewh	7
-英偉	eewj	7
 一夜無眠	eewm	7
 一眼萬年	eewn	7
 有意爲之	eewv	7
@@ -150089,9 +150015,7 @@ import_tables:
 養不起	ebqg	7
 要不起	ebqg	7
 渝北區	ebqh	7
-越不容易	ebre	7
 又比如	ebrl	7
-越不容易	ebry	7
 永不停息	ebtx	7
 永不停歇	ebtx	7
 也不失爲	ebuw	7
@@ -150099,10 +150023,8 @@ import_tables:
 一波未平	ebwp	7
 也不完全	ebwq	7
 一本線	ebxa	7
-又不需要	ebxe	7
 又不喜歡	ebxh	7
 也不相同	ebxt	7
-又不需要	ebxy	7
 永不言敗	ebyb	7
 應不應該	ebyg	7
 一比一	ebyj	7
@@ -151964,8 +151886,6 @@ import_tables:
 只有如此	verc	7
 專業素質	vesv	7
 專業團隊	vetd	7
-職業上	veud	7
-這樣說道	veud	7
 專業術語	veue	7
 這一霎那	veun	7
 至於說	veus	7
@@ -152581,8 +152501,6 @@ import_tables:
 性別差異	xbie	7
 學部委員	xbwe	7
 想不想要	xbxe	7
-越不容易	ybre	7
-又不需要	ybxe	7
 最不容易	zbre	7
 昒	hao	7
 洿	wadk	7
@@ -153415,7 +153333,6 @@ import_tables:
 和它一樣	htye	6
 好這一口	hvek	6
 毫無音訊	hwex	6
-還信用卡	hxek	6
 化學藥物	hxew	6
 化學作用	hxze	6
 紅顏易老	hyel	6
@@ -153452,13 +153369,9 @@ import_tables:
 春雨醫生	iyeu	6
 幾億個	jegi	6
 節約光榮	jegr	6
-交易截圖	jejt	6
-交易快照	jekv	6
 記憶量	jele	6
 剪羊毛	jemi	6
 靜音模式	jemu	6
-就業培訓	jepx	6
-急用錢	jeqv	6
 金曜日	jert	6
 金銀銅鐵	jett	6
 九陽神功	jeug	6
@@ -154379,6 +154292,7 @@ import_tables:
 庤	vtg	2
 屼	whu	2
 泃	jhdj	2
+好人	hxrs	1
 浲	ffdf	1
 鷸	efnk	1
 鬻	efgv	1
@@ -154620,6 +154534,7 @@ import_tables:
 畖	wltg	1
 峗	wruw	1
 瑔	qow	1
+薙	ttc	1
 過審	gpuo	1
 高熵	gquu	1
 光貓	gwmq	1
@@ -160246,7 +160161,7 @@ import_tables:
 纓	yesy	0
 䖌	ethd	0
 讞	ejyx	0
-𪐯	exh	0
+𪐯	exhg	0
 𤟣	enq	0
 𦋯	emsy	0
 縕	egsm	0
@@ -172201,7 +172116,7 @@ import_tables:
 𥀖	zjp	0
 𨥺	hjj	0
 𠿇	xqk	0
-豃	hog	0
+豃	hogg	0
 棝	ghmg	0
 昜	ywow	0
 覫	ppjp	0
@@ -175327,7 +175242,7 @@ import_tables:
 𠷁	qvkq	0
 屴	ltul	0
 鞝	vpg	0
-𦓼	gol	0
+𦓼	golk	0
 刄	rodd	0
 殙	hgdh	0
 𣣋	lnq	0
@@ -180843,7 +180758,7 @@ import_tables:
 䒴	yzcy	0
 𥗊	ipui	0
 𨄗	kuz	0
-𩨻	vmg	0
+𩨻	vmgv	0
 𤸬	ugb	0
 舋	xvjq	0
 𣰻	qmmg	0
@@ -186959,7 +186874,7 @@ import_tables:
 𤛦	jinj	0
 啋	xmkc	0
 鄤	mje	0
-藬	ttc	0
+藬	ttcg	0
 𣹞	vndv	0
 㰞	ijqu	0
 㬡	lnol	0
@@ -187317,7 +187232,7 @@ import_tables:
 猲	xkqh	0
 𤡥	ykqx	0
 𤹎	ymbh	0
-𨾡	huv	0
+𨾡	huvu	0
 𩩥	vugm	0
 㚱	qznq	0
 艒	mgvm	0
@@ -188833,7 +188748,6 @@ import_tables:
 娝	pxn	0
 𧷦	mtbm	0
 𨗞	twzh	0
-薙	ttcv	0
 駞	tlmy	0
 㣥	vtxu	0
 𩿂	mvnm	0
@@ -190253,7 +190167,7 @@ import_tables:
 𧈹	zxid	0
 𨦗	htjh	0
 𥃺	yvow	0
-𥣯	yxh	0
+𥣯	yxhy	0
 㗙	vxki	0
 㑿	vvr	0
 臤	qriy	0
@@ -196358,6 +196272,7 @@ Bilibili	bv
 風格	fg
 幹啥	g
 感覺	gj
+感動	gd
 過來	gl
 過去	gq
 幹什麼	gsm
@@ -196574,7 +196489,15 @@ Ubuntu	ubun	100
 這麼低	vmdj	1
 這麼久
 這麼多
-這麼高
+這麼高	vmgq	1
+這麼高	vmg	1
+哦哦	oo	1
+滾輪	gol	1
+起伏	qgf	1
+很貴	hog	1
+下週	xxv	1
+冷笑話	xlh	1
+才發現	cdfx	1
 這麼嗨
 這麼強
 這麼弱
@@ -196598,6 +196521,8 @@ Windows	wind	1
 不會	bhf	1
 不喜歡	bxh	1
 喫什麼	ijsm	1
+營銷號	exh	1
+營銷號	yxh	1
 什麼問題	smwt	1
 大人物	drw	1
 動捕	dybm	1
@@ -196659,6 +196584,8 @@ Steam	stea	1
 這麼火	vmhl	1
 這麼好	vmhx	1
 這麼忙	vmmw	1
+回收站	huv	1
+物品欄	wpl	1
 肉鴿	rrgr	1
 多少錢	duq	1000
 幾個人	jgr	1000
@@ -196768,7 +196695,8 @@ Steam	stea	1
 太慘了	tcl
 上去	udq
 收割	uxg
-上下左右	uxzy
+上下左右	uxzy	2
+上下左右	uxze	1
 閃閃發光	uufg
 周目	vxmh
 支線	vjx
@@ -198125,7 +198053,7 @@ Fcitx	xqee
 拉斯維加斯	
 兩頭不討好	
 兩頭不是人	
-臨時抱佛腳	
+臨時抱佛腳	lubj	1
 老鼠過街人人喊打	
 龍生九子各不同	
 廬山真面目	
@@ -199193,3 +199121,6 @@ Fcitx	xqee
 泳	endu	1
 泳	yndu	2
 召	vvd	2
+嘗	iwyx	2
+藿	hpcv	2
+膝	xjou	2

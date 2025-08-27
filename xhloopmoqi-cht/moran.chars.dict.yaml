@@ -118210,7 +118210,7 @@ use_preset_vocabulary: false
 𠃟	yE	0	# auto
 𠃡	mO	0	# auto
 𠃡	wJ	0	# auto
-𠃢	sI	0	# auto
+𠃢	sI	0
 𠃤	hL	0	# auto
 𠃧	fW	0	# auto
 𠃬	iZ	0	# auto
@@ -148147,7 +148147,7 @@ use_preset_vocabulary: false
 𮐇	jL	0	# auto
 𮐉	cU	0	# auto
 𮐊	mM	0	# auto
-𮐋	cR	0	# auto
+𮐋	cR	0
 𮐎	zI	0	# auto
 𮐎	zD	0	# auto
 𮐏	dP	0	# auto
@@ -159818,6 +159818,7 @@ use_preset_vocabulary: false
 枠	zA;mu	2
 笹	uI;vu	2
 槇	vF;mb	2
+𰷅	yI	0
 𤚴	fJ	0
 𮯰	aO	0
 𮯰	mF	0

@@ -6813,8 +6813,8 @@
 乄	gd
 久	pd
 久	dd
-乆	ap
-乆	vp
+乆	ar
+乆	vr
 乇	pq
 么	ps
 义	di
@@ -21367,6 +21367,7 @@
 篟	vq
 篠	vt
 篡	vs
+篡	sd
 篢	vg
 篣	vp
 篤	vm
@@ -21425,6 +21426,7 @@
 簐	vr
 簑	vu
 簒	vs
+簒	vm
 簓	vd
 簓	vp
 簔	vu
@@ -22171,6 +22173,7 @@
 纀	sp
 纁	sx
 纂	vs
+纂	sd
 纃	sq
 纄	sp
 纅	sl
@@ -32775,7 +32778,8 @@
 𠃞	ag
 𠃟	cg
 𠃡	yg
-𠃢	pa
+𠃢	ke
+𠃢	aa
 𠃤	pe
 𠃦	yg
 𠃧	ff
@@ -90072,7 +90076,7 @@
 𮐇	ck
 𮐉	ca
 𮐊	cm
-𮐋	mm
+𮐋	cm
 𮐎	co
 𮐏	cu
 𮐐	cg
@@ -94642,6 +94646,8 @@
 𰷃	ub
 𰷄	bq
 𰷄	qb
+𰷅	bk
+𰷅	by
 𰷆	bm
 𰷆	mb
 𰷈	bm

@@ -360,8 +360,8 @@ use_preset_vocabulary: false
 乄	wu;gd	0
 久	jq;pd	506014
 久	jq;dd	506014
-乆	jq;ap	0
-乆	jq;vp	0
+乆	jq;ar	0
+乆	jq;vr	0
 乇	ii;pq	0
 乇	mk;pq	0
 乇	to;pq	0
@@ -18929,6 +18929,7 @@ use_preset_vocabulary: false
 篠	tc;vt	0
 篠	xc;vt	0
 篡	cr;vs	6922
+篡	cr;sd	6922
 篢	gs;vg	0
 篣	ph;vp	0
 篤	du;vm	0
@@ -19000,6 +19001,7 @@ use_preset_vocabulary: false
 簐	nm;vr	0
 簑	so;vu	0
 簒	cr;vs	0
+簒	cr;vm	0
 簓	dc;vd	0
 簓	dc;vp	0
 簔	so;vu	0
@@ -19929,7 +19931,9 @@ use_preset_vocabulary: false
 纀	pu;sp	0
 纁	xp;sx	0
 纂	cr;vs	0
+纂	cr;sd	0
 纂	zr;vs	2790
+纂	zr;sd	2790
 纃	qi;sq	0
 纄	pg;sp	0
 纅	li;sl	0
@@ -71915,7 +71919,8 @@ use_preset_vocabulary: false
 𠃟	ye;cg	0	# auto
 𠃡	mo;yg	0	# auto
 𠃡	wj;yg	0	# auto
-𠃢	si;pa	0	# auto
+𠃢	si;ke	0
+𠃢	si;aa	0
 𠃤	hd;pe	0	# auto
 𠃧	fz;ff	0	# auto
 𠃬	ib;jk	0	# auto
@@ -108706,7 +108711,8 @@ use_preset_vocabulary: false
 𮐇	jd;ck	0	# auto
 𮐉	cu;ca	0	# auto
 𮐊	mm;cm	0	# auto
-𮐋	cr;mm	0	# auto
+𮐋	cr;cm	0
+𮐋	cr;mm	0
 𮐎	zi;co	0	# auto
 𮐎	zl;co	0	# auto
 𮐏	dx;cu	0	# auto
@@ -122141,6 +122147,8 @@ use_preset_vocabulary: false
 枠	za;mz	0
 笹	ui;vu	0
 槇	vf;mv	0
+𰷅	yi;bk	0
+𰷅	yi;by	0
 
 # CJK Ext I
 𤚴	fj;nm	0
