@@ -17,12 +17,12 @@
 | `molong`      | 自然龍     | 自然龍     | -         |
 | `molongkai`   | 自然龍     | 魔然      | -         |
 | `molongmoqi`  | 自然龍     | 墨奇碼     | -         |
-| `morankai`    | 自然雙拼    | 魔然      | -         |
+| `morankai`    | 自然雙拼    | 魔然      | 環形自然      |
 | `xhloopfly`   | 環形鶴     | 小鶴雙形    | -         |
 | `xhloopkai`   | 環形鶴     | 魔然      | 小鶴雙拼      |
 | `xhloopmoqi`  | 環形鶴     | 墨奇碼     | 小鶴雙拼      |
-| `xhupkai`     | 小鶴雙拼    | 魔然      | -         |
-| `xhupmoqi`    | 小鶴雙拼    | 墨奇碼     | -         |
+| `xhupkai`     | 小鶴雙拼    | 魔然      | 環形鶴       |
+| `xhupmoqi`    | 小鶴雙拼    | 墨奇碼     | 環形鶴       |
 | `xhupzrmfast` | 小鶴雙拼    | 自然快手    | -         |
 | `zrloopkai`   | 環形自然    | 魔然      | 自然雙拼      |
 | `zrloopmoqi`  | 環形自然    | 墨奇碼     | -         |
@@ -123,8 +123,6 @@
 <img src="https://github.com/jack2game/rime-molong/assets/16070158/42465986-7691-48f1-be0e-b6a64aff797e">
 
 如果打完了第二個字回頭發現第一個字需要輔助碼，可按`tab`鍵或者`shift`+`tab`快速在音節間跳轉。
-
-或者也可以直接使用`shift`+`字母`將輔助碼加在倒數第二個字。（注意：音碼含有 `yY`的方案無法使用此功能）
 
 在用輔助碼打出一個詞後，這個詞會被自動記憶，以後可不加輔助碼打出。
 
