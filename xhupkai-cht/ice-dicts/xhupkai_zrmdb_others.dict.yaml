@@ -35,8 +35,8 @@ sort: by_weight
 欲說還休	yu;qg uo;yd hr;zh xq;rm
 欲說還休夢已闌	yu;qg uo;yd hd;zh xq;rm mg;cx yi;vg lj;mj
 欲說還休夢已闌	yu;qg uo;yd hr;zh xq;rm mg;cx yi;vg lj;mj
-欲言還止	yu;qg yj;da hd;zh vi;aa
-欲言還止	yu;qg yj;da hr;zh vi;aa
+欲言還止	yu;qg yj;wk hd;zh vi;aa
+欲言還止	yu;qg yj;wk hr;zh vi;aa
 欲迎還拒	yu;qg yk;ze hd;zh ju;fj
 欲迎還拒	yu;qg yk;ze hr;zh ju;fj
 欲語還休	yu;qg yu;yw hd;zh xq;rm
@@ -53,8 +53,8 @@ sort: by_weight
 坐騎	zo;tc ji;mq
 鐵騎	tp;jg qi;mq
 鐵騎	tp;jg ji;mq
-鐵騎突出刀槍鳴	tp;jg qi;mq tu;xq iu;ck dc;gp ql;mc mk;kn
-鐵騎突出刀槍鳴	tp;jg ji;mq tu;xq iu;ck dc;gp ql;mc mk;kn
+鐵騎突出刀槍鳴	tp;jg qi;mq tu;xq iu;aa dc;gp ql;mc mk;kn
+鐵騎突出刀槍鳴	tp;jg ji;mq tu;xq iu;aa dc;gp ql;mc mk;kn
 一騎絕塵	yi;aa qi;mq jt;sb if;tl
 一騎絕塵	yi;aa ji;mq jt;sb if;tl
 一騎當千	yi;aa qi;mq dh;dt qm;pa
@@ -68,10 +68,10 @@ sort: by_weight
 # 「街」的粤语和东北话读音及常见的两种写法
 仆街	pu;rb jp;xg
 仆街	pu;rb gd;xg
-撲街	pu;fd jp;xg
-撲街	pu;fd gd;xg
-撲街仔	pu;fd jp;xg zd;rz
-撲街仔	pu;fd gd;xg zd;rz
+撲街	pu;fp jp;xg
+撲街	pu;fp gd;xg
+撲街仔	pu;fp jp;xg zd;rz
+撲街仔	pu;fp gd;xg zd;rz
 仆街仔	pu;rb jp;xg zd;rz
 仆街仔	pu;rb gd;xg zd;rz
 街溜子	jp;xg lq;dl zi;aa
@@ -147,10 +147,10 @@ sort: by_weight
 木訥	mu;ad na;yn
 龜裂	jy;da lp;yl
 龜裂	gv;da lp;yl
-獨樂樂	du;qi yt;bm le;bm
-獨樂樂	du;qi le;bm le;bm
-衆樂樂	vs;xd yt;bm le;bm
-衆樂樂	vs;xd le;bm le;bm
+獨樂樂	du;qu yt;my le;my
+獨樂樂	du;qu le;my le;my
+衆樂樂	vs;xd yt;my le;my
+衆樂樂	vs;xd le;my le;my
 蕁麻	qm;cx ma;gl
 蕁麻	xy;cx ma;gl
 蕁麻疹	xy;cx ma;gl vf;bp
@@ -177,8 +177,8 @@ sort: by_weight
 鴨綠江	ya;nj lv;sl jl;dg
 大腹便便	da;ad fu;of pm;rg pm;rg
 大腹便便	da;ad fu;of bm;rg bm;rg
-卡脖子	qx;bx bo;ob zi;aa
-卡脖子	ka;bx bo;ob zi;aa
+卡脖子	qx;ub bo;ob zi;aa
+卡脖子	ka;ub bo;ob zi;aa
 吱聲	zi;kv ug;eq
 吱聲	vi;kv ug;eq
 摻和	ij;fc ho;hk
@@ -199,8 +199,8 @@ sort: by_weight
 發酵	fa;du xn;yx
 酵母菌	jn;yx mu;vd jy;ch
 酵母菌	xn;yx mu;vd jy;ch
-殷紅	yj;pu hs;sg
-殷紅	yb;pu hs;sg
+殷紅	yj;uu hs;sg
+殷紅	yb;uu hs;sg
 暖和	nr;oy ho;hk
 暖和	nr;oy he;hk
 模棱兩可	mo;mm lg;ml ll;ar ke;dk
@@ -273,8 +273,8 @@ sort: by_weight
 氙氣大燈	uj;qu qi;qm da;ad dg;hd
 氙氣手電筒	xm;qu qi;qm uz;pa dm;yd ts;vt
 氙氣手電筒	uj;qu qi;qm uz;pa dm;yd ts;vt
-應該	yk;gx gd;yh
-應該	yb;gx gd;yh
+應該	yk;xv gd;yh
+應該	yb;xv gd;yh
 粘貼	vj;mv tp;bv
 粘貼	nm;mv tp;bv
 粘一粘	vj;mv yi;aa vj;mv
@@ -305,8 +305,8 @@ sort: by_weight
 溫庭筠	wf;dm tk;gt jy;vj
 朱祐樘	vu;pw yz;uy ig;mt
 朱祐樘	vu;pw yz;uy th;mt
-關卡	gr;ma qx;bx
-關卡	gr;ma ka;bx	1000
+關卡	gr;ma qx;ub
+關卡	gr;ma ka;ub	1000
 三昧真火	sj;aa mw;ow vf;uj ho;dd
 三昧真火	sj;aa ww;ow vf;uj ho;dd
 青蘋之末	qk;of pb;cp vi;dd mo;ad
@@ -327,8 +327,8 @@ sort: by_weight
 閾值	fa;mh vi;rv
 潟湖	xi;dh hu;dh
 潟湖	xp;dh hu;dh
-果脯	go;ad fu;of
-果脯	go;ad pu;of
+果脯	go;tm fu;of
+果脯	go;tm pu;of
 肉脯	rz;ad fu;of
 肉脯	rz;ad pu;of
 餄餎	he;uh le;ug
@@ -373,16 +373,16 @@ sort: by_weight
 剖宮產	pc;dk gs;bl ij;wu
 金匱	jb;ra gv;kg
 金匱	jb;ra kv;kg
-清平樂	qk;dq pk;aa yt;bm
-清平樂	qk;dq pk;aa le;bm
+清平樂	qk;dq pk;aa yt;my
+清平樂	qk;dq pk;aa le;my
 踏莎行	ta;zt so;cu xk;xd
 踏莎行	ta;zt ua;cu xk;xd
 莎草	so;cu cc;cz
 莎草	ua;cu cc;cz
 杉木	ua;mp mu;ad
 杉木	uj;mp mu;ad
-道在屎溺	dc;zu zd;ta ui;um nn;dr
-道在屎溺	dc;zu zd;ta ui;um ni;dr
+道在屎溺	dc;zu zd;ut ui;um nn;dr
+道在屎溺	dc;zu zd;ut ui;um ni;dr
 甑糕	zg;wc gc;mg
 甑糕	jk;wc gc;mg
 ### 错字
@@ -405,7 +405,7 @@ sort: by_weight
 湊活	cz;dz ho;du
 巨惠	ju;kk hv;xh
 鉅惠	ju;jj hv;xh
-摩羯座	mo;mu jp;yh zo;gz
+摩羯座	mo;um jp;yh zo;gz
 魔蠍座	mo;gm xp;ix zo;gz
 比薩	bi;bb sa;ci
 披薩	pi;fp sa;ci
@@ -483,7 +483,7 @@ sort: by_weight
 兩個卄	ll;ar ge;rg nm;aa
 两个虫
 两个虎
-兩個龍	ll;ar ge;rg ls;dg
+兩個龍	ll;ar ge;rg ls;lg
 兩個馬	ll;ar ge;rg ma;ah
 两个犬
 两个入
@@ -531,7 +531,7 @@ sort: by_weight
 两个竞
 两个兄
 兩個見	ll;ar ge;rg jm;oe
-兩個貝	ll;ar ge;rg bw;ad
+兩個貝	ll;ar ge;rg bw;ob
 两个辛
 两个瓜
 两个呆
@@ -635,7 +635,7 @@ sort: by_weight
 三个马
 三個魚	sj;aa ge;rg yu;dh
 三个鹿
-三個龍	sj;aa ge;rg ls;dg
+三個龍	sj;aa ge;rg ls;lg
 三个个
 三個丶	sj;aa ge;rg vu;dd
 三個丶	sj;aa ge;rg dm;dd
@@ -757,5 +757,5 @@ sort: by_weight
 四个雷
 四個雲	si;aa ge;rg yy;yy
 四個興	si;aa ge;rg xk;ba
-四個龍	si;aa ge;rg ls;dg
+四個龍	si;aa ge;rg ls;lg
 四个土

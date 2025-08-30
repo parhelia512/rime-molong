@@ -35,8 +35,8 @@ sort: by_weight
 欲说还休	yu;qg uo;yd hr;zb xq;rm
 欲说还休梦已阑	yu;qg uo;yd hd;zb xq;rm mg;mx yi;vg lj;mj
 欲说还休梦已阑	yu;qg uo;yd hr;zb xq;rm mg;mx yi;vg lj;mj
-欲言还止	yu;qg yj;da hd;zb vi;aa
-欲言还止	yu;qg yj;da hr;zb vi;aa
+欲言还止	yu;qg yj;wk hd;zb vi;aa
+欲言还止	yu;qg yj;wk hr;zb vi;aa
 欲迎还拒	yu;qg yk;ze hd;zb ju;fj
 欲迎还拒	yu;qg yk;ze hr;zb ju;fj
 欲语还休	yu;qg yu;yw hd;zb xq;rm
@@ -53,8 +53,8 @@ sort: by_weight
 坐骑	zo;tc ji;mq
 铁骑	tp;ju qi;mq
 铁骑	tp;ju ji;mq
-铁骑突出刀枪鸣	tp;ju qi;mq tu;xq iu;ck dc;gp ql;mc mk;kn
-铁骑突出刀枪鸣	tp;ju ji;mq tu;xq iu;ck dc;gp ql;mc mk;kn
+铁骑突出刀枪鸣	tp;ju qi;mq tu;xq iu;aa dc;gp ql;mc mk;kn
+铁骑突出刀枪鸣	tp;ju ji;mq tu;xq iu;aa dc;gp ql;mc mk;kn
 一骑绝尘	yi;aa qi;mq jt;ss if;tx
 一骑绝尘	yi;aa ji;mq jt;ss if;tx
 一骑当千	yi;aa qi;mq dh;xx qm;pa
@@ -177,8 +177,8 @@ sort: by_weight
 鸭绿江	ya;nj lv;sl jl;dg
 大腹便便	da;ad fu;of pm;rg pm;rg
 大腹便便	da;ad fu;of bm;rg bm;rg
-卡脖子	qx;bx bo;ob zi;aa
-卡脖子	ka;bx bo;ob zi;aa
+卡脖子	qx;ub bo;ob zi;aa
+卡脖子	ka;ub bo;ob zi;aa
 吱声	zi;kv ug;um
 吱声	vi;kv ug;um
 掺和	ij;fc ho;hk
@@ -199,8 +199,8 @@ sort: by_weight
 发酵	fa;ay xn;yx
 酵母菌	jn;yx mu;vd jy;ch
 酵母菌	xn;yx mu;vd jy;ch
-殷红	yj;pu hs;sg
-殷红	yb;pu hs;sg
+殷红	yj;uu hs;sg
+殷红	yb;uu hs;sg
 暖和	nr;oy ho;hk
 暖和	nr;oy he;hk
 模棱两可	mo;mm lg;ml ll;ad ke;dk
@@ -305,8 +305,8 @@ sort: by_weight
 温庭筠	wf;dm tk;gt jy;vj
 朱祐樘	vu;pw yz;uy ig;mt
 朱祐樘	vu;pw yz;uy th;mt
-关卡	gr;qd qx;bx
-关卡	gr;qd ka;bx	1000
+关卡	gr;qd qx;ub
+关卡	gr;qd ka;ub	1000
 三昧真火	sj;aa mw;ow vf;uj ho;dd
 三昧真火	sj;aa ww;ow vf;uj ho;dd
 青𬞟之末	qk;of pb;cp vi;dd mo;ad
@@ -327,8 +327,8 @@ sort: by_weight
 阈值	fa;mh vi;rv
 潟湖	xi;dh hu;dh
 潟湖	xp;dh hu;dh
-果脯	go;ad fu;of
-果脯	go;ad pu;of
+果脯	go;tm fu;of
+果脯	go;tm pu;of
 肉脯	rz;ad fu;of
 肉脯	rz;ad pu;of
 饸饹	he;uh le;ug
@@ -381,8 +381,8 @@ sort: by_weight
 莎草	ua;cu cc;cz
 杉木	ua;mp mu;ad
 杉木	uj;mp mu;ad
-道在屎溺	dc;zu zd;ta ui;um nn;dr
-道在屎溺	dc;zu zd;ta ui;um ni;dr
+道在屎溺	dc;zu zd;ut ui;um nn;dr
+道在屎溺	dc;zu zd;ut ui;um ni;dr
 甑糕	zg;wc gc;mg
 甑糕	jk;wc gc;mg
 ### 错字
@@ -405,7 +405,7 @@ sort: by_weight
 凑活	cz;dz ho;du
 巨惠	ju;kk hv;xh
 钜惠	ju;jj hv;xh
-摩羯座	mo;mu jp;yh zo;gz
+摩羯座	mo;um jp;yh zo;gz
 魔蝎座	mo;gm xp;ih zo;gz
 比萨	bi;bb sa;ci
 披萨	pi;fp sa;ci

@@ -18355,7 +18355,7 @@
 藍	lj	8584
 藎	jb	553
 藏	ch;cw	2781
-藏	zh;cw	785
+藏	zh;cw	2781
 藐	mn;cp	625
 藑	qs	244
 藒	ai	437
@@ -27935,6 +27935,7 @@
 乂	pp;pd	0
 乊	pp	0
 乚	pp	0
+𠃌	pp	0
 乛	pp	0
 𠂤	pp	0
 亅	pp	0
@@ -28298,7 +28299,7 @@
 㔱	yu	0	# auto
 㔳	gv	0	# auto
 㔴	yi	0	# auto
-㔵	xr	0	# auto
+㔵	xr	0
 㔶	gj	0	# auto
 㔶	gs	0	# auto
 㔷	lz	0	# auto
@@ -28747,7 +28748,7 @@
 㜍	th	0	# auto
 㜎	xi	0	# auto
 㜏	yy	0	# auto
-㜐	uu	0	# auto
+㜐	uu	0
 㜑	fu	0	# auto
 㜒	yi	0	# auto
 㜓	da	0	# auto
@@ -29374,8 +29375,8 @@
 㦌	xu	0	# auto
 㦍	ee	0	# auto
 㦎	ho	0	# auto
-㦏	sy	0	# auto
-㦏	xr	0	# auto
+㦏	sy	0
+㦏	xr	0
 㦐	ni	0	# auto
 㦑	hj	0	# auto
 㦑	xm	0	# auto
@@ -30162,7 +30163,7 @@
 㲈	tc	0	# auto
 㲈	uc	0	# auto
 㲉	qt	0
-㲊	rv	0	# auto
+㲊	rv	0
 㲌	ng	0	# auto
 㲍	vi	0	# auto
 㲎	lz	0	# auto
@@ -30483,7 +30484,7 @@
 㷴	li	0	# auto
 㷵	mo	0	# auto
 㷶	bw	0	# auto
-㷷	jr	0	# auto
+㷷	jr	0
 㷸	dp	0	# auto
 㷹	uc	0	# auto
 㷹	vc	0	# auto
@@ -31933,7 +31934,7 @@
 䍷	ww	0	# auto
 䍸	bo	0	# auto
 䍺	hr	0	# auto
-䍻	xr	0	# auto
+䍻	xr	0
 䍼	cj	0	# auto
 䍼	zj	0	# auto
 䍽	li	0	# auto
@@ -34663,8 +34664,8 @@
 䶏	ti	0	# auto
 䶐	hv	0	# auto
 䶐	wd	0	# auto
-䶒	qi	0	# auto
-䶓	ji	0	# auto
+䶒	qi	0
+䶓	ji	0
 䶔	ii	0	# auto
 䶕	ba	0	# auto
 䶖	jb	0	# auto
@@ -39202,7 +39203,6 @@
 𤅊	yj	0	# auto
 𤅋	dz	0	# auto
 𤅎	mj	0	# auto
-𤅐	gs	0	# auto
 𤅑	rh	0	# auto
 𤅣	mf	0	# auto
 𤅱	gu	0	# auto
@@ -43162,7 +43162,7 @@
 𧕯	li	0	# auto
 𧕯	ui	0	# auto
 𧕱	xx	0	# auto
-𧕲	jr	0	# auto
+𧕲	jr	0
 𧕴	nj	0	# auto
 𧕵	mi	0	# auto
 𧕸	hl	0	# auto
@@ -44693,9 +44693,9 @@
 𨞑	wg	0	# auto
 𨞒	xi	0	# auto
 𨞒	zo	0	# auto
-𨞓	yu	0	# auto
-𨞕	iu	0	# auto
-𨞕	vu	0	# auto
+𨞓	yu	0
+𨞕	iu	0
+𨞕	vu	0
 𨞗	qy	0	# auto
 𨞘	xi	0	# auto
 𨞙	qu	0	# auto
@@ -55150,7 +55150,7 @@
 𬦓	zs	0	# auto
 𤨄	su	0	# auto
 𪱾	ni	0	# auto
-𠙦	qs	0	# auto
+𠙦	qs	0
 𪜹	yu	0	# auto
 𧤒	ne	0	# auto
 𦂢	bi	0	# auto
@@ -56355,6 +56355,7 @@
 𫴓	ho	0	# auto
 𠤨	hj	0	# auto
 𠳠	vh	0	# auto
+𤅐	gs	0	# auto
 𠔷	ih	0	# auto
 𨑿	zz	0	# auto
 𡾊	lw	0	# auto
@@ -56546,7 +56547,7 @@
 𬹔	qm	0	# auto
 𡉞	hs	0	# auto
 𨢋	hu	0	# auto
-𠏻	rv	0	# auto
+𠏻	rv	0
 𥮬	xi	0	# auto
 𥷊	ln	0	# auto
 𫫆	vi	0	# auto
@@ -60631,7 +60632,7 @@
 𠟝	jp	0	# auto
 𠟞	nc	0	# auto
 𠟟	fa	0	# auto
-𠟠	jm	0	# auto
+𠟠	jm	0
 𠟢	xm	0	# auto
 𠟫	li	0	# auto
 𠟬	ix	0	# auto
@@ -61178,7 +61179,7 @@
 𠭂	jn	0	# auto
 𠭃	qm	0	# auto
 𠭃	xm	0	# auto
-𠭇	mu	0	# auto
+𠭇	mu	0
 𠭊	jx	0	# auto
 𠭊	xx	0	# auto
 𠭌	sh	0	# auto
@@ -61214,7 +61215,7 @@
 𠮁	ua	0	# auto
 𠮄	vo	0	# auto
 𠮇	si	0	# auto
-𠮉	rv	0	# auto
+𠮉	rv	0
 𠮋	cu	0	# auto
 𠮋	qu	0	# auto
 𠮍	sz	0	# auto
@@ -62288,7 +62289,7 @@
 𡓚	kf	0	# auto
 𡓛	he	0	# auto
 𡓜	ql	0	# auto
-𡓝	rv	0	# auto
+𡓝	rv	0
 𡓤	kk	0	# auto
 𡓤	tv	0	# auto
 𡓪	mo	0	# auto
@@ -67063,7 +67064,7 @@
 𣢸	kr	0	# auto
 𣢽	qm	0	# auto
 𣢾	kr	0	# auto
-𣢿	mu	0	# auto
+𣢿	mu	0
 𣣂	pz	0	# auto
 𣣂	pw	0	# auto
 𣣅	yk	0	# auto
@@ -68549,9 +68550,9 @@
 𤍞	ye	0	# auto
 𤍡	yu	0	# auto
 𤍢	ii	0	# auto
-𤍧	yk	0	# auto
+𤍧	yk	0
 𤍨	uu	0	# auto
-𤍩	yk	0	# auto
+𤍩	yk	0
 𤍫	di	0	# auto
 𤍫	ii	0	# auto
 𤍫	jn	0	# auto
@@ -69669,7 +69670,7 @@
 𤱂	mh	0	# auto
 𤱄	qr	0	# auto
 𤱆	na	0	# auto
-𤱈	mu	0	# auto
+𤱈	mu	0
 𤱉	gv	0	# auto
 𤱊	lq	0	# auto
 𤱏	vf	0	# auto
@@ -69677,7 +69678,7 @@
 𤱒	lq	0	# auto
 𤱒	lu	0	# auto
 𤱓	uf	0	# auto
-𤱔	mu	0	# auto
+𤱔	mu	0
 𤱞	dm	0	# auto
 𤱞	tm	0	# auto
 𤱢	de	0	# auto
@@ -69694,7 +69695,7 @@
 𤱱	zd	0	# auto
 𤱲	gv	0	# auto
 𤱳	gl	0	# auto
-𤱶	qr	0	# auto
+𤱶	qr	0
 𤱼	vf	0	# auto
 𤲃	bi	0	# auto
 𤲄	mw	0	# auto
@@ -75055,7 +75056,7 @@
 𧓂	xp	0	# auto
 𧓃	xp	0	# auto
 𧓈	xi	0	# auto
-𧓉	qi	0	# auto
+𧓉	qi	0
 𧓊	fw	0	# auto
 𧓌	yk	0	# auto
 𧓍	pb	0	# auto
@@ -75132,7 +75133,7 @@
 𧕜	yr	0	# auto
 𧕠	vs	0	# auto
 𧕢	yi	0	# auto
-𧕣	jr	0	# auto
+𧕣	jr	0
 𧕪	ye	0	# auto
 𧕫	lw	0	# auto
 𧕰	fu	0	# auto
@@ -89311,7 +89312,7 @@
 𮊦	ql	0	# auto
 𮊩	ug	0	# auto
 𮊪	yh	0	# auto
-𮊫	yi	0	# auto
+𮊫	yi	0
 𮊬	yu	0	# auto
 𮊭	di	0	# auto
 𮊰	gg	0	# auto
