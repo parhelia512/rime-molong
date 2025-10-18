@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-08-10"
+version: "2025-10-01"
 sort: by_weight
 ...
 ### 按需启用
@@ -3479,10 +3479,10 @@ sort: by_weight
 聩	kv;ev	1284
 跬	kv;zt	289
 愦	kv;xv	225
-悝	kv;xo	209
 蝰	kv;id	178
 暌	kv;od	172
 蒉	kv;cv	159
+悝	kv;xo	109
 櫆	kv;;	41
 骙	kv;;	29
 喹	kv;kd	9
@@ -3696,6 +3696,7 @@ sort: by_weight
 鹂	li;hn	2319
 蠡	li;vi	2200
 栎	li;ap	1981
+锂	li;jo	1935
 唳	li;kh	1892
 喱	li;ki	1783
 罹	li;sx	1763
@@ -3722,8 +3723,8 @@ sort: by_weight
 疠	li;bw	201
 粝	li;mi	199
 嫠	li;hi	195
-锂	li;jo	193
 篥	li;vx	148
+悝	li;xo	99
 轹	li;ip	72
 鲡	li;yh	67
 疬	li;bi	57
@@ -4649,8 +4650,8 @@ sort: by_weight
 讴	ou;yk	753
 沤	ou;dk	528
 耦	ou;lo	443
+𬉼	ou;;	5
 𠙶	ou;;	0
-𬉼	ou;;	0
 怕	pa;xb	1114820
 爬	pa;pb	183266
 帕	pa;jb	75768
@@ -8195,6 +8196,7 @@ sort: by_weight
 瑧	vf;;	117
 畛	vf;tr	113
 胗	vf;or	108
+瑱	vf;;	65
 鬒	vf;;	17
 袗	vf;;	15
 葴	vf;;	6

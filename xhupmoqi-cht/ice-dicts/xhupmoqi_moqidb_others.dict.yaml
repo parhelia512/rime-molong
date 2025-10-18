@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-06-10"
+version: "2025-10-01"
 sort: by_weight
 ...
 ##### 容错词
@@ -381,8 +381,14 @@ sort: by_weight
 莎草	ua;cu cc;cu
 杉木	ua;mp mu;ur
 杉木	uj;mp mu;ur
+李悝	li;mz kv;xl
+李悝	li;mz li;xl
+跬步	kv;zt bu;vu
+跬步	gv;zt bu;vu
 道在屎溺	dc;zz zd;ut ui;um nn;dg
 道在屎溺	dc;zz zd;ut ui;um ni;dg
+暴殄天物	bc;ou tm;dp tm;ad wu;nw
+暴殄天物	bc;ou lm;dp tm;ad wu;nw
 甑糕	zg;bw gc;mh
 甑糕	jk;bw gc;mh
 ### 错字
