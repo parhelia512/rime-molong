@@ -9,7 +9,7 @@ rm -rf xhupkai-chs
 rm -rf xhupkai-cht
 
 # 生成繁體
-cp -a ./rime-moran/. ./xhupkai-cht
+cp -a ./rime-moran-cht/. ./xhupkai-cht
 
 rm -rf ./xhupkai-cht/.git
 rm -rf ./xhupkai-cht/.gitignore
@@ -25,13 +25,16 @@ cp ./rime-moran/tools/data/zrmdb.txt ./tools-additional
 sed -i 's/ /\t/g' ./tools-additional/zrmdb.txt
 
 # 生成簡體
-cd ./xhupkai-cht/
-sed -i "s/^git archive HEAD -o archive.tar/tar -cvf archive.tar .\//g" ./make_simp_dist.sh
-sed -i "s/^cp 下载与安装说明/# cp 下载与安装说明/g" ./make_simp_dist.sh
-sed -i "s/^sedi 's\/MORAN_VARIANT\/简体\/'/# sedi 's\/MORAN_VARIANT\/简体\/'/g" ./make_simp_dist.sh
-sed -i 's/^7z a.*/cp -a .\/dist\/. ..\/xhupkai-chs/g' ./make_simp_dist.sh
-bash -x ./make_simp_dist.sh
-cd ..
+cp -a ./rime-moran-chs/. ./xhupkai-chs
+
+rm -rf ./xhupkai-chs/.git
+rm -rf ./xhupkai-chs/.gitignore
+rm -rf ./xhupkai-chs/README.md
+rm -rf ./xhupkai-chs/README-en.md
+rm -rf ./xhupkai-chs/.github/
+perl -CSAD -i -pe 's/(^.*ZRM-SPECIFIC)/# $1/' ./xhupkai-chs/moran.yaml
+perl -0777 -i -pe 's/(  user_sentence_top:)\n(    __append:)\n(      __patch:)/$1\n# $2\n# $3/' ./xhupkai-chs/moran.yaml
+# mv ./xhupkai-chs/punctuation.yaml ./schema
 
 # 轉換詞庫
 cd ./tools-additional

@@ -52,6 +52,18 @@ if [ "$#" -gt 1 ]; then
 else
 	bash make_simpdict.sh 2>&1 | sed 's/^/make_simpdict: /'
 
+	rm -rf rime-moran-cht
+	rm -rf rime-moran-chs
+
+	cd ./rime-moran/
+	make all
+	make dist
+	mv dist/ ../rime-moran-cht/
+	make dist
+	./make_simp_dist.sh
+	mv dist/ ../rime-moran-chs/
+	cd ..
+
 	bash make_molong.sh 2>&1 | sed 's/^/make_molong: /'
 	bash make_molongkai.sh 2>&1 | sed 's/^/make_molongkai: /'
 	bash make_molongmoqi.sh 2>&1 | sed 's/^/make_molongmoqi: /'
