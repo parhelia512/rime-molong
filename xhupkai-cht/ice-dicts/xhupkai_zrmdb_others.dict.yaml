@@ -105,8 +105,8 @@ sort: by_weight
 喫比薩	ii;kq pi;bb sa;ci
 說服	uo;yd fu;oy
 說服	uv;yd fu;oy
-道行	dc;zu hg;xd
-道行	dc;zu hh;xd
+道行	dc;zu hg;xi
+道行	dc;zu hh;xi
 模樣	mu;mm yh;my
 模樣	mo;mm yh;my
 有模有樣	yz;ou mu;mm yz;ou yh;my
@@ -191,8 +191,8 @@ sort: by_weight
 螺螄粉	lo;il ui;iu ff;mf
 調換	dn;yv hr;fh
 調換	tn;yv hr;fh
-太行山	td;dd hh;xd uj;aa
-太行山	td;dd xk;xd uj;aa
+太行山	td;dd hh;xi uj;aa
+太行山	td;dd xk;xi uj;aa
 歇斯底里	xp;qh si;jq di;gd li;aa
 歇斯底里	jp;qh si;jq di;gd li;aa
 發酵	fa;du jn;yx
@@ -375,8 +375,8 @@ sort: by_weight
 金匱	jb;ra kv;kg
 清平樂	qk;dq pk;aa yt;my
 清平樂	qk;dq pk;aa le;my
-踏莎行	ta;zt so;cu xk;xd
-踏莎行	ta;zt ua;cu xk;xd
+踏莎行	ta;zt so;cu xk;xi
+踏莎行	ta;zt ua;cu xk;xi
 莎草	so;cu cc;cz
 莎草	ua;cu cc;cz
 杉木	ua;mp mu;ad
@@ -495,7 +495,7 @@ sort: by_weight
 两个入
 两个习
 兩個卪	ll;ar ge;rg jp;ed
-兩個㔾	ll;ar ge;rg jp;aa
+兩個㔾	ll;ar ge;rg jp;gg
 两个几
 两个乙
 两个夫
@@ -566,7 +566,7 @@ sort: by_weight
 两个豕
 兩個𠂢	ll;ar ge;rg pd;pp
 兩個畐	ll;ar ge;rg fu;at
-兩個㣇	ll;ar ge;rg yi;jj
+兩個㣇	ll;ar ge;rg yi;jp
 两个邑
 兩個堯	ll;ar ge;rg yc;tw
 两个秉
@@ -656,7 +656,7 @@ sort: by_weight
 三個𠙽	sj;aa ge;rg kk;ku
 三個𠧪	sj;aa ge;rg tn;br
 三個𠧪	sj;aa ge;rg yz;br
-三個㔾	sj;aa ge;rg jp;aa
+三個㔾	sj;aa ge;rg jp;gg
 三個厡	sj;aa ge;rg yr;iq
 三个可
 三个因

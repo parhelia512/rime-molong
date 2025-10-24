@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20240616"
+version: "20251018"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -9155,6 +9155,75 @@ columns:
 霸王茶姬	10
 茶姬	1
 遇事不決	1
+摻入	20
+羼入	10
+寄己	10
+並發隊列	100
+打鬥雲	1
+閃傳	100
+教資	100
+叶音	100	xx;ku yn;lo
+下播	100
+上播	100
+主包	100
+紅尾水鴝	10
+宏偉水渠	0
+肥啾	100
+龜男	10
+預載	100
+膠佬	100
+淤堵	100
+格羅滕迪克	100
+歐耶	100
+油潑	100
+乾拌	100
+前肘
+後肘
+後蹄
+血脖
+干祿	1
+干祿字書	100
+智駕	500
+亞比	10
+古着	100
+盯鞋
+瞪鞋
+數搖
+銳舞
+韃靼利亞
+碣石
+文能提筆安天下
+武能上馬定乾坤
+厄加勒斯
+科里奧利
+科里奧利力
+達朗貝爾
+達朗貝爾力
+呂薩克
+薩伐爾
+格蘭陰性
+趕得上
+星象館
+淇淋
+麥淇淋
+聞弦歌
+聞弦音
+知雅意
+聞弦歌而知雅意
+聞弦音而知雅意
+睹遠物
+知情意
+睹遠物而知情意
+回坑
+核詭
+核心詭計
+時間詭計
+空間詭計
+顏色詭計
+隱藏詭計
+多重詭計
+身份置換
+分飾身份
 
 # Mini Lyre Dict
 # https://github.com/rimeinn/Lyre/commit/c020d23d334aec77a59b1d5a5b3bcc8c07c86bd0
@@ -9336,8 +9405,9 @@ columns:
 附點
 附點四分音符
 附點音符
-復調
-復調音樂
+復調	1
+複調	100
+複調音樂
 複合音
 複音
 富特文格勒
@@ -11785,7 +11855,7 @@ MIDI鍵盤	1	midi jm;jj pj;mb
 全藏
 全鑑
 八乙女
-八兒匕
+八儿匕
 八口
 八坂
 八宮
@@ -24307,6 +24377,8 @@ T恤	100	ti xu;xx
 up主	100	up vu;dw
 QQ羣	100	QQ qp;yj
 QQ羣	100	qq qp;yj
+QQ號	100	QQ hk;hk
+QQ號	100	qq hk;hk
 高ping	100	gk;wk ping
 高ping	100	gk;dk ping
 高ping	100	gk;wk py
@@ -24319,6 +24391,7 @@ K歌	10	kz ge;qg
 卡拉OK	10	ka;ux la;fl ou kz
 OK	10	OK
 OK	10	ou kz
+CoCo都可	10	coco du;ev ke;dk
 
 # 整句可用的無理碼
 幾	1	jo;yd
