@@ -245,7 +245,7 @@ cp moran.schema.yaml xhupkai.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhupkai/g" ./xhupkai.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhupkai/g" ./xhupkai.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupkai.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhupkai_fixed/g" ./xhupkai.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhupkai_sentence/g" ./xhupkai.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhupkai.schema.yaml
@@ -268,7 +268,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhupkai_bj/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhupkai並擊/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupkai_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhupkai_fixed/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhupkai_sentence/g" ./xhupkai_bj.schema.yaml
 
@@ -302,7 +302,7 @@ cp moran.schema.yaml xhupkai.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhupkai/g" ./xhupkai.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhupkai/g" ./xhupkai.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupkai.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhupkai_fixed/g" ./xhupkai.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhupkai_sentence/g" ./xhupkai.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhupkai.schema.yaml
@@ -325,7 +325,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhupkai_bj/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhupkai並擊/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupkai_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupkai = moran + xhup + moranshape + ice/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhupkai_fixed/g" ./xhupkai_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhupkai_sentence/g" ./xhupkai_bj.schema.yaml
 

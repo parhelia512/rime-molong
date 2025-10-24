@@ -25,13 +25,16 @@ cp ./rime-moran/tools/data/zrmdb.txt ./tools-additional
 sed -i 's/ /\t/g' ./tools-additional/zrmdb.txt
 
 # 生成簡體
-cd ./xhloopkai-cht/
-sed -i "s/^git archive HEAD -o archive.tar/tar -cvf archive.tar .\//g" ./make_simp_dist.sh
-sed -i "s/^cp 下载与安装说明/# cp 下载与安装说明/g" ./make_simp_dist.sh
-sed -i "s/^sedi 's\/MORAN_VARIANT\/简体\/'/# sedi 's\/MORAN_VARIANT\/简体\/'/g" ./make_simp_dist.sh
-sed -i 's/^7z a.*/cp -a .\/dist\/. ..\/xhloopkai-chs/g' ./make_simp_dist.sh
-bash -x ./make_simp_dist.sh
-cd ..
+cp -a ./rime-moran/. ./xhloopkai-chs
+
+rm -rf ./xhloopkai-chs/.git
+rm -rf ./xhloopkai-chs/.gitignore
+rm -rf ./xhloopkai-chs/README.md
+rm -rf ./xhloopkai-chs/README-en.md
+rm -rf ./xhloopkai-chs/.github/
+perl -CSAD -i -pe 's/(^.*ZRM-SPECIFIC)/# $1/' ./xhloopkai-chs/moran.yaml
+perl -0777 -i -pe 's/(  user_sentence_top:)\n(    __append:)\n(      __patch:)/$1\n# $2\n# $3/' ./xhloopkai-chs/moran.yaml
+# mv ./xhloopkai-chs/punctuation.yaml ./schema
 
 # 轉換詞庫
 cd ./tools-additional
@@ -242,7 +245,7 @@ cp moran.schema.yaml xhloopkai.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhloopkai/g" ./xhloopkai.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhloopkai/g" ./xhloopkai.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhloopkai.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhloopkai_fixed/g" ./xhloopkai.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhloopkai_sentence/g" ./xhloopkai.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhloopkai.schema.yaml
@@ -265,7 +268,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhloopkai_bj/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhloopkai並擊/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhloopkai_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhloopkai_fixed/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhloopkai_sentence/g" ./xhloopkai_bj.schema.yaml
 
@@ -299,7 +302,7 @@ cp moran.schema.yaml xhloopkai.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhloopkai/g" ./xhloopkai.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhloopkai/g" ./xhloopkai.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhloopkai.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhloopkai_fixed/g" ./xhloopkai.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhloopkai_sentence/g" ./xhloopkai.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhloopkai.schema.yaml
@@ -322,7 +325,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhloopkai_bj/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhloopkai並擊/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhloopkai_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhloopkai = moran + xhloop + moranshape + snow/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhloopkai_fixed/g" ./xhloopkai_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhloopkai_sentence/g" ./xhloopkai_bj.schema.yaml
 

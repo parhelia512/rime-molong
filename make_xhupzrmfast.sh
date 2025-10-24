@@ -9,7 +9,7 @@ rm -rf xhupzrmfast-chs
 rm -rf xhupzrmfast-cht
 
 # 生成繁體
-cp -a ./rime-moran/. ./xhupzrmfast-cht
+cp -a ./rime-moran-cht/. ./xhupzrmfast-cht
 
 rm -rf ./xhupzrmfast-cht/.git
 rm -rf ./xhupzrmfast-cht/.gitignore
@@ -25,13 +25,20 @@ perl -0777 -i -pe 's/(  user_sentence_top:)\n(    __append:)\n(      __patch:)/$
 # perl -CSAD -i -pe 's/(.\t[a-z]{2})\t.*/$1/' ./tools-additional/zrmfastdb.txt
 
 # 生成簡體
-cd ./xhupzrmfast-cht/
-sed -i "s/^git archive HEAD -o archive.tar/tar -cvf archive.tar .\//g" ./make_simp_dist.sh
-sed -i "s/^cp 下载与安装说明/# cp 下载与安装说明/g" ./make_simp_dist.sh
-sed -i "s/^sedi 's\/MORAN_VARIANT\/简体\/'/# sedi 's\/MORAN_VARIANT\/简体\/'/g" ./make_simp_dist.sh
-sed -i 's/^7z a.*/cp -a .\/dist\/. ..\/xhupzrmfast-chs/g' ./make_simp_dist.sh
-bash -x ./make_simp_dist.sh
-cd ..
+cp -a ./rime-moran-chs/. ./xhupzrmfast-chs
+
+rm -rf ./xhupzrmfast-chs/.git
+rm -rf ./xhupzrmfast-chs/.gitignore
+rm -rf ./xhupzrmfast-chs/README.md
+rm -rf ./xhupzrmfast-chs/README-en.md
+rm -rf ./xhupzrmfast-chs/.github/
+perl -CSAD -i -pe 's/(^.*ZRM-SPECIFIC)/# $1/' ./xhupzrmfast-chs/moran.yaml
+perl -0777 -i -pe 's/(  user_sentence_top:)\n(    __append:)\n(      __patch:)/$1\n# $2\n# $3/' ./xhupzrmfast-chs/moran.yaml
+# mv ./xhupzrmfast-chs/punctuation.yaml ./schema
+# cp ./rime-shuangpin-fuzhuma/opencc/moqi_chaifen.txt ./xhupzrmfast-chs/opencc/moran_chaifen.txt
+# sed -i -E 's/^(\S+)\t(\S+)\t(.+)$/\1\t〔\3\2〕/' ./xhupzrmfast-chs/opencc/moran_chaifen.txt
+# cp ./rime-shuangpin-fuzhuma/moqima8105.txt ./tools-additional/zrmfastdb.txt
+# perl -CSAD -i -pe 's/(.\t[a-z]{2})\t.*/$1/' ./tools-additional/zrmfastdb.txt
 
 # 轉換詞庫
 cd ./tools-additional
@@ -242,7 +249,7 @@ cp moran.schema.yaml xhupzrmfast.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhupzrmfast/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhupzrmfast/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupzrmfast.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhupzrmfast_fixed/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhupzrmfast_sentence/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhupzrmfast.schema.yaml
@@ -265,7 +272,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhupzrmfast_bj/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhupzrmfast並擊/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupzrmfast_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhupzrmfast_fixed/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhupzrmfast_sentence/g" ./xhupzrmfast_bj.schema.yaml
 
@@ -299,7 +306,7 @@ cp moran.schema.yaml xhupzrmfast.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhupzrmfast/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhupzrmfast/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupzrmfast.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhupzrmfast_fixed/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhupzrmfast_sentence/g" ./xhupzrmfast.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhupzrmfast.schema.yaml
@@ -322,7 +329,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhupzrmfast_bj/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhupzrmfast並擊/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupzrmfast_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupzrmfast = moran + xhup + moqi + ice/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhupzrmfast_fixed/g" ./xhupzrmfast_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhupzrmfast_sentence/g" ./xhupzrmfast_bj.schema.yaml
 

@@ -9,7 +9,7 @@ rm -rf morankai-chs
 rm -rf morankai-cht
 
 # 生成繁體
-cp -a ./rime-moran/. ./morankai-cht
+cp -a ./rime-moran-cht/. ./morankai-cht
 
 rm -rf ./morankai-cht/.git
 rm -rf ./morankai-cht/.gitignore
@@ -25,13 +25,16 @@ cp ./rime-moran/tools/data/zrmdb.txt ./tools-additional
 sed -i 's/ /\t/g' ./tools-additional/zrmdb.txt
 
 # 生成簡體
-cd ./morankai-cht/
-sed -i "s/^git archive HEAD -o archive.tar/tar -cvf archive.tar .\//g" ./make_simp_dist.sh
-sed -i "s/^cp 下载与安装说明/# cp 下载与安装说明/g" ./make_simp_dist.sh
-sed -i "s/^sedi 's\/MORAN_VARIANT\/简体\/'/# sedi 's\/MORAN_VARIANT\/简体\/'/g" ./make_simp_dist.sh
-sed -i 's/^7z a.*/cp -a .\/dist\/. ..\/morankai-chs/g' ./make_simp_dist.sh
-bash -x ./make_simp_dist.sh
-cd ..
+cp -a ./rime-moran-chs/. ./morankai-chs
+
+rm -rf ./morankai-chs/.git
+rm -rf ./morankai-chs/.gitignore
+rm -rf ./morankai-chs/README.md
+rm -rf ./morankai-chs/README-en.md
+rm -rf ./morankai-chs/.github/
+# perl -CSAD -i -pe 's/(^.*ZRM-SPECIFIC)/# $1/' ./morankai-chs/moran.yaml
+# mv ./morankai-chs/key_bindings.yaml ./schema
+# mv ./morankai-chs/punctuation.yaml ./schema
 
 # 轉換詞庫
 cd ./tools-additional
@@ -242,7 +245,7 @@ cp moran.schema.yaml morankai.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: morankai/g" ./morankai.schema.yaml
 sed -i "s/^  name: 魔然$/  name: morankai/g" ./morankai.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./morankai.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai.schema.yaml
 sed -i "s/^    - moran_fixed$/    - morankai_fixed/g" ./morankai.schema.yaml
 sed -i "s/^    - moran_sentence$/    - morankai_sentence/g" ./morankai.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./morankai.schema.yaml
@@ -265,7 +268,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: morankai_bj/g" ./morankai_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: morankai並擊/g" ./morankai_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./morankai_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - morankai_fixed/g" ./morankai_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - morankai_sentence/g" ./morankai_bj.schema.yaml
 
@@ -299,7 +302,7 @@ cp moran.schema.yaml morankai.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: morankai/g" ./morankai.schema.yaml
 sed -i "s/^  name: 魔然$/  name: morankai/g" ./morankai.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./morankai.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai.schema.yaml
 sed -i "s/^    - moran_fixed$/    - morankai_fixed/g" ./morankai.schema.yaml
 sed -i "s/^    - moran_sentence$/    - morankai_sentence/g" ./morankai.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./morankai.schema.yaml
@@ -322,7 +325,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: morankai_bj/g" ./morankai_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: morankai並擊/g" ./morankai_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./morankai_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    morankai = moran + zrm + moranshape + ice/g" ./morankai_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - morankai_fixed/g" ./morankai_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - morankai_sentence/g" ./morankai_bj.schema.yaml
 

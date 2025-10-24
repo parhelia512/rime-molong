@@ -9,7 +9,7 @@ rm -rf xhupmoqi-chs
 rm -rf xhupmoqi-cht
 
 # 生成繁體
-cp -a ./rime-moran/. ./xhupmoqi-cht
+cp -a ./rime-moran-cht/. ./xhupmoqi-cht
 
 rm -rf ./xhupmoqi-cht/.git
 rm -rf ./xhupmoqi-cht/.gitignore
@@ -25,13 +25,20 @@ cp ./rime-shuangpin-fuzhuma/opencc/moqi_chaifen.txt ./tools-additional/moqidb.tx
 perl -CSAD -i -pe 's/(.*\t[a-z]{2})\t.*/$1/' ./tools-additional/moqidb.txt
 
 # 生成簡體
-cd ./xhupmoqi-cht/
-sed -i "s/^git archive HEAD -o archive.tar/tar -cvf archive.tar .\//g" ./make_simp_dist.sh
-sed -i "s/^cp 下载与安装说明/# cp 下载与安装说明/g" ./make_simp_dist.sh
-sed -i "s/^sedi 's\/MORAN_VARIANT\/简体\/'/# sedi 's\/MORAN_VARIANT\/简体\/'/g" ./make_simp_dist.sh
-sed -i 's/^7z a.*/cp -a .\/dist\/. ..\/xhupmoqi-chs/g' ./make_simp_dist.sh
-bash -x ./make_simp_dist.sh
-cd ..
+cp -a ./rime-moran-chs/. ./xhupmoqi-chs
+
+rm -rf ./xhupmoqi-chs/.git
+rm -rf ./xhupmoqi-chs/.gitignore
+rm -rf ./xhupmoqi-chs/README.md
+rm -rf ./xhupmoqi-chs/README-en.md
+rm -rf ./xhupmoqi-chs/.github/
+perl -CSAD -i -pe 's/(^.*ZRM-SPECIFIC)/# $1/' ./xhupmoqi-chs/moran.yaml
+perl -0777 -i -pe 's/(  user_sentence_top:)\n(    __append:)\n(      __patch:)/$1\n# $2\n# $3/' ./xhupmoqi-chs/moran.yaml
+# mv ./xhupmoqi-chs/punctuation.yaml ./schema
+cp ./rime-shuangpin-fuzhuma/opencc/moqi_chaifen.txt ./xhupmoqi-chs/opencc/moran_chaifen.txt
+sed -i -E 's/^(\S+)\t(\S+)\t(.+)$/\1\t〔\3\2〕/' ./xhupmoqi-chs/opencc/moran_chaifen.txt
+cp ./rime-shuangpin-fuzhuma/opencc/moqi_chaifen.txt ./tools-additional/moqidb.txt # && sed -i '0,/\.\.\./d' ./tools-additional/moqidb.txt
+perl -CSAD -i -pe 's/(.*\t[a-z]{2})\t.*/$1/' ./tools-additional/moqidb.txt
 
 # 轉換詞庫
 cd ./tools-additional
@@ -242,7 +249,7 @@ cp moran.schema.yaml xhupmoqi.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhupmoqi/g" ./xhupmoqi.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhupmoqi/g" ./xhupmoqi.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupmoqi.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhupmoqi_fixed/g" ./xhupmoqi.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhupmoqi_sentence/g" ./xhupmoqi.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhupmoqi.schema.yaml
@@ -265,7 +272,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhupmoqi_bj/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhupmoqi並擊/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupmoqi_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhupmoqi_fixed/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhupmoqi_sentence/g" ./xhupmoqi_bj.schema.yaml
 
@@ -299,7 +306,7 @@ cp moran.schema.yaml xhupmoqi.schema.yaml
 sed -i "s/^  schema_id: moran$/  schema_id: xhupmoqi/g" ./xhupmoqi.schema.yaml
 sed -i "s/^  name: 魔然$/  name: xhupmoqi/g" ./xhupmoqi.schema.yaml
 sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupmoqi.schema.yaml
-sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi.schema.yaml
+sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi.schema.yaml
 sed -i "s/^    - moran_fixed$/    - xhupmoqi_fixed/g" ./xhupmoqi.schema.yaml
 sed -i "s/^    - moran_sentence$/    - xhupmoqi_sentence/g" ./xhupmoqi.schema.yaml
 sed -i "s/^\(    - zrlf\)$/\1\n    - radical/g" ./xhupmoqi.schema.yaml
@@ -322,7 +329,7 @@ sed -i "s/^    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選�
 # sed -i "s/^  schema_id: moran_bj$/  schema_id: xhupmoqi_bj/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^  name: 魔然·並擊G$/  name: xhupmoqi並擊/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^\(    - 方案製作：ksqsf\)$/\1\n    - Integrator：jack2game/g" ./xhupmoqi_bj.schema.yaml
-# sed -i "s/^    爲傳承字設計的自然碼及輔助碼智能整句輸入方案。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi_bj.schema.yaml
+# sed -i "s/^    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。$/    xhupmoqi = moran + xhup + moqi + ice/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^    - moran_fixed$/    - xhupmoqi_fixed/g" ./xhupmoqi_bj.schema.yaml
 # sed -i "s/^    - moran_sentence$/    - xhupmoqi_sentence/g" ./xhupmoqi_bj.schema.yaml
 
