@@ -7,7 +7,7 @@ schema:
     - 方案製作：ksqsf
     - Integrator：jack2game
   description: |
-    基於自然碼和輔助碼的智能整句輸入方案，該方案含有固頂簡快碼。
+    xhupkai = moran + xhup + moranshape + ice
   dependencies:
     - xhupkai_fixed
     - xhupkai_sentence

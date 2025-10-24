@@ -105,8 +105,8 @@ sort: by_weight
 吃比萨	ii;kq pi;bb sa;ci
 说服	uo;yd fu;oy
 说服	uv;yd fu;oy
-道行	dk;zu hg;xd
-道行	dk;zu hh;xd
+道行	dk;zu hg;xi
+道行	dk;zu hh;xi
 模样	mu;mm yh;my
 模样	mo;mm yh;my
 有模有样	yb;ou mu;mm yb;ou yh;my
@@ -165,8 +165,8 @@ sort: by_weight
 草薙剑	ck;cz vi;cv jm;da
 贾平凹	jw;bx py;aa wa;aa
 贾平凹	jw;bx py;aa ao;aa
-雪佛兰	xt;yx fu;rf lj;bs
-雪佛兰	xt;yx fo;rf lj;bs
+雪佛兰	xt;yx fu;rf lj;qe
+雪佛兰	xt;yx fo;rf lj;qe
 强劲	qd;gs jy;lg
 强劲	qd;gs jn;lg
 胴体	ds;ot ti;rb
@@ -191,8 +191,8 @@ sort: by_weight
 螺蛳粉	lo;il ui;iu ff;mf
 调换	dc;yv hr;fh
 调换	tc;yv hr;fh
-太行山	tl;dd hh;xd uj;aa
-太行山	tl;dd xy;xd uj;aa
+太行山	tl;dd hh;xi uj;aa
+太行山	tl;dd xy;xi uj;aa
 歇斯底里	xx;qh si;jq di;gd li;aa
 歇斯底里	jx;qh si;jq di;gd li;aa
 发酵	fa;ay jc;yx
@@ -261,10 +261,10 @@ sort: by_weight
 南京市六合区	nj;ua jy;wx ui;wj lq;wb he;rk qu;ki
 偌大	ro;rr da;ad
 偌大	no;rr da;ad
-饮鸩止渴	yn;uq vf;na vi;aa ke;dh
-饮鸩止渴	yn;uq jq;na vi;aa ke;dh
-饮鸩解渴	yn;uq vf;na jx;jn ke;dh
-饮鸩解渴	yn;uq jq;na jx;jn ke;dh
+饮鸩止渴	yn;uq vf;ng vi;aa ke;dh
+饮鸩止渴	yn;uq jq;ng vi;aa ke;dh
+饮鸩解渴	yn;uq vf;ng jx;jn ke;dh
+饮鸩解渴	yn;uq jq;ng jx;jn ke;dh
 宫商角徵羽	gs;bl uh;wk jt;dy vi;xw yu;xx
 宫商角徵羽	gs;bl uh;wk jc;dy vi;xw yu;xx
 氙气灯	xm;qu qi;py dg;hd
@@ -367,16 +367,16 @@ sort: by_weight
 解剖	jx;jn pk;dk
 剖分	pb;dk ff;bd
 剖分	pk;dk ff;bd
-剖腹产	pb;dk fu;of ij;dp
-剖腹产	pk;dk fu;of ij;dp
-剖宫产	pb;dk gs;bl ij;dp
-剖宫产	pk;dk gs;bl ij;dp
+剖腹产	pb;dk fu;of ij;wp
+剖腹产	pk;dk fu;of ij;wp
+剖宫产	pb;dk gs;bl ij;wp
+剖宫产	pk;dk gs;bl ij;wp
 金匮	jn;ra gv;kg
 金匮	jn;ra kv;kg
 清平乐	qy;dq py;aa yt;pd
 清平乐	qy;dq py;aa le;pd
-踏莎行	ta;zt so;cu xy;xd
-踏莎行	ta;zt ua;cu xy;xd
+踏莎行	ta;zt so;cu xy;xi
+踏莎行	ta;zt ua;cu xy;xi
 莎草	so;cu ck;cz
 莎草	ua;cu ck;cz
 杉木	ua;mp mu;ad
@@ -495,7 +495,7 @@ sort: by_weight
 两个入
 两个习
 两个卪	ld;ad ge;ra jx;ed
-两个㔾	ld;ad ge;ra jx;aa
+两个㔾	ld;ad ge;ra jx;gg
 两个几
 两个乙
 两个夫
@@ -566,7 +566,7 @@ sort: by_weight
 两个豕
 两个𠂢	ld;ad ge;ra pl;pp
 两个畐	ld;ad ge;ra fu;at
-两个㣇	ld;ad ge;ra yi;jj
+两个㣇	ld;ad ge;ra yi;jp
 两个邑
 两个尧	ld;ad ge;ra yk;gw
 两个秉
@@ -656,7 +656,7 @@ sort: by_weight
 三个𠙽	sj;aa ge;ra ky;ku
 三个𠧪	sj;aa ge;ra tc;br
 三个𠧪	sj;aa ge;ra yb;br
-三个㔾	sj;aa ge;ra jx;aa
+三个㔾	sj;aa ge;ra jx;gg
 三个厡	sj;aa ge;ra yr;iq
 三个可
 三个因
@@ -701,7 +701,7 @@ sort: by_weight
 三个门	sj;aa ge;ra mf;dg
 三个面
 三个页	sj;aa ge;ra ye;ab
-三个鸟	sj;aa ge;ra nc;na
+三个鸟	sj;aa ge;ra nc;pa
 三个男
 三个立
 三个九
