@@ -9,7 +9,7 @@ rm -rf xhloopkai-chs
 rm -rf xhloopkai-cht
 
 # 生成繁體
-cp -a ./rime-moran/. ./xhloopkai-cht
+cp -a ./rime-moran-cht/. ./xhloopkai-cht
 
 rm -rf ./xhloopkai-cht/.git
 rm -rf ./xhloopkai-cht/.gitignore
@@ -25,7 +25,7 @@ cp ./rime-moran/tools/data/zrmdb.txt ./tools-additional
 sed -i 's/ /\t/g' ./tools-additional/zrmdb.txt
 
 # 生成簡體
-cp -a ./rime-moran/. ./xhloopkai-chs
+cp -a ./rime-moran-chs/. ./xhloopkai-chs
 
 rm -rf ./xhloopkai-chs/.git
 rm -rf ./xhloopkai-chs/.gitignore
