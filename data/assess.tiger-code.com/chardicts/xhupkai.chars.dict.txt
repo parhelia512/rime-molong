@@ -27318,7 +27318,6 @@
 瓨	xL;wg	0
 瓨	vU;gw	390
 瓨	vU;wg	390
-瓩	qM;wa	333
 瓩	qM;wq	333
 瓪	bJ;wf	279
 瓫	pF;wf	240
@@ -100095,7 +100094,7 @@
 𫜮	yJ;iy	0
 𫜯	jX;ih	0
 𫜯	jP;ih	0
-𫜰	yA;xi	0
+𫜰	yA;ix	0
 𫜲	lS;yl	0
 𫜳	rJ;gr	0
 𫜳	rJ;rg	0

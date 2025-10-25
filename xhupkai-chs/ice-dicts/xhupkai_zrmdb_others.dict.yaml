@@ -5,7 +5,7 @@
 # ------- 一些杂项，按需选择 -------
 ---
 name: others
-version: "2025-10-01"
+version: "2025-10-20"
 sort: by_weight
 ...
 ##### 容错词
@@ -391,6 +391,8 @@ sort: by_weight
 暴殄天物	bc;ou lm;dp tm;ad wu;nw
 甑糕	zg;wc gc;mg
 甑糕	jk;wc gc;mg
+着想	vo;yo xl;xx
+着想	vc;yo xl;xx
 ### 错字
 曾经	cg;ob jk;sg
 曾今	cg;ob jb;ra

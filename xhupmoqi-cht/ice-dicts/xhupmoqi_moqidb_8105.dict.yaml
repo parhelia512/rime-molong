@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-10-01"
+version: "2025-10-20"
 sort: by_weight
 ...
 ### 按需启用
@@ -64,6 +64,7 @@ sort: by_weight
 氽	ty;ru	1
 雫	xx;yx	1
 咲	xn;kt	1
+蓺	yi;cw	1
 鱊	yu;yk	1
 跩	vk;zy	1
 # 注释掉的这几行已经加入到下面并调整到合适的权重了
@@ -1598,9 +1599,9 @@ sort: by_weight
 砝	fa;uq	1734
 琺	fa;wq	878
 垡	fa;rt	79
+翻	fj;cx	1391454
 反	fj;iy	1250683
 飯	fj;uy	592046
-翻	fj;cx	391454
 煩	fj;hy	350929
 凡	fj;jd	320342
 犯	fj;qv	254131
